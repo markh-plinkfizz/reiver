@@ -2286,7 +2286,7 @@ input[type='checkbox'] {
 
 @media screen and (min-width: 990px) {
   .header{
-    row-gap: 5px;
+    row-gap: 2px;
   }
   .header__heading-link {
     margin-left: -0.75rem;
@@ -2305,6 +2305,7 @@ input[type='checkbox'] {
 
   .header_heading_container{
     background-color: #1d1d1b;
+    padding: 5px 0;
   }
 }
 

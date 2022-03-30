@@ -2282,6 +2282,9 @@ input[type='checkbox'] {
   .header__heading-link {
     text-align: center;
   }
+  .header__icon--cart .cart_text{
+    display: none;
+  }
 }
 
 @media screen and (min-width: 990px) {
@@ -2306,6 +2309,10 @@ input[type='checkbox'] {
   .header_heading_container{
     background-color: #1d1d1b;
     padding: 15px 0;
+  }
+
+  .header__icon--cart{
+      width: 8rem;
   }
 }
 

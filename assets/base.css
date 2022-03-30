@@ -2299,11 +2299,12 @@ input[type='checkbox'] {
     justify-self: center;
     text-align: center;
   }
+
+  .header_heading_container{
+    background-color: #1d1d1b;
+  }
 }
 
-.header_heading_container{
-  background-color: #1d1d1b;
-}
 
 /* Header icons */
 .header__icons {

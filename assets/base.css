@@ -2203,13 +2203,13 @@ input[type='checkbox'] {
   grid-template-areas: 'left-icon heading icons';
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-  padding-top: 10px;
-  padding-bottom: 1rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 @media screen and (min-width: 990px) {
   .header {
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 2rem;
   }
 
@@ -2286,7 +2286,7 @@ input[type='checkbox'] {
 
 @media screen and (min-width: 990px) {
   .header{
-    row-gap: 10px;
+    row-gap: 5px;
   }
   .header__heading-link {
     margin-left: -0.75rem;

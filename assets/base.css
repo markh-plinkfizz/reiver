@@ -2192,7 +2192,6 @@ input[type='checkbox'] {
   display: block;
   position: relative;
   background-color: #383837;
-  
 }
 
 .header-wrapper--border-bottom {
@@ -2252,9 +2251,14 @@ input[type='checkbox'] {
   line-height: 0;
 }
 
+.header_heading_container{
+  grid-area: heading;
+  display: flex;
+  justify-content: center;
+}
+
 .header__heading,
 .header__heading-link {
-  grid-area: heading;
   justify-self: center;
 }
 

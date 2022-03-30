@@ -2253,7 +2253,6 @@ input[type='checkbox'] {
   grid-area: heading;
   display: flex;
   justify-content: center;
-  background-color: #1d1d1b;
 }
 
 .header__heading,
@@ -2304,6 +2303,10 @@ input[type='checkbox'] {
     justify-self: center;
     text-align: center;
   }
+}
+
+.header_heading_container{
+  background-color: #1d1d1b;
 }
 
 /* Header icons */

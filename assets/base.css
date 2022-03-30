@@ -2607,10 +2607,10 @@ details[open] > .header__submenu {
   display: inline-block;
   margin-left: 10px;
 }
-.header__inline-menu .li:last-of-type{
+.header__inline-menu li:last-of-type{
   height: 500px;
 }
-.header__inline-menu .li:last-of-type .header__menu-item::after{
+.header__inline-menu li:last-of-type .header__menu-item::after{
   padding-top: 1px;
 }
 

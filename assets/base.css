@@ -2233,7 +2233,7 @@ input[type='checkbox'] {
 
   .header--top-center {
     grid-template-areas:
-      'left-icon navigation icons'
+      'left-icon heading icons'
       'navigation navigation navigation';
   }
 

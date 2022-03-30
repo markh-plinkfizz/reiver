@@ -2586,7 +2586,7 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item:hover {
-  color: #d3d3d3;
+  color: #f0f0f0;
 }
 
 .header__menu-item span {
@@ -2620,6 +2620,7 @@ details[open] > .header__menu-item .icon-caret {
 .header__menu-item:hover .header__active-menu-item {
   text-decoration-thickness: 0.2rem;
 }
+
 
 .header__submenu {
   transition: opacity var(--duration-default) ease,

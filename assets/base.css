@@ -2207,6 +2207,7 @@ input[type='checkbox'] {
   padding-bottom: 1rem;
   width: 90%;
   margin: auto;
+  background-color: #383837;
 }
 
 @media screen and (min-width: 990px) {

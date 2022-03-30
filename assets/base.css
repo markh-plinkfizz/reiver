@@ -2312,7 +2312,7 @@ input[type='checkbox'] {
   }
 
   .header__icon--cart .icon{
-      width: 8rem;
+      width: 8rem !important;
   }
 }
 

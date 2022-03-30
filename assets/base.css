@@ -2269,7 +2269,7 @@ input[type='checkbox'] {
 }
 
 .header__heading-link:hover .h2 {
-  color: rgb(var(--color-foreground));
+  color: #383837;
 }
 
 .header__heading-link .h2 {

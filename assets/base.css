@@ -2582,11 +2582,11 @@ details[open] > .header__submenu {
 .header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
-  color: rgba(var(--color-foreground), 0.75);
+  color: #f0f0f0;
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: #d3d3d3;
 }
 
 .header__menu-item span {

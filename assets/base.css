@@ -2225,16 +2225,9 @@ input[type='checkbox'] {
     grid-template-columns: 1fr auto;
   }
 
-  .header--middle-left {
-    grid-template-areas: 'heading navigation icons';
-    grid-template-columns: auto auto 1fr;
-    column-gap: 2rem;
-  }
-
   .header--top-center {
     grid-template-areas:
-      'left-icon heading icons'
-      'navigation navigation navigation';
+      'left-icon navigation icons';
   }
 
   .header:not(.header--middle-left) .header__inline-menu {

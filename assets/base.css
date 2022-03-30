@@ -2314,6 +2314,12 @@ input[type='checkbox'] {
   .header__icon--cart{
       width: 8rem !important;
   }
+
+  .header__icon--cart .cart_text{
+    display: inline-block;
+    color: #f0f0f0;
+    text-decoration: none;
+  }
 }
 
 

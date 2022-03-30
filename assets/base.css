@@ -2311,7 +2311,7 @@ input[type='checkbox'] {
     padding: 15px 0;
   }
 
-  .header__icon--cart{
+  .header__icon--cart .icon{
       width: 8rem;
   }
 }

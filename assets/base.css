@@ -2230,10 +2230,6 @@ input[type='checkbox'] {
       'left-icon navigation icons'
       'heading heading heading';
   }
-
-  .header:not(.header--middle-left) .header__inline-menu {
-    margin-top: 1.05rem;
-  }
 }
 
 .header *[tabindex='-1']:focus {

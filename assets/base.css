@@ -2607,6 +2607,9 @@ details[open] > .header__submenu {
   display: inline-block;
   margin-left: 10px;
 }
+.header__menu-item:last-of-type::after{
+  display: none;
+}
 
 .header__menu-item:hover {
   color: #f0f0f0;

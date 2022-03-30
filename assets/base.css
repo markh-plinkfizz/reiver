@@ -2319,6 +2319,10 @@ input[type='checkbox'] {
     color: #f0f0f0;
     text-decoration: none;
   }
+
+  .header__icon--cart:hover .cart_text{
+    text-decoration: underline;
+  }
 }
 
 

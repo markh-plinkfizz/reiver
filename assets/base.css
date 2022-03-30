@@ -2312,6 +2312,7 @@ input[type='checkbox'] {
   grid-area: icons;
   justify-self: end;
   padding-right: 30px;
+  color: #f0f0f0;
 }
 
 .header__icon:not(.header__icon--summary),
@@ -2391,6 +2392,7 @@ menu-drawer + .header__search {
   display: inline-flex;
   line-height: 0;
   padding-left: 25px;
+  color: #f0f0f0;
 }
 
 .header--top-center > .header__search {

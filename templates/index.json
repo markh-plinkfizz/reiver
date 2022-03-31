@@ -36,8 +36,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/rack-of-womens-clothing.jpg",
-        "image_overlay_color": "#121212",
-        "image_overlay_opacity": 80,
+        "image_overlay_color": "#911f1f",
+        "image_overlay_opacity": 70,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",

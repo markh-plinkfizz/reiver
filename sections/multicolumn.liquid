@@ -23,8 +23,8 @@
       row-gap: {{ section.settings.row_gap }}px !important;
     }
 	.section-{{ section.id }}-padding .multicolumn-list__item{
-      width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap }}px) !important;
-      max-width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap }}px) !important;
+      width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: section.settings.columns_desktop | times: section.settings.columns_desktop | minus: 1 }}) !important;
+      max-width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap }}) !important;
     }
   }
 {%- endstyle -%}

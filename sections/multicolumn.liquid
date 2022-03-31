@@ -15,9 +15,9 @@
     }
 	.section-{{ section.id }}-padding .multicolumn-card__image-wrapper{
       margin: 100px;
-      {% unless section.settings.full_width_images_columns %}
+      {% if section.settings.full_width_images_columns %}
         margin: 0;
-      {% endunless %}
+      {% endif %}
     }
   }
 {%- endstyle -%}

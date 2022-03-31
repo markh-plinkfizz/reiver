@@ -244,7 +244,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "background_color": "#e22120",
+        "background_color": "#000000",
         "text_color": "#ffffff",
         "columns_mobile": "1",
         "swipe_on_mobile": false,

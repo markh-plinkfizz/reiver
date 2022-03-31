@@ -23,12 +23,13 @@
       row-gap: {{ section.settings.row_gap }}px !important;
     }
 	.section-{{ section.id }}-padding .multicolumn-list__item{
+	  {% comment %}{% endcomment %}
 	  {% assign columns_minus_one = section.settings.columns_desktop | minus: 1 | times: 1.0 %}
 	  {% assign columns_factor = section.settings.columns_desktop | divided_by: columns_minus_one %}
       width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
       max-width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
 	}
-}
+  }
 {%- endstyle -%}
 
 {%- liquid
@@ -219,7 +220,7 @@
       "type": "range",
       "id": "columns_desktop",
       "min": 1,
-      "max": 10,
+      "max": 6,
       "step": 1,
       "default": 3,
       "label": "t:sections.multicolumn.settings.columns_desktop.label"

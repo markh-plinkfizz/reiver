@@ -28,7 +28,8 @@
       width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
       max-width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
 	test1: {{section.settings.columns_desktop }}	  
-	test2: {{ columns_minus_one }}      
+	test2: {{ columns_minus_one }} 
+	test3: {{ columns_factor }} 
 	}
   }
 {%- endstyle -%}

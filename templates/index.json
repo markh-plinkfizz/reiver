@@ -35,7 +35,9 @@
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/rack-of-womens-clothing.jpg",
+        "image_overlay_color": "#911f1f",
+        "image_overlay_opacity": 70,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -45,6 +47,102 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "16487155745a6d60f5": {
+      "type": "image-banner",
+      "blocks": {
+        "1648715574414fd41e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1648715574414fd41e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1648715574414fd41e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1648715574414fd41e-0",
+        "1648715574414fd41e-1",
+        "1648715574414fd41e-2"
+      ],
+      "settings": {
+        "image_overlay_color": "#b49513",
+        "image_overlay_opacity": 70,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "164871596708d22305": {
+      "type": "image-banner",
+      "blocks": {
+        "1648715967edc58411-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1648715967edc58411-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1648715967edc58411-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1648715967edc58411-0",
+        "1648715967edc58411-1",
+        "1648715967edc58411-2"
+      ],
+      "settings": {
+        "image_overlay_color": "#224dd7",
+        "image_overlay_opacity": 80,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text": {
@@ -208,6 +306,8 @@
   },
   "order": [
     "image_banner",
+    "16487155745a6d60f5",
+    "164871596708d22305",
     "rich_text",
     "featured_collection",
     "collage",

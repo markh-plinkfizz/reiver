@@ -235,7 +235,7 @@
         "851c02cf-e79b-4f15-bd39-e5fd84dd2722"
       ],
       "settings": {
-        "title": "test",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -246,7 +246,7 @@
         "button_link": "",
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "full_page_width": true,
         "full_width_images_columns": true,
@@ -370,8 +370,8 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "background_color": "",
-        "text_color": "",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "full_page_width": false,

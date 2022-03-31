@@ -98,7 +98,7 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true,
+        "show_text_below": false,
         "image_banner_top_padding": 0,
         "image_banner_bottom_padding": 10,
         "image_banner_bottom_padding_color": "#000000"

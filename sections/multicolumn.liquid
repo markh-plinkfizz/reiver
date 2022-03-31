@@ -9,6 +9,9 @@
     background-color: {{ section.settings.background_color }};
     color: {{ section.settings.text_color }} !important;
   }
+  .section-{{ section.id }}-padding h2{
+    color: {{ section.settings.text_color }} !important;
+  }
 
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {

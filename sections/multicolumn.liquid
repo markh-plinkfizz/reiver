@@ -21,6 +21,8 @@
     .section-{{ section.id }}-padding .multicolumn-list{
       column-gap: {{ section.settings.column_gap }}px !important;
       row-gap: {{ section.settings.row_gap }}px !important;
+    }
+    .section-{{ section.id }}-padding .multicolumn-list__item{
       width: calc({{ 100 | divided_by: number section.settings.columns_desktop }}% - {{ section.settings.column_gap }}) !important;
       max-width: calc({{ 100 | divided_by: number section.settings.columns_desktop }}% - {{ section.settings.column_gap }}) !important;
     }

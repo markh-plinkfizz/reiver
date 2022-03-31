@@ -29,6 +29,7 @@
     background-color: {{ section.settings.image_overlay_color }};
   }
   #Banner_Container-{{ section.id }} {
+    padding-top: {{ section.settings.image_banner_top_padding }}px;
     padding-bottom: {{ section.settings.image_banner_bottom_padding }}px;
     background-color: {{ section.settings.image_banner_bottom_padding_color }};
   }
@@ -283,6 +284,16 @@
     {
       "type": "header",
       "content": "Padding Options"
+    },
+    {
+      "type": "range",
+      "id": "image_banner_top_padding",
+      "min": 0,
+      "max": 50,
+      "step": 1,
+      "unit": "px",
+      "label": "Top Padding",
+      "default": 0
     },
     {
       "type": "range",

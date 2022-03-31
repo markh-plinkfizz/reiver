@@ -24,6 +24,7 @@
     }
 	.section-{{ section.id }}-padding .multicolumn-list__item{
       width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap }}) !important;
+      max-width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap }}) !important;
     }
   }
 {%- endstyle -%}

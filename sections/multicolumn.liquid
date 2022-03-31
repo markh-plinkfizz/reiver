@@ -13,6 +13,11 @@
       padding-top: {{ section.settings.padding_top }}px;
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
+    .section-{{ section.id }}-padding .multicolumn-card__image-wrapper{
+      {% unless section.settings.full_width_images_columns %}
+        margin: 0;
+      {% endunless %}
+    }
   }
 {%- endstyle -%}
 
@@ -25,7 +30,7 @@
 -%}
 
 <div class="multicolumn color-{{ section.settings.color_scheme }} gradient{% unless section.settings.background_style == 'none' and settings.text_boxes_border_thickness > 0 or settings.text_boxes_shadow_opacity > 0 %} background-{{ section.settings.background_style }}{% endunless %}{% if section.settings.title == blank %} no-heading{% endif %}">
-  <div class="{% unless section.settings.full_page_width %}page-width{% endunless %} section-{{ section.id }}-padding isolate">
+  <div class="{% unless section.settings.full_page_width_columns %}page-width{% endunless %} section-{{ section.id }}-padding isolate">
     {%- unless section.settings.title == blank -%}
       <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
         <h2 class="title {{ section.settings.heading_size }}">
@@ -316,10 +321,16 @@
     },
     {
       "type": "checkbox",
-      "id": "full_page_width",
+      "id": "full_page_width_columns",
       "default": false,
-      "label": "Full Page Width"
+      "label": "Full Page Width Columns"
     },
+    {
+      "type": "checkbox",
+      "id": "full_width_images_columns",
+      "default": false,
+      "label": "Full Width Images in Columns"
+    },  
     {
       "type": "range",
       "id": "padding_top",

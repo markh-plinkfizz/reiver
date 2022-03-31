@@ -246,7 +246,7 @@
         "button_link": "",
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "full_page_width": true,
         "full_width_images_columns": true,

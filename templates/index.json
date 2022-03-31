@@ -339,6 +339,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "4f297651-b6ce-4202-aa06-260e7170c1d7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -347,14 +357,15 @@
         "1648720595f4cd5920-2",
         "30f91ea6-274d-4445-a88c-30a8118923e3",
         "bbd515b9-de0e-4d1b-b452-e05c0fde5006",
-        "8d17d658-49bb-433d-b782-e5549eccd97d"
+        "8d17d658-49bb-433d-b782-e5549eccd97d",
+        "4f297651-b6ce-4202-aa06-260e7170c1d7"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 7,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",

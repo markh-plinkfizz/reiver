@@ -27,7 +27,8 @@
 	  {% assign columns_factor = section.settings.columns_desktop | divided_by: columns_minus_one %}
       width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
       max-width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
-    }
+	  height: {{ columns_factor }}      
+	}
   }
 {%- endstyle -%}
 

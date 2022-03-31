@@ -105,7 +105,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "desktop_2_row_color": "#ff0000",
           "logo_width": 90,
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",

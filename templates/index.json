@@ -97,8 +97,8 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true,
-        "image_banner_bottom_padding": 0,
-        "image_banner_bottom_padding_color": ""
+        "image_banner_bottom_padding": 10,
+        "image_banner_bottom_padding_color": "#000000"
       }
     },
     "164871596708d22305": {
@@ -147,8 +147,8 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true,
-        "image_banner_bottom_padding": 14,
-        "image_banner_bottom_padding_color": ""
+        "image_banner_bottom_padding": 10,
+        "image_banner_bottom_padding_color": "#000000"
       }
     },
     "rich_text": {
@@ -246,6 +246,94 @@
         "padding_bottom": 36
       }
     },
+    "16487208320bc88b26": {
+      "type": "rich-text",
+      "blocks": {
+        "164872083286744f8f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brands We Work With",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "164872083286744f8f-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1648720595578fb203": {
+      "type": "multicolumn",
+      "blocks": {
+        "1648720595f4cd5920-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1648720595f4cd5920-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1648720595f4cd5920-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "30f91ea6-274d-4445-a88c-30a8118923e3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1648720595f4cd5920-0",
+        "1648720595f4cd5920-1",
+        "1648720595f4cd5920-2",
+        "30f91ea6-274d-4445-a88c-30a8118923e3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -330,6 +418,8 @@
     "164871596708d22305",
     "rich_text",
     "multicolumn",
+    "16487208320bc88b26",
+    "1648720595578fb203",
     "featured_collection",
     "collage",
     "video"

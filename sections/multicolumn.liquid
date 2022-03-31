@@ -23,9 +23,10 @@
       row-gap: {{ section.settings.row_gap }}px !important;
     }
 	.section-{{ section.id }}-padding .multicolumn-list__item{
-	  {% comment %}{% endcomment %}
+	  {% comment %}set the size of each item accounting for the fact that the last item does not have a column gap times 1.0 to fix rounding issue{% endcomment %}
 	  {% assign columns_minus_one = section.settings.columns_desktop | minus: 1 | times: 1.0 %}
 	  {% assign columns_factor = section.settings.columns_desktop | divided_by: columns_minus_one %}
+	  {% comment %}(100% divided by number of columns) - (column gap adjusted for the last items lack of column){% endcomment %}
       width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
       max-width: calc({{ 100 | divided_by: section.settings.columns_desktop }}% - {{ section.settings.column_gap | divided_by: columns_factor }}px) !important;
 	}

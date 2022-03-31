@@ -24,10 +24,6 @@
 {%- endif -%}
 
 {%- style -%}
-  #Banner-{{ section.id }}::after {
-    opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
-    background-color: {{ section.settings.image_overlay_color }};
-  }
   #Banner-{{ section.id }} .banner__media::after {
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
     background-color: {{ section.settings.image_overlay_color }};

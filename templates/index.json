@@ -86,6 +86,7 @@
         "1648715574414fd41e-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
         "image_overlay_color": "#b49513",
         "image_overlay_opacity": 70,
         "image_height": "medium",
@@ -136,6 +137,7 @@
         "1648715967edc58411-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/silhouetted-couples-look-out-at-a-city-at-night.jpg",
         "image_overlay_color": "#224dd7",
         "image_overlay_opacity": 80,
         "image_height": "medium",

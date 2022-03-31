@@ -13,10 +13,14 @@
       padding-top: {{ section.settings.padding_top }}px;
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
-	.section-{{ section.id }}-padding .multicolumn-card__image-wrapper{
+    .section-{{ section.id }}-padding .multicolumn-card__image-wrapper{
       {% if section.settings.full_width_images_columns %}
         margin: 0 !important;
       {% endif %}
+    }
+    .section-{{ section.id }}-padding .multicolumn-list{
+      column-gap: {{ section.settings.column_gap }} !important;
+      row-gap: {{ section.settings.row_gap }} !important;
     }
   }
 {%- endstyle -%}
@@ -326,6 +330,26 @@
       "id": "full_width_images_columns",
       "default": false,
       "label": "Full Width Images in Columns"
+    },
+    {
+      "type": "range",
+      "id": "column_gap",
+      "min": 0,
+      "max": 50,
+      "step": 1,
+      "unit": "px",
+      "label": "Column Gap",
+      "default": 10
+    },
+    {
+      "type": "range",
+      "id": "row_gap",
+      "min": 0,
+      "max": 50,
+      "step": 1,
+      "unit": "px",
+      "label": "Row Gap",
+      "default": 10
     },
     {
       "type": "range",

@@ -26,7 +26,7 @@
 {%- style -%}
   #Banner-{{ section.id }}::after {
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
-    background-color: blue;
+    background-color: {{ section.settings.image_overlay_color }};
   }
 {%- endstyle -%}
 
@@ -100,7 +100,7 @@
     {
       "type": "color",
       "id": "image_overlay_color",
-      "label": "t:sections.image-banner.settings.image_overlay_color.label"
+      "label": "Overlay Color"
     },
     {
       "type": "range",

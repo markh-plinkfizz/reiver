@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/rack-of-womens-clothing.jpg",
         "image_overlay_color": "#911f1f",
-        "image_overlay_opacity": 70,
+        "image_overlay_opacity": 50,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -89,7 +89,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
         "image_overlay_color": "#b49513",
-        "image_overlay_opacity": 70,
+        "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -141,7 +141,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
         "image_overlay_color": "#224dd7",
-        "image_overlay_opacity": 80,
+        "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",

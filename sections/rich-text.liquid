@@ -36,6 +36,9 @@
             <a{% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
               {{ block.settings.button_label | escape }}
             </a>
+          {%- when 'image' -%}
+            got here
+            <img />
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -163,23 +166,32 @@
     {
       "type": "image",
       "name": "image",
+      "limit": 1,
       "settings": [
         {
-          "type": "text",
-          "id": "button_label",
-          "default": "Button label",
-          "label": "t:sections.rich-text.blocks.button.settings.button_label.label"
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
         },
         {
-          "type": "url",
-          "id": "button_link",
-          "label": "t:sections.rich-text.blocks.button.settings.button_link.label"
-        },
-        {
-          "type": "checkbox",
-          "id": "button_style_secondary",
-          "default": false,
-          "label": "t:sections.rich-text.blocks.button.settings.button_style_secondary.label"
+          "type": "select",
+          "id": "image_align",
+          "options": [
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "center",
+              "label": "Center"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ],
+          "default": "center",
+          "label": "Image Alignment"
         }
       ]
     }

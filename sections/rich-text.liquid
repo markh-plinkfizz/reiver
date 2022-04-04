@@ -38,9 +38,9 @@
             </a>
           {%- when 'image' -%}
             {%- if section.settings.image != blank -%}
-              <img src="{% section.settings.image %}" />
+              <img src="{{ section.settings.image }}" />
             {% endif %}
-            got here
+      		got here
         {%- endcase -%}
       {%- endfor -%}
     </div>

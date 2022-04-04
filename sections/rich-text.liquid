@@ -43,6 +43,14 @@
                 display: flex;
                 justify-content: {{ block.settings.image_align }};
               }
+              .rich_image_container{
+                width: 100%;
+                height: auto;
+                @media screen and (min-width: 750px) {
+                  width: {{ block.settings.image_width }};
+                  height: {{ block.settings.image_height}};
+                }
+              }
               {% endstyle %}
               <div class="rich_image_container">
                 <img src="{{ block.settings.image | image_url: width: block.settings.image_width, height: block.settings.image_height}}" />

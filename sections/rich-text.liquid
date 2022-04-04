@@ -38,7 +38,9 @@
             </a>
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}
-              <img src="{{ block.settings.image | image_url}}" />
+              <div class="rich_image_container">
+                <img src="{{ block.settings.image | image_url}}" />
+              </div>
             {% endif %}
       		got here
         {%- endcase -%}

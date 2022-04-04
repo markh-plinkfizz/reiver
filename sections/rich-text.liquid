@@ -43,12 +43,12 @@
                 display: flex;
                 justify-content: {{ block.settings.image_align }};
               }
-              .rich_image_container{
+              .rich_image_container img{
                 width: 100%;
                 height: auto;
                 @media screen and (min-width: 750px) {
-                  width: {{ block.settings.image_width }};
-                  height: {{ block.settings.image_height}};
+                  width: {{ block.settings.image_width }}px;
+                  height: {{ block.settings.image_height}}px;
                 }
               }
               {% endstyle %}

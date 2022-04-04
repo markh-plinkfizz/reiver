@@ -178,7 +178,8 @@
             "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
             "image_align": "center",
             "image_width": 360,
-            "image_height": 180
+            "image_height": 180,
+            "image_mobile_full_width": false
           }
         }
       },
@@ -193,6 +194,55 @@
         "full_width": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1649066276ac5fe578": {
+      "type": "rich-text",
+      "blocks": {
+        "16490662762e904919-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "16490662762e904919-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16490662762e904919-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16490662762e904919-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
+            "image_align": "flex-end",
+            "image_width": 100,
+            "image_height": 100,
+            "image_mobile_full_width": false
+          }
+        }
+      },
+      "block_order": [
+        "16490662762e904919-0",
+        "16490662762e904919-1",
+        "16490662762e904919-2",
+        "16490662762e904919-3"
+      ],
+      "settings": {
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn": {
@@ -470,6 +520,57 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1649066145263a0280": {
+      "type": "image-banner",
+      "blocks": {
+        "16490661451660d1b5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "16490661451660d1b5-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16490661451660d1b5-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16490661451660d1b5-0",
+        "16490661451660d1b5-1",
+        "16490661451660d1b5-2"
+      ],
+      "settings": {
+        "image_overlay_color": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "image_banner_top_padding": 0,
+        "image_banner_bottom_padding": 0,
+        "image_banner_bottom_padding_color": ""
+      }
     }
   },
   "order": [
@@ -477,11 +578,13 @@
     "16487155745a6d60f5",
     "164871596708d22305",
     "rich_text",
+    "1649066276ac5fe578",
     "multicolumn",
     "16487208320bc88b26",
     "1648720595578fb203",
     "featured_collection",
     "collage",
-    "video"
+    "video",
+    "1649066145263a0280"
   ]
 }

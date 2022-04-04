@@ -56,3 +56,9 @@
 .rich-text__blocks > * + a {
   margin-top: 3rem;
 }
+
+.rich_image_container{
+  display: flex;
+  margin-top: 0 !important;
+  padding-top: 2rem;
+}

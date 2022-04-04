@@ -39,12 +39,6 @@
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}
               {% style %}
-              .rich_image_container{
-                display: flex;
-                margin-top: 0 !important;
-                padding-top: 2rem;
-                justify-content: {{ block.settings.image_align }};
-              }
               .rich_image_container img{
                 width: {{ block.settings.image_width }}px;
                 height: {{ block.settings.image_height}}px;
@@ -61,8 +55,8 @@
                 }
               }
               {% endstyle %}
-              <div class="rich_image_container">
-                <img src="{{ block.settings.image | image_url }}" />
+              <div class="rich_image_container" style="justify-content: {{ block.settings.image_align }};">
+                <img src="{{ block.settings.image | image_url}}" />
               </div>
             {% endif %}
         {%- endcase -%}

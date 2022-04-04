@@ -15,6 +15,11 @@
     color: {{ section.settings.text_color }} !important;
   }
 
+  .rich_image_container{
+    display: flex;
+    justify-content: {{ block.settings.image_align }};
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -181,7 +186,7 @@
           "id": "image_align",
           "options": [
             {
-              "value": "left",
+              "value": "flex-start",
               "label": "Left"
             },
             {
@@ -189,7 +194,7 @@
               "label": "Center"
             },
             {
-              "value": "right",
+              "value": "flex-end",
               "label": "Right"
             }
           ],

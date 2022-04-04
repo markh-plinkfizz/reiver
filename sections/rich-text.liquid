@@ -38,7 +38,7 @@
             </a>
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}
-              <img src="{{ block.settings.image | image_url: }}" />
+              <img src="{{ block.settings.image | image_url}}" />
             {% endif %}
       		got here
         {%- endcase -%}

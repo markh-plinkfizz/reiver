@@ -46,7 +46,9 @@
               .rich_image_container img{
                 width: 100%;
                 height: auto;
-                @media screen and (min-width: 750px) {
+              }
+              @media screen and (min-width: 750px) {
+                .rich_image_container img{
                   width: {{ block.settings.image_width }}px;
                   height: {{ block.settings.image_height}}px;
                 }

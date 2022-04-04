@@ -171,11 +171,19 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
+        },
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
+            "image_align": "center"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c"
       ],
       "settings": {
         "background_color": "#000000",

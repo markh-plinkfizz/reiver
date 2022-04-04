@@ -39,7 +39,7 @@
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}
               <div class="rich_image_container">
-                <img src="{{ block.settings.image | image_url}}" />
+                <img src="{{ block.settings.image | image_url: width: 100, height: 100}}" />
               </div>
             {% endif %}
       		got here

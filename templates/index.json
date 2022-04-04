@@ -178,8 +178,7 @@
             "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
             "image_align": "center",
             "image_width": 360,
-            "image_height": 180,
-            "image_mobile_full_width": false
+            "image_height": 180
           }
         }
       },
@@ -225,9 +224,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
             "image_align": "flex-end",
-            "image_width": 100,
-            "image_height": 100,
-            "image_mobile_full_width": true
+            "image_width": 310,
+            "image_height": 320
           }
         }
       },

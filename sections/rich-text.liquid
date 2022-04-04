@@ -39,24 +39,24 @@
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}
               {% style %}
-              .rich_image_container{
-                test: section-{{ section.id }}; 
+              .section-{{ section.id }} .rich_image_container{
+                test: ;
                 display: flex;
                 margin-top: 0 !important;
                 padding-top: 2rem;
                 justify-content: {{ block.settings.image_align }};
               }
-              .rich_image_container img{
+              .section-{{ section.id }} .rich_image_container img{
                 width: {{ block.settings.image_width }}px;
                 height: {{ block.settings.image_height}}px;
-      			{% if block.settings.image_mobile_full_width %}
+          			{% if block.settings.image_mobile_full_width %}
                   width: 100%;
                   height: auto;
-      			{% endif %}
+          			{% endif %}
                 object-fit: cover;
               }
               @media screen and (min-width: 750px) {
-                .rich_image_container img{
+                .section-{{ section.id }} .rich_image_container img{
                   width: {{ block.settings.image_width }}px;
                   height: {{ block.settings.image_height}}px;
                 }

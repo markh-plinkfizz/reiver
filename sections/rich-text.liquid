@@ -39,8 +39,8 @@
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}
               {% style %}
-              .section-{{ section.id }} .rich_image_container{
-                test: ;
+              .rich_image_container{
+                test: .section-{{ section.id }};
                 display: flex;
                 margin-top: 0 !important;
                 padding-top: 2rem;

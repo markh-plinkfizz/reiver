@@ -37,26 +37,9 @@
               {{ block.settings.button_label | escape }}
             </a>
           {%- when 'image' -%}
-            {%- if block.settings.image != blank -%}
-              {% style %}
-              .rich_image_container img{
-                width: {{ block.settings.image_width }}px;
-                height: {{ block.settings.image_height}}px;
-          			{% if block.settings.image_mobile_full_width %}
-                  width: 100%;
-                  height: auto;
-          			{% endif %}
-                object-fit: cover;
-              }
-              @media screen and (min-width: 750px) {
-                .rich_image_container img{
-                  width: {{ block.settings.image_width }}px;
-                  height: {{ block.settings.image_height}}px;
-                }
-              }
-              {% endstyle %}
+            {%- if block.settings.image != blank -%}  
               <div class="rich_image_container" style="justify-content: {{ block.settings.image_align }};">
-                <img src="{{ block.settings.image | image_url: width: block.settings.image_width }}" />
+                <img src="{{ block.settings.image | image_url: width: block.settings.image_width, height: block.settings.image_height }}" />
               </div>
             {% endif %}
         {%- endcase -%}

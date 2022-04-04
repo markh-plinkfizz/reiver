@@ -39,7 +39,10 @@
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}  
               <div class="rich_image_container" style="justify-content: {{ block.settings.image_align }};">
-                <img src="{{ block.settings.image | image_url: width: block.settings.image_width, height: block.settings.image_height }}" />
+                <img 
+                	src="{{ block.settings.image | image_url: width: block.settings.image_width, height: block.settings.image_height }}" 
+                	{% if block.settings.image_mobile_full_width %}class="full_width_on_mobile"{% endif %}
+                 />
               </div>
             {% endif %}
         {%- endcase -%}

@@ -159,6 +159,15 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
+            "image_align": "center",
+            "image_width": 360,
+            "image_height": 180
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
@@ -171,25 +180,18 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
-        },
-        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
-            "image_align": "center"
-          }
         }
       },
       "block_order": [
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c",
         "heading",
-        "text",
-        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c"
+        "text"
       ],
       "settings": {
         "background_color": "#000000",
         "text_color": "#ffffff",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 44
       }
     },

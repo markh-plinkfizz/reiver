@@ -37,8 +37,8 @@
               {{ block.settings.button_label | escape }}
             </a>
           {%- when 'image' -%}
-            {%- if section.settings.image != blank -%}
-              <img src="{{ section.settings.image }}" />
+            {%- if block.settings.image != blank -%}
+              <img src="{{ block.settings.image }}" />
             {% endif %}
       		got here
         {%- endcase -%}

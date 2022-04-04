@@ -227,7 +227,7 @@
             "image_align": "flex-end",
             "image_width": 100,
             "image_height": 100,
-            "image_mobile_full_width": false
+            "image_mobile_full_width": true
           }
         }
       },

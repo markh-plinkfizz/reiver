@@ -15,11 +15,6 @@
     color: {{ section.settings.text_color }} !important;
   }
 
-  .rich_image_container{
-    display: flex;
-    justify-content: {{ block.settings.image_align }};
-  }
-
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -43,6 +38,12 @@
             </a>
           {%- when 'image' -%}
             {%- if block.settings.image != blank -%}
+              {% style %}
+              .rich_image_container{
+                display: flex;
+                justify-content: {{ block.settings.image_align }};
+              }
+              {% endstyle %}
               <div class="rich_image_container">
                 <img src="{{ block.settings.image | image_url: width: block.settings.image_width, height: block.settings.image_height}}" />
               </div>

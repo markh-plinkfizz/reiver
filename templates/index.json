@@ -573,11 +573,13 @@
     "1650619414687aad7b": {
       "type": "general-content",
       "settings": {
+        "background_color": "#c61a1a"
       }
     },
     "165061941879aa65f3": {
       "type": "general-content",
       "settings": {
+        "background_color": "#000000"
       }
     }
   },

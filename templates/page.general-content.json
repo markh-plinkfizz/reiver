@@ -1,12 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -17,7 +10,6 @@
     }
   },
   "order": [
-    "main",
     "cart-items"
   ]
 }

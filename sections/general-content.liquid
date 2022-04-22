@@ -1,5 +1,5 @@
 <section class="general-content">
-	<div class="test">
+	<div class="test" style="">
     aaaaa
   </div>
 </section>
@@ -7,7 +7,14 @@
 {% schema %}
 {
   "name": "General Content",
-  "settings": [],
+  "settings": [
+		{
+			"type": "color",
+			"id": "background_color",
+			"default": "#000000",
+			"label": "Background Color"
+		}
+	],
   "presets": [
     {
 		"name": "General Content"

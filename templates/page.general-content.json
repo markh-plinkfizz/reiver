@@ -17,6 +17,7 @@
     }
   },
   "order": [
-    "main"
+    "main",
+    "cart-items"
   ]
 }

@@ -569,6 +569,16 @@
         "image_banner_bottom_padding": 0,
         "image_banner_bottom_padding_color": ""
       }
+    },
+    "1650619414687aad7b": {
+      "type": "general-content",
+      "settings": {
+      }
+    },
+    "165061941879aa65f3": {
+      "type": "general-content",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -583,6 +593,8 @@
     "featured_collection",
     "collage",
     "video",
-    "1649066145263a0280"
+    "1649066145263a0280",
+    "1650619414687aad7b",
+    "165061941879aa65f3"
   ]
 }

@@ -1,5 +1,5 @@
 .body{
-  background-color: #000000;
+  background-color: #000000 !important;
 }
 
 .banner{
@@ -8,7 +8,7 @@
   padding-top: 0;
 }
 .general-content-container{
-  background-color: #000000;
+  background: none;
 }
 .general-content-inner{
   width: 90%;

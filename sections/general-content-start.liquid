@@ -15,6 +15,11 @@
     background-color: {{ section.settings.image_banner_bottom_padding_color }};
     margin-bottom: -{{ section.settings.banner_bottom_margin }}px;
   }
+  @media screen and (min-width: 750px) {
+    #Banner_Container-{{ section.id }} {
+      margin-bottom: -{{ section.settings.banner_bottom_margin }}px;
+    }
+  }
 {%- endstyle -%}
 <div id="Banner_Container-{{ section.id }}" class="banner_container">
   <div id="Banner-{{ section.id }}" class="banner banner--content-align-{{ section.settings.desktop_content_alignment }} banner--content-align-mobile-{{ section.settings.mobile_content_alignment }} banner--{{ section.settings.image_height }}{% if section.settings.stack_images_on_mobile and section.settings.image != blank and section.settings.image_2 != blank %} banner--stacked{% endif %}{% if section.settings.show_text_below %} banner--mobile-bottom{%- endif -%}{% if section.settings.show_text_box == false %} banner--desktop-transparent{% endif %}">

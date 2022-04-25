@@ -19,7 +19,7 @@
 {%- endstyle -%}
 <div class="general-content-container">
   <div class="rich-text general-content-container content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
-    <div class="page-width general-content-inner">
+    <div class="general-content-inner">
       <div class="rich-text__blocks">
         {%- for block in section.blocks -%}
           {%- case block.type -%}

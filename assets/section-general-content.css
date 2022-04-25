@@ -1,3 +1,9 @@
 .banner__content{
   padding-top: 0;
 }
+.general-content-container{
+  background-color: #000000;
+}
+.general-content-inner{
+  background-color: white;
+}

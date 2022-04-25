@@ -9,6 +9,6 @@
 }
 .general-content-inner{
   width: 90%;
-  z-index: 200;
+  z-index: 20000;
   background-color: white;
 }

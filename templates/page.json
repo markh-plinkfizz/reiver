@@ -33,7 +33,7 @@
         "image_overlay_color": "#ff2e2e",
         "image_overlay_opacity": 70,
         "image_height": "large",
-        "banner_bottom_margin": 280,
+        "banner_bottom_margin": 410,
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -78,7 +78,7 @@
       ],
       "settings": {
         "background_color": "#000000",
-        "text_color": "#ffffff",
+        "text_color": "#000000",
         "full_width": true,
         "padding_top": 48,
         "padding_bottom": 52

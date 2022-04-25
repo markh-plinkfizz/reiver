@@ -23,14 +23,6 @@
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
-        "16508911861805b6cc-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
         "16508911861805b6cc-3": {
           "type": "image",
           "settings": {
@@ -43,7 +35,6 @@
       "block_order": [
         "16508911861805b6cc-0",
         "16508911861805b6cc-1",
-        "16508911861805b6cc-2",
         "16508911861805b6cc-3"
       ],
       "settings": {
@@ -70,14 +61,6 @@
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
-        "1650891190cef08d4f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
         "1650891190cef08d4f-3": {
           "type": "image",
           "settings": {
@@ -90,14 +73,13 @@
       "block_order": [
         "1650891190cef08d4f-0",
         "1650891190cef08d4f-1",
-        "1650891190cef08d4f-2",
         "1650891190cef08d4f-3"
       ],
       "settings": {
         "background_color": "#000000",
         "text_color": "#ffffff",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 48,
         "padding_bottom": 52
       }
     }

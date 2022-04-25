@@ -20,7 +20,7 @@
         "1650896117ff8f8e5c-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Give customers details about the banner image(s) or content on the template.Give customers details about the banner image(s) or content on the template.Give customers details about the banner image(s) or content on the template.Give customers details about the banner image(s) or content on the template.Give customers details about the banner image(s) or content on the template.Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
         }
@@ -34,14 +34,14 @@
         "image_overlay_color": "#1878b9",
         "image_overlay_opacity": 70,
         "image_height": "medium",
-        "banner_bottom_margin": 200,
+        "banner_bottom_margin": 400,
         "desktop_content_position": "top-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
         "image_banner_top_padding": 0,
         "image_banner_bottom_padding": 0,
         "image_banner_bottom_padding_color": ""

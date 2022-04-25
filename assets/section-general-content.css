@@ -1,5 +1,4 @@
 .banner{
-  z-index: 100;
 }
 .banner__content{
   padding-top: 0;
@@ -9,6 +8,5 @@
 }
 .general-content-inner{
   width: 90%;
-  z-index: 20000;
   background-color: white;
 }

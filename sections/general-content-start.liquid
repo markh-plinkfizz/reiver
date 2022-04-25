@@ -8,6 +8,7 @@
     background-color: {{ section.settings.image_overlay_color }};
     content: '';
     display: block;
+    margin-bottom: {{ section.setting.banner_bottom_margin }}
   }
   #Banner_Container-{{ section.id }} {
     padding-top: {{ section.settings.image_banner_top_padding }}px;
@@ -109,6 +110,16 @@
       "default": "medium",
       "label": "t:sections.image-banner.settings.image_height.label",
       "info": "t:sections.image-banner.settings.image_height.info"
+    },
+    {
+      "type": "range",
+      "id": "banner_bottom_margin",
+      "min": 0,
+      "max": 600,
+      "step": 10,
+      "unit": "-px",
+      "label": "Desktop Negative Bottom Margin",
+      "default": 0
     },
     {
       "type": "select",

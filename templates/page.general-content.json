@@ -34,7 +34,7 @@
         "image_overlay_color": "#1878b9",
         "image_overlay_opacity": 70,
         "image_height": "medium",
-        "banner_bottom_margin": 0,
+        "banner_bottom_margin": 200,
         "desktop_content_position": "top-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -87,10 +87,53 @@
         "1650896120df72d25d-3"
       ],
       "settings": {
-        "background_color": "#000000",
-        "text_color": "#000000",
         "full_width": true,
         "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "165089761090fda614": {
+      "type": "general-content-end",
+      "blocks": {
+        "165089761000750081-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "165089761000750081-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "165089761000750081-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "165089761000750081-3": {
+          "type": "image",
+          "settings": {
+            "image_align": "center",
+            "image_width": 100,
+            "image_height": 100
+          }
+        }
+      },
+      "block_order": [
+        "165089761000750081-0",
+        "165089761000750081-1",
+        "165089761000750081-2",
+        "165089761000750081-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     }
@@ -98,6 +141,7 @@
   "order": [
     "main",
     "16508961172d434bb2",
-    "16508961202e1748ce"
+    "16508961202e1748ce",
+    "165089761090fda614"
   ]
 }

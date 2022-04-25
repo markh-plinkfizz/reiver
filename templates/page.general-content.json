@@ -30,8 +30,9 @@
         "1650896117ff8f8e5c-1"
       ],
       "settings": {
-        "image_overlay_color": "",
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
+        "image_overlay_color": "#1878b9",
+        "image_overlay_opacity": 70,
         "image_height": "medium",
         "banner_bottom_margin": 0,
         "desktop_content_position": "top-center",
@@ -87,7 +88,7 @@
       ],
       "settings": {
         "background_color": "#000000",
-        "text_color": "#ffffff",
+        "text_color": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52

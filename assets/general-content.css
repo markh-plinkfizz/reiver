@@ -25,9 +25,9 @@ body{
   .general-2-col-layout{
     display: flex;
     justify-content: space-between;
-    margin: 0 30px;
+    margin: 0 80px;
   }
   .general-2-col-layout > div{
-    flex-basis: calc(50% - 60px);
+    flex-basis: calc(50% - 160px);
   }
 }

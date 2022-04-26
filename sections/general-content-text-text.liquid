@@ -14,11 +14,15 @@
   <div class="general-content-inner">
     <div class="general-2-col-layout">
       <div>
-        test123
-        {{ block.settings.left-text }}
+        {% for block in section.blocks %}
+			{{ block.settings.left-text}}
+        {% endfor %}
+
       </div>
       <div>
-        test 56376
+        {% for block in section.blocks %}
+			{{ block.settings.right-text}}
+        {% endfor %}
       </div>
     </div>
   </div>

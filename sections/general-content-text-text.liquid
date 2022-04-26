@@ -14,10 +14,10 @@
   <div class="general-content-inner">
     <div class="general-2-col-layout">
       {% for block in section.blocks %}
-        <div class="general-text-container">
+        <div class="general-text-container" style="background-color: {{ block.settings.left_background_color }}">
   			  {{ block.settings.left-text}}
         </div>
-        <div class="general-text-container">
+        <div class="general-text-container" style="background-color: {{ block.settings.right_background_color }}">
   			  {{ block.settings.right-text}}
         </div>
       {% endfor %}

@@ -93,8 +93,8 @@
         "16509647978adf6545-0": {
           "type": "text",
           "settings": {
-            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "right-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "left-text": "<p>LEFT TEXT<\/p><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "right-text": "<p>RIGHT TEXT<\/p><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
@@ -102,7 +102,7 @@
         "16509647978adf6545-0"
       ],
       "settings": {
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     },

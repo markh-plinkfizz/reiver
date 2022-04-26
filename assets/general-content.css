@@ -19,7 +19,7 @@ body{
   background-color: white;
 }
 .general-2-col-layout{
-  margin: 10px 0;
+  margin: 0 10px;
 }
 @media screen and (min-width: 750px) {
   .general-2-col-layout{

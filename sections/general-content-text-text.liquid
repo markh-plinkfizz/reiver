@@ -1,5 +1,5 @@
 {%- style -%}
-  #shopify-section-{{ section.id }}{
+  .section-{{ section.id }}{
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
@@ -10,7 +10,7 @@
     }
   }
 {%- endstyle -%}
-<div class="general-content-container">
+<div class="general-content-container section-{{ section.id }}">
   <div class="general-content-inner">
     <div class="general-2-col-layout">
       <div>

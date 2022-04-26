@@ -14,14 +14,15 @@
   <div class="general-content-inner">
     <div class="general-2-col-layout">
       <div>
-        test123
         {% for block in section.blocks %}
-			{{ block.settings.lefttext}}	
+			{{ block.settings.left-text}}	
         {% endfor %}
         
       </div>
       <div>
-        test 56376
+        {% for block in section.blocks %}
+			{{ block.settings.right-text}}	
+        {% endfor %}
       </div>
     </div>
   </div>
@@ -62,13 +63,13 @@
       "settings": [
         {
           "type": "richtext",
-          "id": "lefttext",
+          "id": "left-text",
           "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
           "label": "Left Text"
         },
 		    {
           "type": "richtext",
-          "id": "righttext",
+          "id": "right-text",
           "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
           "label": "Right Text"
         }

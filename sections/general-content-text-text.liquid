@@ -13,16 +13,14 @@
 <div class="general-content-container section-{{ section.id }}">
   <div class="general-content-inner">
     <div class="general-2-col-layout">
-      <div class="general-text-container">
-        {% for block in section.blocks %}
-			  {{ block.settings.left-text}}
-        {% endfor %}
-      </div>
-      <div class="general-text-container">
-        {% for block in section.blocks %}
-			  {{ block.settings.right-text}}
-        {% endfor %}
-      </div>
+      {% for block in section.blocks %}
+        <div class="general-text-container">
+  			  {{ block.settings.left-text}}
+        </div>
+        <div class="general-text-container">
+  			  {{ block.settings.right-text}}
+        </div>
+      {% endfor %}
     </div>
   </div>
 </div>

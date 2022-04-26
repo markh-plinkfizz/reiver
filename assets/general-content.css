@@ -20,7 +20,9 @@ body{
 }
 .general-2-col-layout{
   margin: 0 20px;
-
+}
+.general-text-container{
+  padding: 10px;
 }
 @media screen and (max-width: 749px){
   .general-2-col-layout div:first-of-type{

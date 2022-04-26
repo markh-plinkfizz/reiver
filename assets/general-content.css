@@ -11,7 +11,9 @@ body{
   background: none;
 }
 .general-content-inner{
+  z-index: 1;
   width: 90%;
+  position: relative;
   margin: auto;
   max-width: 1200px;
   background-color: white;

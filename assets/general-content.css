@@ -38,4 +38,7 @@ body{
   .general-2-col-layout > div{
     flex-basis: calc(50% - 40px);
   }
+  .general-text-container{
+    padding: 20px;
+  }
 }

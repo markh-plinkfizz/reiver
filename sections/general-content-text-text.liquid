@@ -20,7 +20,7 @@
 
 {% schema %}
 {
-  "name": "General Content Text + Text",
+  "name": "General Text and Text",
   "tag": "section",
   "class": "section",
   "settings": [
@@ -48,21 +48,15 @@
   "blocks": [
     {
       "type": "text",
-      "name": "left-text",
+      "name": "t:sections.rich-text.blocks.text.name",
       "settings": [
         {
           "type": "richtext",
           "id": "left-text",
           "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
           "label": "Left Text"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "name": "right-text",
-      "settings": [
-        {
+        },
+		{
           "type": "richtext",
           "id": "right-text",
           "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
@@ -73,13 +67,10 @@
   ],
   "presets": [
     {
-      "name": "General Content Text + Text",
+      "name": "General Text and Text",
       "blocks": [
         {
-          "type": "left-text"
-        },
-        {
-          "type": "right-text"
+          "type": "text"
         }
       ]
     }

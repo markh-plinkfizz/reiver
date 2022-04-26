@@ -28,7 +28,6 @@ body{
     margin: 0 30px;
   }
   .general-2-col-layout > div{
-    flex: 1;
     flex-basis: calc(50% - 60px);
   }
 }

@@ -22,6 +22,11 @@ body{
   margin: 0 10px;
 
 }
+@media screen and (max-width: 749px){
+  .general-2-col-layout div:first-of-type{
+    margin-bottom: 10px;
+  }
+}
 @media screen and (min-width: 750px) {
   .general-2-col-layout{
     display: flex;

@@ -24,5 +24,6 @@ body{
 @media screen and (min-width: 750px) {
   .general-2-col-layout{
     display: flex;
+    margin: 0 30px;
   }
 }

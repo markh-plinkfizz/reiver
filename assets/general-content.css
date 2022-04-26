@@ -36,7 +36,7 @@ body{
     margin: 0 80px;
   }
   .general-2-col-layout > div{
-    flex-basis: calc(50% - 16px);
+    flex-basis: calc(50% - 15px);
   }
   .general-text-container{
     padding: 20px;

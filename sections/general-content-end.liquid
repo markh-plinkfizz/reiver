@@ -23,7 +23,7 @@
   <div class="rich-text general-content-container content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
     <div style="background: white;">
       <div class="general-content-inner">
-        <div class="rich-text__blocks">
+        <div class="rich-text__blocks" style="opacity: 1;">
           {%- for block in section.blocks -%}
             {%- case block.type -%}
               {%- when 'heading' -%}

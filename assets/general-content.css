@@ -31,9 +31,6 @@ body{
 .general-text-container{
   padding: 10px;
 }
-.general-slider-container img{
-  object-fit: cover;
-}
 @media screen and (max-width: 749px){
   .general-2-col-layout div:first-of-type{
     margin-bottom: 20px;

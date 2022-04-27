@@ -63,16 +63,22 @@
         "padding_bottom": 52
       }
     },
+    "165106336545a0d979": {
+      "type": "general-content-3-col",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "left_background_color": ""
+      }
+    },
     "1651053097a6bcc64c": {
       "type": "general-content-text-slider",
       "blocks": {
         "16510530970bff68d1-0": {
           "type": "text",
           "settings": {
-            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left_background_color": "",
-            "right-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "right_background_color": ""
+            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "5af5b9c7-01be-4df2-ad38-e1cea181dbfb": {
@@ -155,6 +161,7 @@
     "main",
     "16508961172d434bb2",
     "165096479741ba20d7",
+    "165106336545a0d979",
     "1651053097a6bcc64c",
     "165089761090fda614"
   ]

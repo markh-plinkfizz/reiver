@@ -8,6 +8,12 @@ body{
   padding-top: 0 !important;
   pointer-events: none;
 }
+
+.vertically_centre_text{
+  display: flex;
+  align-items: center;
+}
+
 .general-content-container{
   background: none;
 }

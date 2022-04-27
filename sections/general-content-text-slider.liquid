@@ -33,7 +33,7 @@
 
 {% schema %}
 {
-  "name": "General Text and Slider",
+  "name": "General 3 Col Layout",
   "tag": "section",
   "class": "section",
   "settings": [
@@ -56,42 +56,42 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 10
-    }
-  ],
-  "blocks": [
-    {
-      "type": "text",
-      "limit": 1,
-      "name": "t:sections.rich-text.blocks.text.name",
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "left-text",
-          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-          "label": "Left Text"
-        }
-      ]
     },
     {
-      "type": "image",
-      "name": "image",
-      "settings": [
-        {
-          "type": "image_picker",
-          "id": "image",
-          "label": "Image"
-        }
-      ]
+      "type": "image_picker",
+      "id": "left-image",
+      "label": "Left Image"
+    },
+    {
+      "type": "richtext",
+      "id": "left-image-caption",
+      "label": "Left Image Caption"
+    },
+    {
+      "type": "image_picker",
+      "id": "right-image",
+      "label": "Right Image"
+    },
+    {
+      "type": "richtext",
+      "id": "right-image-caption",
+      "label": "Right Image Caption"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+      "label": "Text"
+    },
+    {
+      "type": "color",
+      "id": "left_background_color",
+      "label": "Text Background Color"
     }
   ],
   "presets": [
     {
-      "name": "General Text and Slider",
-      "blocks": [
-        {
-          "type": "text"
-        }
-      ]
+      "name": "General 3 Col Layout"
     }
   ]
 }

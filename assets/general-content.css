@@ -20,6 +20,12 @@ body{
   margin: 0;
 }
 
+.general-content-end-container{
+  background: white;
+  opacity: 0.9;
+  padding: 40px;
+}
+
 .general-content-container{
   background: none;
 }
@@ -53,7 +59,7 @@ body{
 }
 @media screen and (min-width: 750px) {
   .general-1-col-layout{
-    margin: 0 80px;  
+    margin: 0 80px;
   }
   .general-2-col-layout{
     display: flex;

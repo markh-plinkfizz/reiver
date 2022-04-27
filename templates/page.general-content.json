@@ -63,6 +63,15 @@
         "padding_bottom": 52
       }
     },
+    "1651070934504c2c89": {
+      "type": "general-content-full-image",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "right-image": "shopify:\/\/shop_images\/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
+        "right-image-caption": ""
+      }
+    },
     "165106336545a0d979": {
       "type": "general-content-3-col",
       "settings": {
@@ -137,6 +146,7 @@
     "main",
     "16508961172d434bb2",
     "165096479741ba20d7",
+    "1651070934504c2c89",
     "165106336545a0d979",
     "1651067548b1a5401b",
     "165089761090fda614"

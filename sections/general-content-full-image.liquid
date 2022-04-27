@@ -12,8 +12,10 @@
 {%- endstyle -%}
 <div class="general-content-container section-{{ section.id }}">
   <div class="general-content-inner">
-    <img src="{{ section.settings.right-image | image_url }}" style="width: 100%;"/>
-    <span class="general-image-caption general-display-only-on-mobile">{{ section.settings.right-image-caption }}</span>
+    <div class="general-1-col-layout">
+      <img src="{{ section.settings.right-image | image_url }}" style="width: 100%;"/>
+      <span class="general-image-caption">{{ section.settings.right-image-caption }}</span>
+    </div>    
   </div>
 </div>
 

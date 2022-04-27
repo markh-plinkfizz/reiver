@@ -74,17 +74,6 @@
         "left_background_color": ""
       }
     },
-    "1651053097a6bcc64c": {
-      "type": "general-content-text-slider",
-      "settings": {
-        "padding_top": 40,
-        "padding_bottom": 52,
-        "left-image-caption": "",
-        "right-image-caption": "",
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-        "left_background_color": ""
-      }
-    },
     "165089761090fda614": {
       "type": "general-content-end",
       "blocks": {
@@ -136,7 +125,6 @@
     "16508961172d434bb2",
     "165096479741ba20d7",
     "165106336545a0d979",
-    "1651053097a6bcc64c",
     "165089761090fda614"
   ]
 }

@@ -33,7 +33,7 @@
 
 {% schema %}
 {
-  "name": "General 3 Col Layout",
+  "name": "General Text and Slider",
   "tag": "section",
   "class": "section",
   "settings": [
@@ -56,22 +56,42 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 10
-    },
-	{
-      "type": "richtext",
-      "id": "left-text",
-      "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-      "label": "Text"
-	},
+    }
+  ],
+  "blocks": [
     {
-      "type": "color",
-      "id": "left_background_color",
-      "label": "Text Background Color"
+      "type": "text",
+      "limit": 1,
+      "name": "t:sections.rich-text.blocks.text.name",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "left-text",
+          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+          "label": "Left Text"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        }
+      ]
     }
   ],
   "presets": [
     {
-      "name": "General 3 Col Layout"
+      "name": "General Text and Slider",
+      "blocks": [
+        {
+          "type": "text"
+        }
+      ]
     }
   ]
 }

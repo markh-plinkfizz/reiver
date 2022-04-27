@@ -27,7 +27,7 @@
 
 {% schema %}
 {
-  "name": "General Text and Text",
+  "name": "General 3 Col Layout",
   "tag": "section",
   "class": "section",
   "settings": [
@@ -50,36 +50,22 @@
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
       "default": 10
-    }
-  ],
-  "blocks": [
+    },
+	{
+      "type": "richtext",
+      "id": "left-text",
+      "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+      "label": "Text"
+	},
     {
-      "type": "text",
-      "limit": 1,
-      "name": "t:sections.rich-text.blocks.text.name",
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "left-text",
-          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-          "label": "Left Text"
-        },
-        {
-          "type": "color",
-          "id": "left_background_color",
-          "label": "Left Background Color"
-        }
-      ]
+      "type": "color",
+      "id": "left_background_color",
+      "label": "Text Background Color"
     }
   ],
   "presets": [
     {
-      "name": "General Text and Text",
-      "blocks": [
-        {
-          "type": "text"
-        }
-      ]
+      "name": "General 3 Col Layout"
     }
   ]
 }

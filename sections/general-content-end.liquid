@@ -22,6 +22,9 @@
     left: 0px;
     opacity: 0.75;
   }
+  .section-{{ section.id }}-padding .general-content-inner::after{
+
+  }
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding .general-content-inner{
       padding-top: {{ section.settings.padding_top }}px;
@@ -32,7 +35,7 @@
 <div class="general-content-container">
   <div class="rich-text general-content-container content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
     <div class="general-content-inner">
-      <div class="rich-text__blocks">
+      <div class="rich-text__blocks" style="opacity: 0.9;">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}

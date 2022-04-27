@@ -136,9 +136,9 @@
         "165089761000750081-3"
       ],
       "settings": {
-        "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg"
       }
     }
   },

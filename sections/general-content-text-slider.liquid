@@ -10,21 +10,15 @@
     }
   }
 {%- endstyle -%}
-<div class="general-content-container section-{{ section.id }} a">
+<div class="general-content-container section-{{ section.id }}">
   <div class="general-content-inner">
     <div class="general-2-col-layout">
-      <div class="general-text-container vertically_centre_text">
-        {% for block in section.blocks %}
-			     {{ block.settings.left-text}}
-        {% endfor %}
+      <div class="general-tall-image">
+        <img src="{{ section.settings.left-image | image_url }}" />
       </div>
-      <div class="general-slider-container" style="background-color: {{ block.settings.right_background_color }}">
-        <div class="owl-carousel owl-theme">
-          {%- for block in section.blocks -%}
-            {%- if block.type == "image" -%}
-            <div><img src="{{ block.settings.image | image_url }}" /></div>
-            {%- endif block.type="image" -%}
-          {%- endfor -%}
+      <div>
+        <div class="general-text-container" style="background-color: {{ block.settings.left_background_color }}">
+  			  {{ section.settings.text}}
         </div>
       </div>
     </div>

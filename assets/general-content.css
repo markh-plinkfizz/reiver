@@ -28,6 +28,9 @@ body{
 .general-slider-container{
   min-height: 400px;
 }
+.general-slider-container div{
+  min-height: 400px;
+}
 .general-slider-container img{
   object-fit: cover;
   height: 100%;

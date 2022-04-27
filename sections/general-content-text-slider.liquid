@@ -13,7 +13,7 @@
 <div class="general-content-container section-{{ section.id }}">
   <div class="general-content-inner">
     <div class="general-2-col-layout">
-      <div class="general-text-container vertically_centre_text a" style="background-color: {{ block.settings.left_background_color }}">
+      <div class="general-text-container vertically_centre_text" style="background-color: {{ block.settings.left_background_color }}">
         {% for block in section.blocks %}
 			     {{ block.settings.left-text}}
         {% endfor %}
@@ -26,7 +26,7 @@
             {%- endif block.type="image" -%}
           {%- endfor -%}
         </div>
-      </div>
+      </div>  
     </div>
   </div>
 </div>
@@ -45,7 +45,7 @@
       "step": 4,
       "unit": "px",
       "label": "t:sections.all.padding.padding_top",
-      "default": 10
+      "default": 40
     },
     {
       "type": "range",
@@ -55,7 +55,7 @@
       "step": 4,
       "unit": "px",
       "label": "t:sections.all.padding.padding_bottom",
-      "default": 10
+      "default": 52
     }
   ],
   "blocks": [
@@ -74,6 +74,17 @@
           "type": "color",
           "id": "left_background_color",
           "label": "Left Background Color"
+        },
+		    {
+          "type": "richtext",
+          "id": "right-text",
+          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+          "label": "Right Text"
+        },
+        {
+          "type": "color",
+          "id": "right_background_color",
+          "label": "Right Background Color"
         }
       ]
     },

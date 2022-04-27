@@ -74,10 +74,31 @@
             "right-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "right_background_color": ""
           }
+        },
+        "5af5b9c7-01be-4df2-ad38-e1cea181dbfb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/silhouetted-couples-look-out-at-a-city-at-night.jpg"
+          }
+        },
+        "5325a064-1d30-4b9a-b89a-634c176748cf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg"
+          }
+        },
+        "b1ce181b-9d98-4d2d-bf7a-f1c5d84919aa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg"
+          }
         }
       },
       "block_order": [
-        "16510530970bff68d1-0"
+        "16510530970bff68d1-0",
+        "5af5b9c7-01be-4df2-ad38-e1cea181dbfb",
+        "5325a064-1d30-4b9a-b89a-634c176748cf",
+        "b1ce181b-9d98-4d2d-bf7a-f1c5d84919aa"
       ],
       "settings": {
         "padding_top": 40,

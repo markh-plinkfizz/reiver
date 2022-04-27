@@ -6,6 +6,7 @@ body{
 }
 .banner__content{
   padding-top: 0 !important;
+  pointer-events: none;
 }
 .general-content-container{
   background: none;

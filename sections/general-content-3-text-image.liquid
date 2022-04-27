@@ -1,0 +1,81 @@
+{%- style -%}
+  .section-{{ section.id }} .general-content-inner{
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }} .general-content-inner{
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+<div class="general-content-container section-{{ section.id }}">
+  <div class="general-content-inner">
+    <div class="general-2-col-layout">
+      <div class="general-text-container vertically_centre_text" style="background-color: {{ section.settings.text_background_color }}; margin-top: 30px;">
+        {{ section.settings.text}}
+      </div>
+      <div>
+        <img src="{{ section.settings.right-image | image_url }}" style="width: 100%;"/>
+        <span class="general-image-caption">{{ section.settings.right-image-caption }}</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "General Text and Image",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 2,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 2,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 20
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+      "label": "Text"
+    },
+    {
+      "type": "color",
+      "id": "text_background_color",
+      "label": "Text Background Color"
+    },
+    {
+      "type": "image_picker",
+      "id": "right-image",
+      "label": "Image"
+    },
+    {
+      "type": "richtext",
+      "id": "right-image-caption",
+      "label": "Image Caption"
+    }
+  ],
+  "presets": [
+    {
+      "name": "General Text and Image"
+    }
+  ]
+}
+{% endschema %}

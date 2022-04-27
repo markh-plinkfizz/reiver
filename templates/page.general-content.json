@@ -76,6 +76,17 @@
         "text_background_color": "#1878b9"
       }
     },
+    "1651067548b1a5401b": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "text_background_color": "#b99318",
+        "right-image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
+        "right-image-caption": "<p>abcd<\/p>"
+      }
+    },
     "165089761090fda614": {
       "type": "general-content-end",
       "blocks": {
@@ -120,17 +131,6 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "1651067548b1a5401b": {
-      "type": "general-content-text-image",
-      "settings": {
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-        "text_background_color": "#1878b9",
-        "right-image": "shopify:\/\/shop_images\/download.png",
-        "right-image-caption": "<p>abcd<\/p>"
-      }
     }
   },
   "order": [
@@ -138,7 +138,7 @@
     "16508961172d434bb2",
     "165096479741ba20d7",
     "165106336545a0d979",
-    "165089761090fda614",
-    "1651067548b1a5401b"
+    "1651067548b1a5401b",
+    "165089761090fda614"
   ]
 }

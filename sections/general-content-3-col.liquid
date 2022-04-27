@@ -15,7 +15,7 @@
     <div class="general-2-col-layout">
       <div class="general-tall-image">
         <img src="{{ section.settings.left-image | image_url }}" />
-        <span class="general-image-caption general-display-only-on-mobile" style="margin-top: 10px;">{{ section.settings.left-image-caption }}</span>
+        <span class="general-image-caption general-display-only-on-mobile">{{ section.settings.left-image-caption }}</span>
       </div>
       <div>
         <img src="{{ section.settings.right-image | image_url }}" style="width: 100%;"/>
@@ -27,7 +27,7 @@
     </div>
     <div class="general-2-col-layout general-display-only-on-desktop">
       <div>
-        <span class="general-image-caption">{{ section.settings.left-image-caption }}</span>
+        <span class="general-image-caption" style="margin-top: 10px;">{{ section.settings.left-image-caption }}</span>
       </div>
       <div>
 

@@ -20,7 +20,9 @@
         <div class="general-slider-container" style="background-color: {{ block.settings.right_background_color }}">
           <div class="owl-carousel owl-theme">
             {%- for block in section.blocks -%}
+              {%- if block.type="image" -%}
               <div><img />abc</div>
+              {%- endif block.type="image" -%}
             {%- endfor -%}
           </div>
         </div>
@@ -83,6 +85,17 @@
           "type": "color",
           "id": "right_background_color",
           "label": "Right Background Color"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
         }
       ]
     }

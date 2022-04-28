@@ -20,11 +20,16 @@ body{
   margin: 0;
 }
 
+.general-content-end-container-outer{
+  margin: 0 20px;
+  padding: 10px;
+}
 .general-content-end-container-inner{
   background: white;
   opacity: 0.9;
   padding: 40px;
 }
+
 
 .general-content-container{
   background: none;
@@ -80,5 +85,8 @@ body{
   }
   .general-display-only-on-mobile{
     display: none;
+  }
+  .general-content-end-container-outer{
+    margin: 0 80px;
   }
 }

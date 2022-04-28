@@ -27,7 +27,7 @@ body{
   border-right: solid black 2px;
   opacity: 0.9;
 }
-.general-content-end-container-outer{
+.general-content-end-container-outer:after{
   position: absolute;
   top: 0;
   right: 0;

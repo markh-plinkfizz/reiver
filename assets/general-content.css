@@ -23,8 +23,8 @@ body{
 .general-content-end-container-outer{
   margin: 0 20px;
   padding: 10px;
-  left-border: solid black 1px;
-  right-border: solid black 1px;
+  border-left: solid black 1px;
+  border-right: solid black 1px;
 }
 .general-content-end-container-inner{
   background: white;

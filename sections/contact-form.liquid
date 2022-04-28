@@ -18,7 +18,7 @@
     width: 100%;
     top: 0;
   }
-  .section-{{ section.id }}.contact-background-image::after{
+  .section-{{ section.id }} .contact-background-image::after{
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
     background-color: {{ section.settings.image_overlay_color }};
     content: '';

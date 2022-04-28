@@ -7,10 +7,18 @@
     z-index: 100;
   }
   .section-{{ section.id }}{
-    background: url("{{ section.settings.image | image_url }}");
     position: relative;
   }
-  .section-{{ section.id }}::after{
+  .section-{{ section.id }} .contact-background-image{
+    background: url("{{ section.settings.image | image_url }}");
+    content: '';
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+  }
+  .section-{{ section.id }}.contact-background-image::after{
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
     background-color: {{ section.settings.image_overlay_color }};
     content: '';
@@ -19,7 +27,6 @@
     height: 100%;
     width: 100%;
     top: 0;
-    z-index: 1;
   }
 
   @media screen and (min-width: 750px) {
@@ -31,6 +38,8 @@
 {%- endstyle -%}
 
 <div class="color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}">
+  <div class="contact-background-image">
+  </div>
   <div class="contact page-width page-width--narrow section-{{ section.id }}-padding">
     <h2 class="title title-wrapper--no-top-margin {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
     {%- form 'contact', id: 'ContactForm', class: 'isolate' -%}

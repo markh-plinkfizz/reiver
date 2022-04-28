@@ -153,6 +153,9 @@
     "16511535615c8dfd6e": {
       "type": "contact-form",
       "settings": {
+        "image": "shopify:\/\/shop_images\/a-man-grabs-a-metallic-handle-hanging-from-the-ceiling.jpg",
+        "image_overlay_color": "#b99318",
+        "image_overlay_opacity": 40,
         "heading": "Contact form",
         "heading_size": "h1",
         "color_scheme": "background-1",

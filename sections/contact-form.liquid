@@ -7,12 +7,16 @@
   }
   .section-{{ section.id }}{
     background: url("{{ section.settings.image | image_url }}");
+    position: relative;
   }
   .section-{{ section.id }}::after{
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
     background-color: {{ section.settings.image_overlay_color }};
     content: '';
     display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
   }
 
   @media screen and (min-width: 750px) {

@@ -29,6 +29,9 @@
 .contact__button .button{
   background-color: #838382;
 }
+.contact__button .button::after{
+  display: none;
+}
 
 @media screen and (min-width: 750px) {
   .contact__button {

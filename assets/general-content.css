@@ -27,6 +27,20 @@ body{
   border-right: solid black 2px;
   opacity: 0.9;
 }
+.general-content-end-container-outer{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  width: 12px;
+  height: 100%;
+  content: '';
+  background: -webkit-linear-gradient(top,#f7c02f 1%,#f7c02f 15%,#f7c02f 21%,rgba(247,192,47,0) 22%,rgba(247,192,47,0) 25%,rgba(247,192,47,0) 74%,#f7c02f 75%,#f7c02f 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(1%,#f7c02f),color-stop(15%,#f7c02f),color-stop(21%,#f7c02f),color-stop(22%,rgba(247,192,47,0)),color-stop(25%,rgba(247,192,47,0)),color-stop(74%,rgba(247,192,47,0)),color-stop(75%,#f7c02f),to(#f7c02f));
+  background: -o-linear-gradient(top,#f7c02f 1%,#f7c02f 15%,#f7c02f 21%,rgba(247,192,47,0) 22%,rgba(247,192,47,0) 25%,rgba(247,192,47,0) 74%,#f7c02f 75%,#f7c02f 100%);
+  background: linear-gradient(to bottom,#f7c02f 1%,#f7c02f 15%,#f7c02f 21%,rgba(247,192,47,0) 22%,rgba(247,192,47,0) 25%,rgba(247,192,47,0) 74%,#f7c02f 75%,#f7c02f 100%);
+}
 .general-content-end-container-inner{
   background: white;
   opacity: 0.9;

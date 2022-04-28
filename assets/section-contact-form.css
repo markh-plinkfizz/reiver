@@ -22,6 +22,8 @@
 
 .contact__button {
   margin-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media screen and (min-width: 750px) {

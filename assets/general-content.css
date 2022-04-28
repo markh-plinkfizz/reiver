@@ -23,8 +23,9 @@ body{
 .general-content-end-container-outer{
   margin: 0 20px;
   padding: 10px;
-  border-left: solid black 1px;
-  border-right: solid black 1px;
+  border-left: solid black 2px;
+  border-right: solid black 2px;
+  opacity: 0.9;
 }
 .general-content-end-container-inner{
   background: white;

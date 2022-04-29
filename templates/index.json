@@ -37,8 +37,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/shutterstock_355191470.jpg",
         "image_overlay_color": "#c44040",
-        "image_overlay_opacity": 60,
-        "image_height": "small",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -204,8 +204,8 @@
         "stack_images_on_mobile": false,
         "show_text_below": false,
         "image_banner_top_padding": 0,
-        "image_banner_bottom_padding": 0,
-        "image_banner_bottom_padding_color": ""
+        "image_banner_bottom_padding": 10,
+        "image_banner_bottom_padding_color": "#121212"
       }
     },
     "16512436222cc9e18b": {
@@ -256,8 +256,8 @@
         "stack_images_on_mobile": false,
         "show_text_below": false,
         "image_banner_top_padding": 0,
-        "image_banner_bottom_padding": 0,
-        "image_banner_bottom_padding_color": ""
+        "image_banner_bottom_padding": 10,
+        "image_banner_bottom_padding_color": "#121212"
       }
     },
     "rich_text": {
@@ -291,59 +291,13 @@
         "padding_bottom": 36
       }
     },
-    "1649066276ac5fe578": {
-      "type": "rich-text",
-      "blocks": {
-        "16490662762e904919-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "16490662762e904919-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16490662762e904919-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "16490662762e904919-3": {
-          "type": "image",
-          "settings": {
-            "image_align": "flex-start",
-            "image_width": 180,
-            "image_height": 90
-          }
-        }
-      },
-      "block_order": [
-        "16490662762e904919-0",
-        "16490662762e904919-1",
-        "16490662762e904919-2",
-        "16490662762e904919-3"
-      ],
-      "settings": {
-        "background_color": "#000000",
-        "text_color": "#ffffff",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 12
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -353,6 +307,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -362,6 +317,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -371,6 +327,7 @@
         "851c02cf-e79b-4f15-bd39-e5fd84dd2722": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -434,6 +391,7 @@
         "1648720595f4cd5920-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -443,6 +401,7 @@
         "1648720595f4cd5920-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -452,6 +411,7 @@
         "1648720595f4cd5920-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -461,6 +421,7 @@
         "30f91ea6-274d-4445-a88c-30a8118923e3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -470,6 +431,7 @@
         "bbd515b9-de0e-4d1b-b452-e05c0fde5006": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -479,6 +441,7 @@
         "8d17d658-49bb-433d-b782-e5549eccd97d": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -488,6 +451,7 @@
         "4f297651-b6ce-4202-aa06-260e7170c1d7": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -534,7 +498,6 @@
     "1651243609f6b94dcd",
     "16512436222cc9e18b",
     "rich_text",
-    "1649066276ac5fe578",
     "multicolumn",
     "16487208320bc88b26",
     "1648720595578fb203"

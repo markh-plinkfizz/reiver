@@ -480,7 +480,7 @@
         "button_link": "",
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "full_page_width": false,
         "full_width_images_columns": false,

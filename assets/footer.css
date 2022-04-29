@@ -2,6 +2,7 @@ footer{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background: black;
 }
 .footer-logo{
   width: 200px;

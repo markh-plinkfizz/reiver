@@ -1,23 +1,23 @@
 {% comment %}theme-check-disable UndefinedObject{% endcomment %}
 {{ 'footer.css' | asset_url | stylesheet_tag }}
 <footer>
-  <img src="https://www.plinkfizz.com/wp-content/uploads/2019/10/logo-white.png"/>
+  <img class="footer-logo" src="https://www.plinkfizz.com/wp-content/uploads/2019/10/logo-white.png"/>
   <h2>CONTACT US</h2>
-  <p>
+  <p class="footer-contact-paragraph">
     providus, occuptio demporestis eerupt ionse<br>
     TEL. 000 123 4567
   </p>
   <span>REIVER</span>
-  <p>
+  <p class="footer-second-paragraph">
     providus<br>
     occuptio<br>
     demporestis<br>
     ionse<br>
   </p>
   <span class="letter-spacing">FOLLOW US</span>
-  <p>
+  <div class="footer-social-links-container">
     soc links here
-  </p>
+  </div>
 </footer>
 
 {% javascript %}

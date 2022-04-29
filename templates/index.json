@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Fitness experts trusted by Olympians",
+            "heading": "FITNESS EXPERTS TRUSTED BY OLYMPIANS",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Us nis perem hicae solecaero quo eat utate pariaeriatur sam qui officab ipsaperi coritat vellab ium in pa in est int, ut accusciae re providus, occuptio demporestis eserupt ionsequodi doluptasit explandandus exerfer chillab orrores equatinvera imporendunt quam que alit est",
+            "text": "We’re trusted by and have worked with hundreds of Olympic athletes, national and international sports people, in our 30 years. All fitness equipment is tested by sports professionals until we’re certain that every element is perfect. Trust us – Olympians do.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Discover more",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -35,10 +35,10 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/rack-of-womens-clothing.jpg",
-        "image_overlay_color": "#911f1f",
+        "image": "shopify:\/\/shop_images\/shutterstock_355191470.jpg",
+        "image_overlay_color": "#c44040",
         "image_overlay_opacity": 50,
-        "image_height": "small",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -58,24 +58,24 @@
         "1648715574414fd41e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "DESIGN AND FITOUT SOLUTIONS",
             "heading_size": "h1"
           }
         },
         "1648715574414fd41e-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "We provide solutions for anyone looking for premium quality fitness equipment and commercial gym spaces. Whether you’re opening a home gym or searching for quality hotel fitness equipment, Reiver Fitness is here to help. We listen to your needs and provide a solution for your gym equipment needs.",
             "text_style": "body"
           }
         },
-        "1648715574414fd41e-2": {
+        "b5d26cb2-ff9f-447d-95ff-f8fba2bbfefb": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Discover more",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -84,12 +84,12 @@
       "block_order": [
         "1648715574414fd41e-0",
         "1648715574414fd41e-1",
-        "1648715574414fd41e-2"
+        "b5d26cb2-ff9f-447d-95ff-f8fba2bbfefb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
-        "image_overlay_color": "#b49513",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/shutterstock_483898186.jpg",
+        "image_overlay_color": "#a16b15",
+        "image_overlay_opacity": 50,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -110,24 +110,24 @@
         "1648715967edc58411-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "FITTER FINANCE SOLUTIONS",
             "heading_size": "h1"
           }
         },
         "1648715967edc58411-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Our finance partners have 20+ years of experience providing businesses with flexible payment plans. With Reiver Fitness you can split the cost into several monthly payments to acquire the fitness equipment you need.",
             "text_style": "body"
           }
         },
         "1648715967edc58411-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Discover more",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -139,53 +139,149 @@
         "1648715967edc58411-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
+        "image": "shopify:\/\/shop_images\/shutterstock_1359491513.jpg",
         "image_overlay_color": "#224dd7",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 30,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
         "image_banner_top_padding": 0,
         "image_banner_bottom_padding": 10,
         "image_banner_bottom_padding_color": "#000000"
       }
     },
+    "1651243609f6b94dcd": {
+      "type": "image-banner",
+      "blocks": {
+        "1651243609b01438d7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "PROPERTY SOLUTIONS",
+            "heading_size": "h1"
+          }
+        },
+        "1651243609b01438d7-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our property partner, Genesis Coordination has provided commercial gym space solutions for over 10 years. We've worked with, and are trusted by, Olympic athletes to create the perfect training space for them. We can do the same for you.",
+            "text_style": "body"
+          }
+        },
+        "1651243609b01438d7-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover more",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651243609b01438d7-0",
+        "1651243609b01438d7-1",
+        "1651243609b01438d7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shutterstock_2127964577.jpg",
+        "image_overlay_color": "#b87f25",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "image_banner_top_padding": 0,
+        "image_banner_bottom_padding": 10,
+        "image_banner_bottom_padding_color": "#121212"
+      }
+    },
+    "16512436222cc9e18b": {
+      "type": "image-banner",
+      "blocks": {
+        "1651243622368f0d2c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BRAND AND KIT SOLUTIONS",
+            "heading_size": "h1"
+          }
+        },
+        "1651243622368f0d2c-1": {
+          "type": "text",
+          "settings": {
+            "text": "Reiver Fitness kit collections are hand-selected by our team of fitness experts to include only the best brands in the industry. We stock sports equipment which is tried and tested by Olympic athletes so we can be certain each piece of gym kit supports your individual goals and performance abilities.",
+            "text_style": "body"
+          }
+        },
+        "1651243622368f0d2c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover more",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651243622368f0d2c-0",
+        "1651243622368f0d2c-1",
+        "1651243622368f0d2c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shutterstock_190250762.jpg",
+        "image_overlay_color": "#c33131",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "image_banner_top_padding": 0,
+        "image_banner_bottom_padding": 10,
+        "image_banner_bottom_padding_color": "#121212"
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
+          "type": "image",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/Reiver-04.png",
+            "image_align": "center",
+            "image_width": 360,
+            "image_height": 180
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
-            "image_align": "center",
-            "image_width": 360,
-            "image_height": 180
+            "text": "<p>Reiver Fitness is here to shake things up the fitness world! We supply only the best fitness equipment from across the globe, so we can be certain each piece supports your goals and performance abilities. Our mission is to help you build your dream gym.<\/p>"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c"
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c",
+        "text"
       ],
       "settings": {
         "background_color": "#000000",
@@ -195,61 +291,13 @@
         "padding_bottom": 36
       }
     },
-    "1649066276ac5fe578": {
-      "type": "rich-text",
-      "blocks": {
-        "16490662762e904919-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "16490662762e904919-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16490662762e904919-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "16490662762e904919-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
-            "image_align": "flex-start",
-            "image_width": 180,
-            "image_height": 90
-          }
-        }
-      },
-      "block_order": [
-        "16490662762e904919-0",
-        "16490662762e904919-1",
-        "16490662762e904919-2",
-        "16490662762e904919-3"
-      ],
-      "settings": {
-        "background_color": "#000000",
-        "text_color": "#ffffff",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 12
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -259,7 +307,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/self-serve-coffee-shop.jpg",
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -269,7 +317,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -279,7 +327,7 @@
         "851c02cf-e79b-4f15-bd39-e5fd84dd2722": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/glass-with-iced-red-beverage-reflects-on-a-white-table.jpg",
+            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -343,7 +391,7 @@
         "1648720595f4cd5920-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -353,7 +401,7 @@
         "1648720595f4cd5920-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -363,7 +411,7 @@
         "1648720595f4cd5920-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -373,7 +421,7 @@
         "30f91ea6-274d-4445-a88c-30a8118923e3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -383,7 +431,7 @@
         "bbd515b9-de0e-4d1b-b452-e05c0fde5006": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -393,7 +441,7 @@
         "8d17d658-49bb-433d-b782-e5549eccd97d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -403,7 +451,7 @@
         "4f297651-b6ce-4202-aa06-260e7170c1d7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
+            "image": "shopify:\/\/shop_images\/download_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -441,167 +489,17 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1649066145263a0280": {
-      "type": "image-banner",
-      "blocks": {
-        "16490661451660d1b5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "16490661451660d1b5-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "16490661451660d1b5-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16490661451660d1b5-0",
-        "16490661451660d1b5-1",
-        "16490661451660d1b5-2"
-      ],
-      "settings": {
-        "image_overlay_color": "",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "image_banner_top_padding": 0,
-        "image_banner_bottom_padding": 0,
-        "image_banner_bottom_padding_color": ""
-      }
-    },
-    "16512211459ea7ab74": {
-      "type": "general-content-text-slider",
-      "blocks": {
-        "16512211450607e84a-0": {
-          "type": "text",
-          "settings": {
-            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16512211450607e84a-0"
-      ],
-      "settings": {
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
     }
   },
   "order": [
     "image_banner",
     "16487155745a6d60f5",
     "164871596708d22305",
+    "1651243609f6b94dcd",
+    "16512436222cc9e18b",
     "rich_text",
-    "1649066276ac5fe578",
     "multicolumn",
     "16487208320bc88b26",
-    "1648720595578fb203",
-    "featured_collection",
-    "collage",
-    "video",
-    "1649066145263a0280",
-    "16512211459ea7ab74"
+    "1648720595578fb203"
   ]
 }

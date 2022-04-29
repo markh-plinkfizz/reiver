@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Fitness experts trusted by Olympians",
+            "heading": "FITNESS EXPERTS TRUSTED BY OLYMPIANS",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Us nis perem hicae solecaero quo eat utate pariaeriatur sam qui officab ipsaperi coritat vellab ium in pa in est int, ut accusciae re providus, occuptio demporestis eserupt ionsequodi doluptasit explandandus exerfer chillab orrores equatinvera imporendunt quam que alit est",
+            "text": "We’re trusted by and have worked with hundreds of Olympic athletes, national and international sports people, in our 30 years. All fitness equipment is tested by sports professionals until we’re certain that every element is perfect. Trust us – Olympians do.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Discover more",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -57,24 +57,24 @@
         "1648715574414fd41e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "DESIGN AND FITOUT SOLUTIONS",
             "heading_size": "h1"
           }
         },
         "1648715574414fd41e-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "We provide solutions for anyone looking for premium quality fitness equipment and commercial gym spaces. Whether you’re opening a home gym or searching for quality hotel fitness equipment, Reiver Fitness is here to help. We listen to your needs and provide a solution for your gym equipment needs.",
             "text_style": "body"
           }
         },
-        "1648715574414fd41e-2": {
+        "b5d26cb2-ff9f-447d-95ff-f8fba2bbfefb": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Discover more",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -83,7 +83,7 @@
       "block_order": [
         "1648715574414fd41e-0",
         "1648715574414fd41e-1",
-        "1648715574414fd41e-2"
+        "b5d26cb2-ff9f-447d-95ff-f8fba2bbfefb"
       ],
       "settings": {
         "image_overlay_color": "#b49513",
@@ -108,24 +108,24 @@
         "1648715967edc58411-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "FITTER FINANCE SOLUTIONS",
             "heading_size": "h1"
           }
         },
         "1648715967edc58411-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Our finance partners have 20+ years of experience providing businesses with flexible payment plans. With Reiver Fitness you can split the cost into several monthly payments to acquire the fitness equipment you need.",
             "text_style": "body"
           }
         },
         "1648715967edc58411-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Discover more",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -142,15 +142,117 @@
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
         "image_banner_top_padding": 0,
         "image_banner_bottom_padding": 10,
         "image_banner_bottom_padding_color": "#000000"
+      }
+    },
+    "1651243609f6b94dcd": {
+      "type": "image-banner",
+      "blocks": {
+        "1651243609b01438d7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "PROPERTY SOLUTIONS",
+            "heading_size": "h1"
+          }
+        },
+        "1651243609b01438d7-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our property partner, Genesis Coordination has provided commercial gym space solutions for over 10 years. We've worked with, and are trusted by, Olympic athletes to create the perfect training space for them. We can do the same for you.",
+            "text_style": "body"
+          }
+        },
+        "1651243609b01438d7-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover more",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651243609b01438d7-0",
+        "1651243609b01438d7-1",
+        "1651243609b01438d7-2"
+      ],
+      "settings": {
+        "image_overlay_color": "#288f1f",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "image_banner_top_padding": 0,
+        "image_banner_bottom_padding": 0,
+        "image_banner_bottom_padding_color": ""
+      }
+    },
+    "16512436222cc9e18b": {
+      "type": "image-banner",
+      "blocks": {
+        "1651243622368f0d2c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BRAND AND KIT SOLUTIONS",
+            "heading_size": "h1"
+          }
+        },
+        "1651243622368f0d2c-1": {
+          "type": "text",
+          "settings": {
+            "text": "Reiver Fitness kit collections are hand-selected by our team of fitness experts to include only the best brands in the industry. We stock sports equipment which is tried and tested by Olympic athletes so we can be certain each piece of gym kit supports your individual goals and performance abilities.",
+            "text_style": "body"
+          }
+        },
+        "1651243622368f0d2c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Discover more",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651243622368f0d2c-0",
+        "1651243622368f0d2c-1",
+        "1651243622368f0d2c-2"
+      ],
+      "settings": {
+        "image_overlay_color": "#992cb6",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "image_banner_top_padding": 0,
+        "image_banner_bottom_padding": 0,
+        "image_banner_bottom_padding_color": ""
       }
     },
     "rich_text": {
@@ -431,6 +533,8 @@
     "image_banner",
     "16487155745a6d60f5",
     "164871596708d22305",
+    "1651243609f6b94dcd",
+    "16512436222cc9e18b",
     "rich_text",
     "1649066276ac5fe578",
     "multicolumn",

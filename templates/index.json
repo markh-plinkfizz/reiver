@@ -35,7 +35,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/rack-of-womens-clothing.jpg",
         "image_overlay_color": "#911f1f",
         "image_overlay_opacity": 50,
         "image_height": "small",
@@ -87,7 +86,6 @@
         "1648715574414fd41e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
         "image_overlay_color": "#b49513",
         "image_overlay_opacity": 40,
         "image_height": "medium",
@@ -139,7 +137,6 @@
         "1648715967edc58411-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
         "image_overlay_color": "#224dd7",
         "image_overlay_opacity": 40,
         "image_height": "medium",
@@ -175,7 +172,6 @@
         "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
             "image_align": "center",
             "image_width": 360,
             "image_height": 180
@@ -222,7 +218,6 @@
         "16490662762e904919-3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
             "image_align": "flex-start",
             "image_width": 180,
             "image_height": 90
@@ -249,7 +244,6 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -259,7 +253,6 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/self-serve-coffee-shop.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -269,7 +262,6 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -279,7 +271,6 @@
         "851c02cf-e79b-4f15-bd39-e5fd84dd2722": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/glass-with-iced-red-beverage-reflects-on-a-white-table.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -343,7 +334,6 @@
         "1648720595f4cd5920-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -353,7 +343,6 @@
         "1648720595f4cd5920-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -363,7 +352,6 @@
         "1648720595f4cd5920-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -373,7 +361,6 @@
         "30f91ea6-274d-4445-a88c-30a8118923e3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -383,7 +370,6 @@
         "bbd515b9-de0e-4d1b-b452-e05c0fde5006": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -393,7 +379,6 @@
         "8d17d658-49bb-433d-b782-e5549eccd97d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -403,7 +388,6 @@
         "4f297651-b6ce-4202-aa06-260e7170c1d7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -441,152 +425,6 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1649066145263a0280": {
-      "type": "image-banner",
-      "blocks": {
-        "16490661451660d1b5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "16490661451660d1b5-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "16490661451660d1b5-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16490661451660d1b5-0",
-        "16490661451660d1b5-1",
-        "16490661451660d1b5-2"
-      ],
-      "settings": {
-        "image_overlay_color": "",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "image_banner_top_padding": 0,
-        "image_banner_bottom_padding": 0,
-        "image_banner_bottom_padding_color": ""
-      }
-    },
-    "16512211459ea7ab74": {
-      "type": "general-content-text-slider",
-      "blocks": {
-        "16512211450607e84a-0": {
-          "type": "text",
-          "settings": {
-            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16512211450607e84a-0"
-      ],
-      "settings": {
-        "padding_top": 10,
-        "padding_bottom": 10
-      }
     }
   },
   "order": [
@@ -597,11 +435,6 @@
     "1649066276ac5fe578",
     "multicolumn",
     "16487208320bc88b26",
-    "1648720595578fb203",
-    "featured_collection",
-    "collage",
-    "video",
-    "1649066145263a0280",
-    "16512211459ea7ab74"
+    "1648720595578fb203"
   ]
 }

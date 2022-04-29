@@ -1,36 +1,5 @@
 {
   "sections": {
-    "1651067548b1a5401b": {
-      "type": "general-content-text-image",
-      "settings": {
-        "padding_top": 50,
-        "padding_bottom": 10,
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-        "text_background_color": "#b99318",
-        "right-image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
-        "right-image-caption": "<p>abcd<\/p>"
-      }
-    },
-    "165106336545a0d979": {
-      "type": "general-content-3-col",
-      "settings": {
-        "padding_top": 10,
-        "padding_bottom": 10,
-        "left-image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
-        "left-image-caption": "<p>left caption<\/p>",
-        "right-image": "shopify:\/\/shop_images\/silhouetted-couples-look-out-at-a-city-at-night.jpg",
-        "right-image-caption": "<p>right caption<\/p>",
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-        "text_background_color": "#b5b8ba"
-      }
-    },
-    "main": {
-      "type": "page-general-content",
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "16508961172d434bb2": {
       "type": "general-content-start",
       "blocks": {
@@ -64,6 +33,69 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "1651221166ca9af60e": {
+      "type": "general-content-text-slider",
+      "blocks": {
+        "1651221166e9581d94-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "2ac36f11-d7f4-4c30-99d0-d710f71a81c3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a-man-grabs-a-metallic-handle-hanging-from-the-ceiling.jpg"
+          }
+        },
+        "c9e2df10-da3c-4493-b7cc-813211ab5ce2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.png"
+          }
+        }
+      },
+      "block_order": [
+        "1651221166e9581d94-0",
+        "2ac36f11-d7f4-4c30-99d0-d710f71a81c3",
+        "c9e2df10-da3c-4493-b7cc-813211ab5ce2"
+      ],
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "1651067548b1a5401b": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 10,
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "text_background_color": "#b99318",
+        "right-image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
+        "right-image-caption": "<p>abcd<\/p>"
+      }
+    },
+    "165106336545a0d979": {
+      "type": "general-content-3-col",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "left-image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
+        "left-image-caption": "<p>left caption<\/p>",
+        "right-image": "shopify:\/\/shop_images\/silhouetted-couples-look-out-at-a-city-at-night.jpg",
+        "right-image-caption": "<p>right caption<\/p>",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "text_background_color": "#b5b8ba"
+      }
+    },
+    "main": {
+      "type": "page-general-content",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "165096479741ba20d7": {
@@ -103,38 +135,6 @@
         "padding_bottom": 20,
         "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
         "background_color": "#a5b4e2"
-      }
-    },
-    "1651221166ca9af60e": {
-      "type": "general-content-text-slider",
-      "blocks": {
-        "1651221166e9581d94-0": {
-          "type": "text",
-          "settings": {
-            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "2ac36f11-d7f4-4c30-99d0-d710f71a81c3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/a-man-grabs-a-metallic-handle-hanging-from-the-ceiling.jpg"
-          }
-        },
-        "c9e2df10-da3c-4493-b7cc-813211ab5ce2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/download.png"
-          }
-        }
-      },
-      "block_order": [
-        "1651221166e9581d94-0",
-        "2ac36f11-d7f4-4c30-99d0-d710f71a81c3",
-        "c9e2df10-da3c-4493-b7cc-813211ab5ce2"
-      ],
-      "settings": {
-        "padding_top": 10,
-        "padding_bottom": 10
       }
     },
     "165089761090fda614": {
@@ -197,14 +197,14 @@
     }
   },
   "order": [
+    "16508961172d434bb2",
+    "1651221166ca9af60e",
     "1651067548b1a5401b",
     "165106336545a0d979",
     "main",
-    "16508961172d434bb2",
     "165096479741ba20d7",
     "1651070934504c2c89",
     "1651150800361d2c81",
-    "1651221166ca9af60e",
     "165089761090fda614",
     "16511535615c8dfd6e"
   ]

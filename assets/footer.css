@@ -25,6 +25,8 @@ footer h2, footer span, footer p{
 }
 .footer-social-links-container{
   margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
 }
 
 @media screen and (min-width: 750px) {

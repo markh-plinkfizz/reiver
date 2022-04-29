@@ -1,6 +1,7 @@
 footer{
   display: flex;
-  justify-content: center; 
+  flex-direction: column;
+  justify-content: center;
 }
 h2, span, p{
   color: white;

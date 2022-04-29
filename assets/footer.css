@@ -29,9 +29,12 @@ footer h2, footer span, footer p{
   justify-content: center;
 }
 .footer-social-icon{
-  margin-left: 10px;
-  margin-right: 10px;
-  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: black;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 @media screen and (min-width: 750px) {

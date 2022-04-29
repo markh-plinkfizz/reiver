@@ -131,7 +131,7 @@
     "1651150800361d2c81": {
       "type": "general-content-full-text",
       "settings": {
-        "padding_top": 20,
+        "padding_top": 10,
         "padding_bottom": 20,
         "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
         "background_color": "#a5b4e2"

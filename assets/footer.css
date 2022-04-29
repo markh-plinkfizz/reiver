@@ -10,7 +10,7 @@ footer{
   margin-top: 115px;
   margin-bottom: 50px;
 }
-h2, span, p{
+footer h2, footer span, footer p{
   color: white;
   text-align: center;
 }

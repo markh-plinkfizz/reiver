@@ -1,0 +1,8 @@
+footer{
+  display: flex;
+  justify-content: center; 
+}
+h2, span, p{
+  color: white;
+  text-align: center;
+}

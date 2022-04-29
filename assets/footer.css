@@ -7,3 +7,6 @@ h2, span, p{
   color: white;
   text-align: center;
 }
+.letter-spacing{
+  letter-spacing: 2px;
+}

@@ -570,16 +570,22 @@
         "image_banner_bottom_padding_color": ""
       }
     },
-    "1650619414687aad7b": {
-      "type": "general-content",
+    "16512211459ea7ab74": {
+      "type": "general-content-text-slider",
+      "blocks": {
+        "16512211450607e84a-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16512211450607e84a-0"
+      ],
       "settings": {
-        "background_color": "#c61a1a"
-      }
-    },
-    "165061941879aa65f3": {
-      "type": "general-content",
-      "settings": {
-        "background_color": "#000000"
+        "padding_top": 10,
+        "padding_bottom": 10
       }
     }
   },
@@ -596,7 +602,6 @@
     "collage",
     "video",
     "1649066145263a0280",
-    "1650619414687aad7b",
-    "165061941879aa65f3"
+    "16512211459ea7ab74"
   ]
 }

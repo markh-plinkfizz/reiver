@@ -3,6 +3,10 @@ footer{
   flex-direction: column;
   justify-content: center;
 }
+img{
+  width: 100px;
+  height: 20px;
+}
 h2, span, p{
   color: white;
   text-align: center;

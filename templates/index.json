@@ -258,32 +258,25 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
+          "type": "image",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/Reiver-04.png",
+            "image_align": "center",
+            "image_width": 360,
+            "image_height": 180
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
-          "type": "image",
-          "settings": {
-            "image_align": "center",
-            "image_width": 360,
-            "image_height": 180
+            "text": "<p>Reiver Fitness is here to shake things up the fitness world! We supply only the best fitness equipment from across the globe, so we can be certain each piece supports your goals and performance abilities. Our mission is to help you build your dream gym.<\/p>"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c"
+        "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c",
+        "text"
       ],
       "settings": {
         "background_color": "#000000",

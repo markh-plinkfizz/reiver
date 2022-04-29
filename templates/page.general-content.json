@@ -1,29 +1,5 @@
 {
   "sections": {
-    "1651067548b1a5401b": {
-      "type": "general-content-text-image",
-      "settings": {
-        "padding_top": 50,
-        "padding_bottom": 10,
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-        "text_background_color": "#b99318",
-        "right-image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
-        "right-image-caption": "<p>abcd<\/p>"
-      }
-    },
-    "165106336545a0d979": {
-      "type": "general-content-3-col",
-      "settings": {
-        "padding_top": 10,
-        "padding_bottom": 10,
-        "left-image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
-        "left-image-caption": "<p>left caption<\/p>",
-        "right-image": "shopify:\/\/shop_images\/silhouetted-couples-look-out-at-a-city-at-night.jpg",
-        "right-image-caption": "<p>right caption<\/p>",
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-        "text_background_color": "#b5b8ba"
-      }
-    },
     "main": {
       "type": "page-general-content",
       "settings": {
@@ -66,45 +42,6 @@
         "show_text_below": false
       }
     },
-    "165096479741ba20d7": {
-      "type": "general-content-text-text",
-      "blocks": {
-        "16509647978adf6545-0": {
-          "type": "text",
-          "settings": {
-            "left-text": "<p>LEFT TEXT<\/p><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left_background_color": "#f3f3f3",
-            "right-text": "<p>RIGHT TEXT<\/p><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "right_background_color": "#e22120"
-          }
-        }
-      },
-      "block_order": [
-        "16509647978adf6545-0"
-      ],
-      "settings": {
-        "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
-    "1651070934504c2c89": {
-      "type": "general-content-full-image",
-      "settings": {
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "right-image": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
-        "right-image-caption": "<p>capy<\/p>"
-      }
-    },
-    "1651150800361d2c81": {
-      "type": "general-content-full-text",
-      "settings": {
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-        "background_color": "#a5b4e2"
-      }
-    },
     "1651221166ca9af60e": {
       "type": "general-content-text-slider",
       "blocks": {
@@ -133,8 +70,71 @@
         "c9e2df10-da3c-4493-b7cc-813211ab5ce2"
       ],
       "settings": {
-        "padding_top": 10,
+        "padding_top": 50,
         "padding_bottom": 10
+      }
+    },
+    "1651067548b1a5401b": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "text_background_color": "#b99318",
+        "right-image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
+        "right-image-caption": "<p>abcd<\/p>"
+      }
+    },
+    "165106336545a0d979": {
+      "type": "general-content-3-col",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "left-image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
+        "left-image-caption": "<p>left caption<\/p>",
+        "right-image": "shopify:\/\/shop_images\/silhouetted-couples-look-out-at-a-city-at-night.jpg",
+        "right-image-caption": "<p>right caption<\/p>",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "text_background_color": "#b5b8ba"
+      }
+    },
+    "165096479741ba20d7": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "16509647978adf6545-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>LEFT TEXT<\/p><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left_background_color": "#f3f3f3",
+            "right-text": "<p>RIGHT TEXT<\/p><p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "right_background_color": "#e22120"
+          }
+        }
+      },
+      "block_order": [
+        "16509647978adf6545-0"
+      ],
+      "settings": {
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1651070934504c2c89": {
+      "type": "general-content-full-image",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "right-image": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
+        "right-image-caption": "<p>capy<\/p>"
+      }
+    },
+    "1651150800361d2c81": {
+      "type": "general-content-full-text",
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 20,
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "background_color": "#a5b4e2"
       }
     },
     "165089761090fda614": {
@@ -197,14 +197,14 @@
     }
   },
   "order": [
-    "1651067548b1a5401b",
-    "165106336545a0d979",
     "main",
     "16508961172d434bb2",
+    "1651221166ca9af60e",
+    "1651067548b1a5401b",
+    "165106336545a0d979",
     "165096479741ba20d7",
     "1651070934504c2c89",
     "1651150800361d2c81",
-    "1651221166ca9af60e",
     "165089761090fda614",
     "16511535615c8dfd6e"
   ]

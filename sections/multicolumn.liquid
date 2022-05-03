@@ -109,6 +109,9 @@
                       loading="lazy"
                     >
                   </div>
+                  <div class="multicolumn-inner-text">
+                    {{ block.settings.inner_text }}
+                  </div>
                 </div>
               {%- endif -%}
               <div class="multicolumn-card__info">
@@ -382,6 +385,11 @@
           "type": "image_picker",
           "id": "image",
           "label": "t:sections.multicolumn.blocks.column.settings.image.label"
+        },
+        {
+          "type": "text",
+          "id": "inner_text",
+          "label": "Inner Text"
         },
         {
           "type": "text",

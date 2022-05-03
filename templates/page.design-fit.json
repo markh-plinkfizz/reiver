@@ -40,10 +40,22 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "16515732440a4ceb8b": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "text": "<p>Whether you're looking to refit and refresh your gym, or even create a new space from the ground up, Reiver Fitness can help you. Using our experience and skills with a little help from the latest design software, it's our mission to bring your vision to life.<\/p>",
+        "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": ""
+      }
     }
   },
   "order": [
     "main",
-    "1651573177403f39ba"
+    "1651573177403f39ba",
+    "16515732440a4ceb8b"
   ]
 }

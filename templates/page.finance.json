@@ -6,9 +6,77 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1651575336259f1361": {
+      "type": "general-content-start",
+      "blocks": {
+        "1651575336563cbdc5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1651575336563cbdc5-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1651575336563cbdc5-0",
+        "1651575336563cbdc5-1"
+      ],
+      "settings": {
+        "image_overlay_color": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "banner_bottom_margin": 370,
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16515753474cd1bf3e": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "text_background_color": "",
+        "right-image-caption": ""
+      }
+    },
+    "1651575356eb076f09": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "1651575356e2d8596e-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left_background_color": "",
+            "right-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "right_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651575356e2d8596e-0"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1651575336259f1361",
+    "16515753474cd1bf3e",
+    "1651575356eb076f09"
   ]
 }

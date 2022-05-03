@@ -82,8 +82,8 @@
         "16515737974f6d81e0-0"
       ],
       "settings": {
-        "padding_top": 10,
-        "padding_bottom": 10
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "1651573846c4021062": {
@@ -128,7 +128,7 @@
       "settings": {
         "padding_top": 300,
         "padding_bottom": 300,
-        "image": "shopify:\/\/shop_images\/shutterstock_483898186.jpg"
+        "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg"
       }
     }
   },

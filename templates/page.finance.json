@@ -44,7 +44,7 @@
     "16515753474cd1bf3e": {
       "type": "general-content-text-image",
       "settings": {
-        "padding_top": 20,
+        "padding_top": 50,
         "padding_bottom": 20,
         "text": "<p>Finance options offer a flexible way of paying for the gym equipment you need. Our finance partners have over 20 years of experience providing flexible payment plans. Rather than buying based on budget, our finance solutions help split the cost into several monthly instalments. You can then focus on investing in quality kit. <\/p>",
         "text_background_color": "",
@@ -72,12 +72,58 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "165157547736e6c942": {
+      "type": "general-content-end",
+      "blocks": {
+        "165157547668ea8b61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "165157547668ea8b61-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "165157547668ea8b61-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "165157547668ea8b61-3": {
+          "type": "image",
+          "settings": {
+            "image_align": "center",
+            "image_width": 100,
+            "image_height": 100
+          }
+        }
+      },
+      "block_order": [
+        "165157547668ea8b61-0",
+        "165157547668ea8b61-1",
+        "165157547668ea8b61-2",
+        "165157547668ea8b61-3"
+      ],
+      "settings": {
+        "padding_top": 300,
+        "padding_bottom": 300,
+        "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg"
+      }
     }
   },
   "order": [
     "main",
     "1651575336259f1361",
     "16515753474cd1bf3e",
-    "1651575356eb076f09"
+    "1651575356eb076f09",
+    "165157547736e6c942"
   ]
 }

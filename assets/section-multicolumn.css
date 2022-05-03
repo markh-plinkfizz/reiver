@@ -239,9 +239,10 @@
   left: 0;
   height: 100%;
   width: 100%;
-  padding: 20px;
+  padding: 10px;
   z-index: 10;
   transition: 0.5s;
+  font-size: 1rem;
 }
 .multicolumn-inner-text::before{
   content: "";

@@ -347,6 +347,7 @@
       ],
       "settings": {
         "title": "",
+        "min_col_height": 350,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -481,6 +482,7 @@
       ],
       "settings": {
         "title": "",
+        "min_col_height": 0,
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",

@@ -91,25 +91,13 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "77b64147-991b-4cd6-bf6d-75e91c1480c2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
-            "inner_text": "<p><strong>Marpo <\/strong><br\/>Whether training professional sports teams or retaining and motivating gym members, Marpo rope trainers are some of the most versatile and highest-performing machines available in the world. Browse our Marpo range here. <\/p>",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "16515768666d1df0c5-0",
         "16515768666d1df0c5-1",
         "16515768666d1df0c5-2",
-        "a25e0cc5-76e6-41b7-a212-eb76e3d91e6a",
-        "77b64147-991b-4cd6-bf6d-75e91c1480c2"
+        "a25e0cc5-76e6-41b7-a212-eb76e3d91e6a"
       ],
       "settings": {
         "title": "",
@@ -117,14 +105,14 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "full_page_width": false,
         "full_width_images_columns": false,

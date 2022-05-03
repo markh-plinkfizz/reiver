@@ -73,6 +73,27 @@
         "padding_bottom": 20
       }
     },
+    "16515863220b2b2f72": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "1651586322fadc49a6-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>•\tTurn-key Solutions: Our finance options cover the cost of your new equipment, installation, maintenance and service plans. This also includes the build costs, flooring, IT, furniture, air conditioning, changing rooms and much more. <br\/><br\/>•\tLeasing: All costs can be rolled into one fixed monthly payment to be more manageable and affordable.<br\/><br\/>•\tFlexible Refresh Options: Provides protection from technology obsolescence while giving you the ability to expand your range.<\/p>",
+            "left_background_color": "",
+            "right-text": "<p>•\tBespoke Facilities: Allows staged drawdowns or variations to configuration and cost before installation.<br\/><br\/>•\tFlexible Repayment Terms: We have terms ranging from 1-5 years that can be tailored to your financial situation. You can pay monthly, quarterly or annually. <br\/><br\/>•\tTax Benefits: Equipment purchased on finance lease is classed as operating expenses and is fully deductible from taxable income as a trading expense. <\/p>",
+            "right_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651586322fadc49a6-0"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "165157547736e6c942": {
       "type": "general-content-end",
       "blocks": {
@@ -124,6 +145,7 @@
     "1651575336259f1361",
     "16515753474cd1bf3e",
     "1651575356eb076f09",
+    "16515863220b2b2f72",
     "165157547736e6c942"
   ]
 }

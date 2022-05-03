@@ -2435,6 +2435,14 @@ menu-drawer + .header__search {
   }
 }
 
+.header__submenu a{
+  color: black;
+  text-decoration: none;
+}
+.header__submenu a::after{
+  display: none;
+}
+
 .no-js .predictive-search {
   display: none;
 }

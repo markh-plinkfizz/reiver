@@ -64,12 +64,22 @@
         "text": "<p>Whether you're looking to refit and refresh your gym, or even create a new space from the ground up, Reiver Fitness can help you. Using our experience and skills with a little help from the latest design software, it's our mission to bring your vision to life.<\/p>",
         "text_background_color": "#f3f3f3"
       }
+    },
+    "16515734500ecbf3eb": {
+      "type": "general-content-full-text",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "text": "<p>Reiver Fitness offers a comprehensive gym design and fitout service. We work with experienced architects, interior designers, and reliable building and fitout contractors, bringing dream gym spaces to life. Our team of fitness experts will turn your vision into reality.<br\/><br\/>Our contractors have completed projects for many businesses, including Pure Gym and Nuffield Health. We’ve also worked with SC Johnson, Accenture, Matrix Fitness, EasyGym, and Staffordshire University. Our next project starts with you. <br\/><\/p>",
+        "background_color": ""
+      }
     }
   },
   "order": [
     "main",
     "1651573177403f39ba",
     "16515732440a4ceb8b",
-    "16515732484ce7e35c"
+    "16515732484ce7e35c",
+    "16515734500ecbf3eb"
   ]
 }

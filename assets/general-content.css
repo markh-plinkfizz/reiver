@@ -87,7 +87,7 @@ body{
   width: 100%;
 }
 @media screen and (max-width: 749px){
-  .general-2-col-layout div:first-of-type{
+  .general-2-col-layout > div:first-of-type{
     margin-bottom: 20px;
   }
   .general-display-only-on-desktop{

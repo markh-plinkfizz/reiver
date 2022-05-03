@@ -297,7 +297,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
+            "image": "shopify:\/\/shop_images\/gaby.jpg",
             "inner_text": "<p>‘’I have built a quality relationship with WKG Sports. They have advised, and enabled me to build a home gym, which has been paramount for my Strength & Conditioning programme. When COVID and Brexit were making deliveries difficult, I received personal delivery straight to my door. I have built a personal partnership with Jon and the WKG Team, and I know I can seek trustworthy advice when needed. All of the equipment I have purchased has been of amazing quality and suits my requirements perfectly.’’ <\/p><p><strong>Gaby Homer <\/strong>– Double Elite Irish Track Cycling Champion<\/p>",
             "title": "",
             "text": "",
@@ -308,7 +308,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
+            "image": "shopify:\/\/shop_images\/bianca.jpg",
             "inner_text": "<p>‘’I absolutely love the service from WKG Sports! It’s an incredible company, they really helped me get my strength back during lockdown. The products are very good and reliable, and the team are awesome and very helpful too.’’ <\/p><p><strong>Bianca Williams<\/strong> – Team GB Sprinter<\/p>",
             "title": "",
             "text": "",
@@ -319,7 +319,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
+            "image": "shopify:\/\/shop_images\/jonathon.jpg",
             "inner_text": "<p>‘’Thanks everyone. With all facilities closed down, getting a sprint session done became really tough, so the curved treadmill has been a great addition.’’ <\/p><p><strong>Jonathan Joseph<\/strong> – England Rugby and Bath Rugby Centre<\/p>",
             "title": "",
             "text": "",
@@ -330,7 +330,7 @@
         "851c02cf-e79b-4f15-bd39-e5fd84dd2722": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/green-plants-grow-in-lines-on-rolling-hills.jpg",
+            "image": "shopify:\/\/shop_images\/stuart.jpg",
             "inner_text": "<p>‘’The Draxfit+ curved treadmill is perfect for staying on top of my speed. I know I’d never be able to complete my training sessions on any other piece of equipment. It’s a great addition to my gym and allows me to build it into my session without having to change locations.’’ <\/p><p><strong>Stuart Hogg<\/strong> – Scotland Rugby Captain and Exeter Chiefs Fullback<\/p>",
             "title": "",
             "text": "",
@@ -350,7 +350,7 @@
         "min_col_height": 350,
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",

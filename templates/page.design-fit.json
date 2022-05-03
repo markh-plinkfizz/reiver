@@ -33,7 +33,7 @@
         "image_overlay_color": "",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "banner_bottom_margin": 0,
+        "banner_bottom_margin": 350,
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "mobile_content_alignment": "center",
@@ -44,18 +44,32 @@
     "16515732440a4ceb8b": {
       "type": "general-content-text-image",
       "settings": {
-        "padding_top": 20,
+        "padding_top": 50,
         "padding_bottom": 20,
         "text": "<p>Whether you're looking to refit and refresh your gym, or even create a new space from the ground up, Reiver Fitness can help you. Using our experience and skills with a little help from the latest design software, it's our mission to bring your vision to life.<\/p>",
         "text_background_color": "",
         "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
         "right-image-caption": ""
       }
+    },
+    "16515732484ce7e35c": {
+      "type": "general-content-3-col",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "left-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "left-image-caption": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": "",
+        "text": "<p>Whether you're looking to refit and refresh your gym, or even create a new space from the ground up, Reiver Fitness can help you. Using our experience and skills with a little help from the latest design software, it's our mission to bring your vision to life.<\/p>",
+        "text_background_color": "#f3f3f3"
+      }
     }
   },
   "order": [
     "main",
     "1651573177403f39ba",
-    "16515732440a4ceb8b"
+    "16515732440a4ceb8b",
+    "16515732484ce7e35c"
   ]
 }

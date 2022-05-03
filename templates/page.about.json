@@ -85,6 +85,27 @@
         "text": "<p>You’ll find high-standard equipment in one place with Reiver Fitness. We bring you top-of-the-range fitness brands, with fitness products of modern design and functionality. When it comes to convenience, safety and quality, we’re the experts! <\/p>",
         "text_background_color": ""
       }
+    },
+    "16515778926ab1d752": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "165157789264fe679c-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>If you’re looking for something unique, we can help! Our products and services are sought after by commercial health and fitness facilities and many more. We provide comprehensive solutions for anyone looking for premium quality fitness equipment. Whether you’re opening a home or garage gym, or even searching for quality hotel fitness equipment, your project starts with Reiver Fitness. <\/p>",
+            "left_background_color": "",
+            "right-text": "<p>Using digital technology and automation, we streamline our operations and processes for efficiency. Combine this with our humanistic ‘old school’ approach to sales, design, delivery and customer care, and buying from us couldn’t be easier! <\/p>",
+            "right_background_color": "#f3f3f3"
+          }
+        }
+      },
+      "block_order": [
+        "165157789264fe679c-0"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
@@ -92,6 +113,7 @@
     "165157772197e301cc",
     "1651577760126137ae",
     "16515778041650f947",
-    "165157780800aa889c"
+    "165157780800aa889c",
+    "16515778926ab1d752"
   ]
 }

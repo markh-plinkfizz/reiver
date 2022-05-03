@@ -239,6 +239,7 @@
   height: 100%;
   width: 100%;
   padding: 20px;
+  z-index: 10;
 }
 .multicolumn-inner-text::before{
   content: "";
@@ -249,4 +250,5 @@
   width: 100%;
   background: black;
   opacity: 0.5;
+  z-index: 5;
 }

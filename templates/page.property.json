@@ -40,10 +40,21 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "165157645734bf4651": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 20,
+        "text": "<p>Genesis Coordination has provided commercial gym space solutions for over 10 years. Professional athletes and international sports people have trusted us for a decade to create the perfect training space for them. We can do the same for you. <\/p>",
+        "text_background_color": "",
+        "right-image-caption": ""
+      }
     }
   },
   "order": [
     "main",
-    "16515764205d68c253"
+    "16515764205d68c253",
+    "165157645734bf4651"
   ]
 }

@@ -2440,7 +2440,10 @@ menu-drawer + .header__search {
   text-decoration: none;
 }
 .header__submenu a::after{
-  display: none;
+  display: none
+}
+.header__submenu .header__menu-item:hover{
+  color: black;
 }
 
 .no-js .predictive-search {

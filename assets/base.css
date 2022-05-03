@@ -2443,7 +2443,7 @@ menu-drawer + .header__search {
   display: none
 }
 .header__submenu .header__menu-item:hover{
-  color: black;
+  color: #383837;
 }
 
 .no-js .predictive-search {

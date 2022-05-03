@@ -719,7 +719,7 @@ h3 .icon-arrow,
   transform: translateX(-0.05rem);
 }
 
-/* base-details-summary */
+/* base-details-summary  */
 summary {
   cursor: pointer;
   list-style: none;

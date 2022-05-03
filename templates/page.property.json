@@ -33,7 +33,7 @@
         "image_overlay_color": "",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "banner_bottom_margin": 0,
+        "banner_bottom_margin": 350,
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "mobile_content_alignment": "center",

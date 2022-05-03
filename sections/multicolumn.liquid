@@ -15,6 +15,12 @@
     color: {{ section.settings.text_color }} !important;
   }
 
+  {% if section.settings.min_col_height != 0 %}
+    .section-{{ section.id }}-container .media, .section-{{ section.id }}-container img{
+      min-height: {{ section.settings.min_col_height }}px;
+    }
+  {% endif %}
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -166,6 +172,16 @@
       "id": "title",
       "default": "Multicolumn",
       "label": "t:sections.multicolumn.settings.title.label"
+    },
+    {
+      "type": "range",
+      "id": "min_col_height",
+      "min": 0,
+      "max": 1000,
+      "step": 10,
+      "unit": "px",
+      "label": "Minimum Column Height - if set the smallest height a column can be",
+      "default": 0
     },
     {
       "type": "select",

@@ -30,7 +30,7 @@
         "1651575336563cbdc5-1"
       ],
       "settings": {
-        "image_overlay_color": "",
+        "image_overlay_color": "#000000",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "banner_bottom_margin": 370,

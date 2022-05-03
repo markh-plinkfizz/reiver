@@ -6,9 +6,48 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1651576808000b497f": {
+      "type": "rich-text",
+      "blocks": {
+        "1651576808c959b0df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BRANDS AND KIT",
+            "heading_size": "h1"
+          }
+        },
+        "1651576808c959b0df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Reiver Fitness kit collections are hand-selected by our team of fitness experts to include only the best brands in the industry. Our equipment is tried and tested by Olympic athletes so we can be certain each piece supports your individual goals and performance abilities. Browse our full collection, from bikes to kettlebells, barbells and more! <\/p>"
+          }
+        },
+        "1651576808c959b0df-3": {
+          "type": "image",
+          "settings": {
+            "image_align": "center",
+            "image_width": 100,
+            "image_height": 100
+          }
+        }
+      },
+      "block_order": [
+        "1651576808c959b0df-0",
+        "1651576808c959b0df-1",
+        "1651576808c959b0df-3"
+      ],
+      "settings": {
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1651576808000b497f"
   ]
 }

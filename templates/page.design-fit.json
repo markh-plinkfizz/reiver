@@ -6,9 +6,44 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1651573177403f39ba": {
+      "type": "general-content-start",
+      "blocks": {
+        "1651573177ffcc747f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "GYM DESIGN & FITOUT",
+            "heading_size": "h1"
+          }
+        },
+        "1651573177ffcc747f-1": {
+          "type": "text",
+          "settings": {
+            "text": "With fitness industry and workout trends ever-changing, an inviting and engaging training space is key to personal strength and growth.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1651573177ffcc747f-0",
+        "1651573177ffcc747f-1"
+      ],
+      "settings": {
+        "image_overlay_color": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "banner_bottom_margin": 0,
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1651573177403f39ba"
   ]
 }

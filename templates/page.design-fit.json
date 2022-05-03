@@ -6,9 +6,138 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1651573177403f39ba": {
+      "type": "general-content-start",
+      "blocks": {
+        "1651573177ffcc747f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "GYM DESIGN & FITOUT",
+            "heading_size": "h1"
+          }
+        },
+        "1651573177ffcc747f-1": {
+          "type": "text",
+          "settings": {
+            "text": "With fitness industry and workout trends ever-changing, an inviting and engaging training space is key to personal strength and growth.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1651573177ffcc747f-0",
+        "1651573177ffcc747f-1"
+      ],
+      "settings": {
+        "image_overlay_color": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "banner_bottom_margin": 350,
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16515732440a4ceb8b": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 20,
+        "text": "<p>Whether you're looking to refit and refresh your gym, or even create a new space from the ground up, Reiver Fitness can help you. Using our experience and skills with a little help from the latest design software, it's our mission to bring your vision to life.<\/p>",
+        "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": ""
+      }
+    },
+    "16515732484ce7e35c": {
+      "type": "general-content-3-col",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "left-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "left-image-caption": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": "",
+        "text": "<p>Whether you're looking to refit and refresh your gym, or even create a new space from the ground up, Reiver Fitness can help you. Using our experience and skills with a little help from the latest design software, it's our mission to bring your vision to life.<\/p>",
+        "text_background_color": "#f3f3f3"
+      }
+    },
+    "165157379721c05adb": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "16515737974f6d81e0-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>Reiver Fitness offers a comprehensive gym design and fitout service. We work with experienced architects, interior designers, and reliable building and fitout contractors, bringing dream gym spaces to life. Our team of fitness experts will turn your vision into reality.<\/p>",
+            "left_background_color": "",
+            "right-text": "<p>Our contractors have completed projects for many businesses, including Pure Gym and Nuffield Health. We’ve also worked with SC Johnson, Accenture, Matrix Fitness, EasyGym, and Staffordshire University. Our next project starts with you. <\/p>",
+            "right_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "16515737974f6d81e0-0"
+      ],
+      "settings": {
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "1651573846c4021062": {
+      "type": "general-content-end",
+      "blocks": {
+        "1651573846b656ce0e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1651573846b656ce0e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1651573846b656ce0e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "1651573846b656ce0e-3": {
+          "type": "image",
+          "settings": {
+            "image_align": "center",
+            "image_width": 100,
+            "image_height": 100
+          }
+        }
+      },
+      "block_order": [
+        "1651573846b656ce0e-0",
+        "1651573846b656ce0e-1",
+        "1651573846b656ce0e-2",
+        "1651573846b656ce0e-3"
+      ],
+      "settings": {
+        "padding_top": 300,
+        "padding_bottom": 300,
+        "image": "shopify:\/\/shop_images\/shutterstock_483898186.jpg"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1651573177403f39ba",
+    "16515732440a4ceb8b",
+    "16515732484ce7e35c",
+    "165157379721c05adb",
+    "1651573846c4021062"
   ]
 }

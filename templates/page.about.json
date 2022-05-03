@@ -30,10 +30,11 @@
         "1651577721b54dc472-1"
       ],
       "settings": {
-        "image_overlay_color": "",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "banner_bottom_margin": 370,
+        "image": "shopify:\/\/shop_images\/shutterstock_483898186.jpg",
+        "image_overlay_color": "#182ab1",
+        "image_overlay_opacity": 70,
+        "image_height": "large",
+        "banner_bottom_margin": 500,
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "mobile_content_alignment": "center",

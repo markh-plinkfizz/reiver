@@ -6,9 +6,44 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "16515764205d68c253": {
+      "type": "general-content-start",
+      "blocks": {
+        "1651576420c784932c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "PROPERTY",
+            "heading_size": "h1"
+          }
+        },
+        "1651576420c784932c-1": {
+          "type": "text",
+          "settings": {
+            "text": "When it comes to opening a new gym, consulting a specialist property expert will save valuable time and money. That's why we partnered with Genesis Coordination.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1651576420c784932c-0",
+        "1651576420c784932c-1"
+      ],
+      "settings": {
+        "image_overlay_color": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "banner_bottom_margin": 0,
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16515764205d68c253"
   ]
 }

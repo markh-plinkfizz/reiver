@@ -52,7 +52,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/download_2.png",
-            "inner_text": "",
+            "inner_text": "<p><strong>Gipara<\/strong><br\/>Our gym kit collections feature pieces from Gipara, one of the highest quality professional fitness accessory brands. Shop our full Gipara range here. <\/p>",
             "title": "",
             "text": "",
             "link_label": "",
@@ -63,7 +63,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/download_2.png",
-            "inner_text": "",
+            "inner_text": "<p><strong>Gungnir <\/strong><br\/>Reiver Fitness kit collections include equipment from Gungnir, which delivers products that exude simplicity and quality to give weightlifters the best workout experience. Shop our Gungnir range here. <\/p>",
             "title": "",
             "text": "",
             "link_label": "",
@@ -74,7 +74,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/download_2.png",
-            "inner_text": "",
+            "inner_text": "<p><strong>Inhuman Gear <\/strong><br\/>Our mission is to make sure you’re kitted out with the best fitness gear in the industry, which is why we stock quality gym kit from world-renowned sports brand, Inhuman Gear. Shop our full range of Inhuman Gear here.<\/p>",
             "title": "",
             "text": "",
             "link_label": "",
@@ -85,7 +85,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/download_2.png",
-            "inner_text": "",
+            "inner_text": "<p><strong>LivePro<\/strong><br\/>With over 4,000 gyms and clubs in 100 countries, LivePro has supplied and distributed top-quality sports kit to regions around the world for 16 years. Browse our LivePro range here. <\/p>",
             "title": "",
             "text": "",
             "link_label": "",
@@ -96,7 +96,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/download_2.png",
-            "inner_text": "",
+            "inner_text": "<p><strong>Marpo <\/strong><br\/>Whether training professional sports teams or retaining and motivating gym members, Marpo rope trainers are some of the most versatile and highest-performing machines available in the world. Browse our Marpo range here. <\/p>",
             "title": "",
             "text": "",
             "link_label": "",
@@ -116,7 +116,7 @@
         "min_col_height": 0,
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",

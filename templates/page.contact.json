@@ -7,11 +7,49 @@
         "padding_bottom": 28
       }
     },
+    "16515781464cda5b4e": {
+      "type": "rich-text",
+      "blocks": {
+        "1651578146cdea24df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CONTACT US",
+            "heading_size": "h1"
+          }
+        },
+        "1651578146cdea24df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Want to get in touch? <br\/>Our fitness experts are on hand to support you from Monday to Friday, 9am to 6pm. <br\/>Just fill out the form below and we’ll get back to you as soon as possible.<\/p>"
+          }
+        },
+        "1651578146cdea24df-3": {
+          "type": "image",
+          "settings": {
+            "image_align": "center",
+            "image_width": 100,
+            "image_height": 100
+          }
+        }
+      },
+      "block_order": [
+        "1651578146cdea24df-0",
+        "1651578146cdea24df-1",
+        "1651578146cdea24df-3"
+      ],
+      "settings": {
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "165157806393039d4f": {
       "type": "contact-form",
       "settings": {
-        "margin_top": 10,
-        "margin_bottom": 10,
+        "margin_top": 0,
+        "margin_bottom": 0,
         "image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
         "image_overlay_color": "#838512",
         "image_overlay_opacity": 50,
@@ -25,6 +63,7 @@
   },
   "order": [
     "main",
+    "16515781464cda5b4e",
     "165157806393039d4f"
   ]
 }

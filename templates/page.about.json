@@ -6,9 +6,56 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "165157772197e301cc": {
+      "type": "general-content-start",
+      "blocks": {
+        "1651577721b54dc472-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABOUT US",
+            "heading_size": "h1"
+          }
+        },
+        "1651577721b54dc472-1": {
+          "type": "text",
+          "settings": {
+            "text": "Founded in 2017, our mission at Reiver Fitness is to inspire and motivate people to improve their physical fitness and wellbeing.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1651577721b54dc472-0",
+        "1651577721b54dc472-1"
+      ],
+      "settings": {
+        "image_overlay_color": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "banner_bottom_margin": 370,
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1651577760126137ae": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 20,
+        "text": "<p>With over 30 years of experience within the health, fitness and sports industry, our products and services have been embraced by the UK tactical services, high end consumer market, commercial health and fitness facilities, both large and small, who are seeking something a little bit different. We provide a comprehensive solution for customers looking for premium quality fitness equipment for use in commercial gyms, hotels, for hospitality, the home and garage gyms. We’ve worked with hundreds of aspiring gym owners over the last 30 years to drive their journey. We can do the same for you! From conception to creation, we’re here to help every step of the way.<\/p>",
+        "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "165157772197e301cc",
+    "1651577760126137ae"
   ]
 }

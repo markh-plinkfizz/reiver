@@ -73,6 +73,28 @@
         "padding_bottom": 20
       }
     },
+    "1651586406f4e45d16": {
+      "type": "rich-text",
+      "blocks": {
+        "16515864069a1acaee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reiver Finance Solutions:",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "16515864069a1acaee-0"
+      ],
+      "settings": {
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "16515863220b2b2f72": {
       "type": "general-content-text-text",
       "blocks": {
@@ -145,6 +167,7 @@
     "1651575336259f1361",
     "16515753474cd1bf3e",
     "1651575356eb076f09",
+    "1651586406f4e45d16",
     "16515863220b2b2f72",
     "165157547736e6c942"
   ]

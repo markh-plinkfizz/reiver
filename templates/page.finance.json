@@ -6,9 +6,124 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1651575336259f1361": {
+      "type": "general-content-start",
+      "blocks": {
+        "1651575336563cbdc5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FINANCE",
+            "heading_size": "h1"
+          }
+        },
+        "1651575336563cbdc5-1": {
+          "type": "text",
+          "settings": {
+            "text": "Why make an outright purchase when you could spread the cost with finance?",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1651575336563cbdc5-0",
+        "1651575336563cbdc5-1"
+      ],
+      "settings": {
+        "image_overlay_color": "rgba(0,0,0,0)",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "banner_bottom_margin": 370,
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "16515753474cd1bf3e": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 20,
+        "text": "<p>Finance options offer a flexible way of paying for the gym equipment you need. Our finance partners have over 20 years of experience providing flexible payment plans. Rather than buying based on budget, our finance solutions help split the cost into several monthly instalments. You can then focus on investing in quality kit. <\/p>",
+        "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": ""
+      }
+    },
+    "1651575356eb076f09": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "1651575356e2d8596e-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>Reiver's strategic partners can assist with your investment in sports equipment whilst operating within tight departmental financial targets. Our leasing options ensure that financing gives you value for money and flexibility for the future. We specialise in supplying straightforward and cost-effective financial solutions.<\/p>",
+            "left_background_color": "#f3f3f3",
+            "right-text": "<p>Leasing is fast becoming the popular choice to acquire our equipment including all services and maintenance required over straightforward cash terms, allowing use of revenue budgets and so enabling your valuable capital expenditure facilities to be allocated elsewhere. Why make an outright purchase, spending a lump sum and depleting your annual budget when a lease allows you to spread the cost in line with incoming membership revenues?<\/p>",
+            "right_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651575356e2d8596e-0"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "165157547736e6c942": {
+      "type": "general-content-end",
+      "blocks": {
+        "165157547668ea8b61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "165157547668ea8b61-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "165157547668ea8b61-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "165157547668ea8b61-3": {
+          "type": "image",
+          "settings": {
+            "image_align": "center",
+            "image_width": 100,
+            "image_height": 100
+          }
+        }
+      },
+      "block_order": [
+        "165157547668ea8b61-0",
+        "165157547668ea8b61-1",
+        "165157547668ea8b61-2",
+        "165157547668ea8b61-3"
+      ],
+      "settings": {
+        "padding_top": 300,
+        "padding_bottom": 300,
+        "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1651575336259f1361",
+    "16515753474cd1bf3e",
+    "1651575356eb076f09",
+    "165157547736e6c942"
   ]
 }

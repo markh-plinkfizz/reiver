@@ -13,14 +13,14 @@
         "1651575336563cbdc5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "FINANCE",
             "heading_size": "h1"
           }
         },
         "1651575336563cbdc5-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Why make an outright purchase when you could spread the cost with finance?",
             "text_style": "body"
           }
         }
@@ -46,8 +46,9 @@
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
-        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "text": "<p>Finance options offer a flexible way of paying for the gym equipment you need. Our finance partners have over 20 years of experience providing flexible payment plans. Rather than buying based on budget, our finance solutions help split the cost into several monthly instalments. You can then focus on investing in quality kit. <\/p>",
         "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
         "right-image-caption": ""
       }
     },
@@ -57,9 +58,9 @@
         "1651575356e2d8596e-0": {
           "type": "text",
           "settings": {
-            "left-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left_background_color": "",
-            "right-text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left-text": "<p>Reiver's strategic partners can assist with your investment in sports equipment whilst operating within tight departmental financial targets. Our leasing options ensure that financing gives you value for money and flexibility for the future. We specialise in supplying straightforward and cost-effective financial solutions.<\/p>",
+            "left_background_color": "#f3f3f3",
+            "right-text": "<p>Leasing is fast becoming the popular choice to acquire our equipment including all services and maintenance required over straightforward cash terms, allowing use of revenue budgets and so enabling your valuable capital expenditure facilities to be allocated elsewhere. Why make an outright purchase, spending a lump sum and depleting your annual budget when a lease allows you to spread the cost in line with incoming membership revenues?<\/p>",
             "right_background_color": ""
           }
         }

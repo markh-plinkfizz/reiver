@@ -116,6 +116,19 @@
         "padding_bottom": 20
       }
     },
+    "1651586409f2321d55": {
+      "type": "general-content-3-col",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "left-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "left-image-caption": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": "",
+        "text": "<p>We understand that all our customers will have unique requirements, which is why Reiver Fitness is committed to work with our partners to build financial solutions to suit you. <br\/><br\/>If you have any questions about our finance solutions or the benefits of finance, please contact us. We're always happy to help. <\/p>",
+        "text_background_color": ""
+      }
+    },
     "165157547736e6c942": {
       "type": "general-content-end",
       "blocks": {
@@ -169,6 +182,7 @@
     "1651575356eb076f09",
     "1651586406f4e45d16",
     "16515863220b2b2f72",
+    "1651586409f2321d55",
     "165157547736e6c942"
   ]
 }

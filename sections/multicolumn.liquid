@@ -109,9 +109,11 @@
                       loading="lazy"
                     >
                   </div>
+                  {% if block.settings.inner_text != blank %}
                   <div class="multicolumn-inner-text">
                     {{ block.settings.inner_text }}
                   </div>
+                  {% endif %}
                 </div>
               {%- endif -%}
               <div class="multicolumn-card__info">

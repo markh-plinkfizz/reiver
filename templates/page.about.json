@@ -72,12 +72,26 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "165157780800aa889c": {
+      "type": "general-content-3-col",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "left-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "left-image-caption": "",
+        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+        "right-image-caption": "",
+        "text": "<p>You’ll find high-standard equipment in one place with Reiver Fitness. We bring you top-of-the-range fitness brands, with fitness products of modern design and functionality. When it comes to convenience, safety and quality, we’re the experts! <\/p>",
+        "text_background_color": ""
+      }
     }
   },
   "order": [
     "main",
     "165157772197e301cc",
     "1651577760126137ae",
-    "16515778041650f947"
+    "16515778041650f947",
+    "165157780800aa889c"
   ]
 }

@@ -51,11 +51,33 @@
         "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
         "right-image-caption": ""
       }
+    },
+    "16515778041650f947": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "16515778048f03e20f-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>Reiver Fitness is here to shake things up the fitness world! We showcase the best fitness equipment from across the globe and deliver to your doorstep. Our goal is to help you build your dream gym from the very beginning. <\/p>",
+            "left_background_color": "#f3f3f3",
+            "right-text": "<p>We’re trusted by and have worked with many famous Olympic athletes in our 30 years. All items are tested by professional athletes until every element is perfect. Where possible, we use manufacturers in the UK and Europe to ensure a fast and smooth delivery! <\/p>",
+            "right_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "16515778048f03e20f-0"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
     "main",
     "165157772197e301cc",
-    "1651577760126137ae"
+    "1651577760126137ae",
+    "16515778041650f947"
   ]
 }

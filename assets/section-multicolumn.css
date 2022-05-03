@@ -233,9 +233,19 @@
 
 .multicolumn-inner-text{
   position: absolute;
+  text-align: left;
   top: 0;
   left: 0;
   height: 100%;
   width: 100%;
   padding: 20px;
+}
+.multicolumn-inner-text::before{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: black;
+  opacity: 0.5;
 }

@@ -268,8 +268,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Reiver-04.png",
             "image_align": "center",
-            "image_width": 360,
-            "image_height": 180
+            "image_width": 400,
+            "image_height": 200
           }
         },
         "text": {

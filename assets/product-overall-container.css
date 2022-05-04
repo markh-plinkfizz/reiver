@@ -1,4 +1,6 @@
-
+body{
+  background-color: black;
+}
 
 
 @media screen and (min-width: 750px){
@@ -9,12 +11,13 @@
     margin-right: auto;
   }
   .product-sidebar{
-    background-color: green;
+    background-color: white;
     width: 220px;
+    margin-right: 20px;
     padding: 10px;
   }
   .product-grid-container{
-    background-color: blue;
+    background-color: white;
     flex: 1;
   }
   .product-count{

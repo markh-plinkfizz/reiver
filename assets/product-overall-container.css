@@ -14,4 +14,7 @@
   .product-count{
     display: none;
   }
+  .facets__form{
+    gap: 0 !important;
+  }
 }

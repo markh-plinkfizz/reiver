@@ -107,7 +107,7 @@
         "settings": {
           "desktop_2_row_color": "#000000",
           "logo": "shopify:\/\/shop_images\/Reiver-no-background.png",
-          "logo_width": 200,
+          "logo_width": 160,
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
           "show_line_separator": false,

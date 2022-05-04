@@ -10,8 +10,8 @@
   }
   .product-sidebar{
     background-color: green;
-    width: 300px;
-    padding: 20px;
+    width: 220px;
+    padding: 10px;
   }
   .product-grid-container{
     background-color: blue;
@@ -31,6 +31,6 @@
     background-color: red;
   }
   .active-facets{
-    display: none;
+    display: none !important;
   }
 }

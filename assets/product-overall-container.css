@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: black !important;
 }
 
 
@@ -30,8 +30,9 @@ body{
     display: none !important;
   }
   .facets-brands-container{
+    /*
     padding: 10px;
-    background-color: red;
+    */
   }
   .active-facets{
     display: none !important;

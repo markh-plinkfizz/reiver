@@ -12,7 +12,6 @@ body{
     margin-right: auto;
   }
   .product-sidebar{
-    background-color: #D3D3D3;
     width: 221px;
     margin-right: 20px;
     padding: 0;
@@ -30,6 +29,7 @@ body{
     display: none !important;
   }
   .facets-brands-container{
+    background-color: #D3D3D3;
     padding: 10px;
   }
   .active-facets{

@@ -18,6 +18,6 @@
     gap: 0 !important;
   }
   .facets__heading{
-    display: none;
+    display: none !important;
   }
 }

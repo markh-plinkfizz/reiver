@@ -18,7 +18,6 @@ body{
     padding: 10px;
   }
   .product-grid-container{
-    background-color: gray;
     flex: 1;
   }
   .product-count{
@@ -31,9 +30,8 @@ body{
     display: none !important;
   }
   .facets-brands-container{
-    /*
     padding: 10px;
-    */
+    background-color: gray;
   }
   .active-facets{
     display: none !important;

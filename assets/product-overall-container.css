@@ -12,6 +12,7 @@
   }
   .product-grid-container{
     background-color: blue;
+    flex: 1;
   }
   .product-count{
     display: none;
@@ -21,5 +22,9 @@
   }
   .facets__heading{
     display: none !important;
+  }
+  .facets-brands-container{
+    padding: 10px;
+    background-color: red;
   }
 }

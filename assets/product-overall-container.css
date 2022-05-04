@@ -1,0 +1,11 @@
+@media screen and (min-width: 750px){
+  .product-overall-container{
+    display: flex;
+  }
+  .product-sidebar{
+    background-color: green;
+  }
+  .product-grid-container{
+    background-color: blue;
+  }
+}

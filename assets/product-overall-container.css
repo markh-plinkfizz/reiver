@@ -1,6 +1,10 @@
 body{
 }
 
+.card__inner{
+  background: none !important;
+}
+
 
 @media screen and (min-width: 750px){
   .product-overall-container{

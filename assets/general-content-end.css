@@ -1,0 +1,8 @@
+.general-content-end-button{
+  display: flex;
+  flex-direction: column;
+}
+
+.general-content-end-button span{
+  text-decoration: none;
+}

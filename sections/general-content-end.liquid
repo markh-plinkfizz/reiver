@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'section-rich-text.css' | asset_url }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ 'general-content-end.css' | asset_url }}" media="print" onload="this.media='all'">
 
 
 <noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
@@ -45,7 +46,7 @@
                 {%- when 'text' -%}
                   <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
                 {%- when 'button' -%}
-                  <a href="{{ block.settings.button_link }}"><div>
+                  <a class="general-content-end-button" href="{{ block.settings.button_link }}"><div>
                     <span>LETS TALK</span>
                     <span>CONTACT US</span>
                   </div></a>

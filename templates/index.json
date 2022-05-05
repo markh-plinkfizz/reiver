@@ -266,10 +266,17 @@
         "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Reiver-04.png",
+            "image": "shopify:\/\/shop_images\/Reiver-no-background.png",
             "image_align": "center",
-            "image_width": 400,
-            "image_height": 200
+            "image_width": 160,
+            "image_height": 50
+          }
+        },
+        "7a74d9df-21d5-4201-961d-4882d275a840": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
           }
         },
         "text": {
@@ -281,6 +288,7 @@
       },
       "block_order": [
         "4a59f7e8-3aad-48a1-b6ce-1ca8d8c4ac6c",
+        "7a74d9df-21d5-4201-961d-4882d275a840",
         "text"
       ],
       "settings": {

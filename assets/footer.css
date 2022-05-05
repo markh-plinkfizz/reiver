@@ -15,7 +15,8 @@ footer h2, footer span, footer p{
   color: white;
   text-align: center;
 }
-.letter-spacing{
+.footer-sub-heading{
+  font-size: 12px;
   letter-spacing: 4px;
 }
 .footer-contact-paragraph{

@@ -45,8 +45,9 @@
                 {%- when 'text' -%}
                   <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
                 {%- when 'button' -%}
-                  <a><div>
-                    test
+                  <a href="{{ block.settings.button_link }}"><div>
+                    <span>LETS TALK</span>
+                    <span>CONTACT US</span>
                   </div></a>
                 {%- when 'image' -%}
                   {%- if block.settings.image != blank -%}

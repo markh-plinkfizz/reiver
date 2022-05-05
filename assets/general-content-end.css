@@ -1,9 +1,13 @@
 .general-content-end-button{
+  text-decoration: none;
+}
+
+.general-content-end-button div{
   display: flex;
   flex-direction: column;
   margin-top: 10px;
 }
 
-.general-content-end-button span{
+.general-content-end-button div span{
   text-decoration: none;
 }

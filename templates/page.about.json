@@ -42,6 +42,27 @@
         "show_text_below": false
       }
     },
+    "16517595904da336fa": {
+      "type": "general-content-text-text",
+      "blocks": {
+        "16517595902394bd77-0": {
+          "type": "text",
+          "settings": {
+            "left-text": "<p>With over 30 years of experience within the health, fitness and sports industry, our products and services have been embraced by the UK tactical services, high end consumer market, commercial health and fitness facilities, both large and small, who are seeking something a little bit different. <\/p><p>We provide a comprehensive solution for customers looking for premium quality fitness equipment for use in commercial gyms, hotels, for hospitality, the home and garage gyms. We’ve worked with hundreds of aspiring gym owners over the last 30 years to drive their journey. We can do the same for you! From conception to creation, we’re here to help every step of the way.<\/p>",
+            "left_background_color": "",
+            "right-text": "<p>Reiver Fitness is here to shake things up the fitness world! We showcase the best fitness equipment from across the globe and deliver to your doorstep. Our goal is to help you build your dream gym from the very beginning. <\/p><p>We’re trusted by and have worked with many famous Olympic athletes in our 30 years. All items are tested by professional athletes until every element is perfect. Where possible, we use manufacturers in the UK and Europe to ensure a fast and smooth delivery! <\/p><p>You’ll find high-standard equipment in one place with Reiver Fitness. We bring you top-of-the-range fitness brands, with fitness products of modern design and functionality. When it comes to convenience, safety and quality, we’re the experts! <\/p>",
+            "right_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "16517595902394bd77-0"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "1651577760126137ae": {
       "type": "general-content-text-image",
       "settings": {
@@ -150,13 +171,14 @@
       "settings": {
         "padding_top": 300,
         "padding_bottom": 300,
-        "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg"
+        "image": "shopify:\/\/shop_images\/gen_con_footer_2.png"
       }
     }
   },
   "order": [
     "main",
     "165157772197e301cc",
+    "16517595904da336fa",
     "1651577760126137ae",
     "16515778041650f947",
     "165157780800aa889c",

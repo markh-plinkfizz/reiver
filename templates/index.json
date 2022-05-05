@@ -16,23 +16,11 @@
             "text": "We’re trusted by and have worked with hundreds of Olympic athletes, national and international sports people, in our 30 years. All fitness equipment is tested by sports professionals until we’re certain that every element is perfect. Trust us – Olympians do.",
             "text_style": "body"
           }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Discover more",
-            "button_link_1": "",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/shutterstock_355191470.jpg",

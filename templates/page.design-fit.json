@@ -65,25 +65,32 @@
         "text_background_color": "#f3f3f3"
       }
     },
-    "165157379721c05adb": {
-      "type": "general-content-text-text",
-      "blocks": {
-        "16515737974f6d81e0-0": {
-          "type": "text",
-          "settings": {
-            "left-text": "<p>Reiver Fitness offers a comprehensive gym design and fitout service. We work with experienced architects, interior designers, and reliable building and fitout contractors, bringing dream gym spaces to life. Our team of fitness experts will turn your vision into reality.<\/p>",
-            "left_background_color": "",
-            "right-text": "<p>Our contractors have completed projects for many businesses, including Pure Gym and Nuffield Health. We’ve also worked with SC Johnson, Accenture, Matrix Fitness, EasyGym, and Staffordshire University. Our next project starts with you. <\/p>",
-            "right_background_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "16515737974f6d81e0-0"
-      ],
+    "16517585943783a81e": {
+      "type": "general-content-text-image",
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "text": "<p>Reiver Fitness offers a comprehensive gym design and fitout service. We work with experienced architects, interior designers, and reliable building and fitout contractors, bringing dream gym spaces to life. Our team of fitness experts will turn your vision into reality.<\/p>",
+        "text_background_color": "",
+        "right-image-caption": ""
+      }
+    },
+    "16517586032303e280": {
+      "type": "general-content-full-image",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "right-image-caption": ""
+      }
+    },
+    "16517586134358dca4": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "text": "<p>Our contractors have completed projects for many businesses, including Pure Gym and Nuffield Health. We’ve also worked with SC Johnson, Accenture, Matrix Fitness, EasyGym, and Staffordshire University. Our next project starts with you. <\/p>",
+        "text_background_color": "",
+        "right-image-caption": ""
       }
     },
     "1651573846c4021062": {
@@ -137,7 +144,9 @@
     "1651573177403f39ba",
     "16515732440a4ceb8b",
     "16515732484ce7e35c",
-    "165157379721c05adb",
+    "16517585943783a81e",
+    "16517586032303e280",
+    "16517586134358dca4",
     "1651573846c4021062"
   ]
 }

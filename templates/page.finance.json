@@ -41,67 +41,43 @@
         "show_text_below": false
       }
     },
-    "16515753474cd1bf3e": {
-      "type": "general-content-text-image",
-      "settings": {
-        "padding_top": 50,
-        "padding_bottom": 20,
-        "text": "<p>Finance options offer a flexible way of paying for the gym equipment you need. Our finance partners have over 20 years of experience providing flexible payment plans. Rather than buying based on budget, our finance solutions help split the cost into several monthly instalments. You can then focus on investing in quality kit. <\/p>",
-        "text_background_color": "",
-        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
-        "right-image-caption": ""
-      }
-    },
-    "1651575356eb076f09": {
+    "1651757787a3818c99": {
       "type": "general-content-text-text",
       "blocks": {
-        "1651575356e2d8596e-0": {
+        "16517577879dcfe413-0": {
           "type": "text",
           "settings": {
-            "left-text": "<p>Reiver's strategic partners can assist with your investment in sports equipment whilst operating within tight departmental financial targets. Our leasing options ensure that financing gives you value for money and flexibility for the future. We specialise in supplying straightforward and cost-effective financial solutions.<\/p>",
-            "left_background_color": "#f3f3f3",
-            "right-text": "<p>Leasing is fast becoming the popular choice to acquire our equipment including all services and maintenance required over straightforward cash terms, allowing use of revenue budgets and so enabling your valuable capital expenditure facilities to be allocated elsewhere. Why make an outright purchase, spending a lump sum and depleting your annual budget when a lease allows you to spread the cost in line with incoming membership revenues?<\/p>",
+            "left-text": "<p>Finance options offer a flexible way of paying for the gym equipment you need. Our finance partners have over 20 years of experience providing flexible payment plans. Rather than buying based on budget, our finance solutions help split the cost into several monthly instalments. You can then focus on investing in quality kit. <\/p><p>Reiver's strategic partners can assist with your investment in sports equipment whilst operating within tight departmental financial targets.<\/p>",
+            "left_background_color": "",
+            "right-text": "<p>Our leasing options ensure that financing gives you value for money and flexibility for the future. We specialise in supplying straightforward and cost-effective financial solutions.<\/p><p>Leasing is fast becoming the popular choice to acquire our equipment including all services and maintenance required over straightforward cash terms, allowing use of revenue budgets and so enabling your valuable capital expenditure facilities to be allocated elsewhere. Why make an outright purchase, spending a lump sum and depleting your annual budget when a lease allows you to spread the cost in line with incoming membership revenues?<\/p>",
             "right_background_color": ""
           }
         }
       },
       "block_order": [
-        "1651575356e2d8596e-0"
+        "16517577879dcfe413-0"
       ],
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20
       }
     },
-    "1651586406f4e45d16": {
-      "type": "rich-text",
-      "blocks": {
-        "16515864069a1acaee-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Reiver Finance Solutions:",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "16515864069a1acaee-0"
-      ],
+    "16517579511a82f81f": {
+      "type": "general-content-full-image",
       "settings": {
-        "background_color": "#000000",
-        "text_color": "#ffffff",
-        "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "right-image": "shopify:\/\/shop_images\/shutterstock_180557219.jpg",
+        "right-image-caption": ""
       }
     },
-    "16515863220b2b2f72": {
+    "1651758106e7d81a99": {
       "type": "general-content-text-text",
       "blocks": {
-        "1651586322fadc49a6-0": {
+        "16517581068f1c377f-0": {
           "type": "text",
           "settings": {
-            "left-text": "<p>•\tTurn-key Solutions: Our finance options cover the cost of your new equipment, installation, maintenance and service plans. This also includes the build costs, flooring, IT, furniture, air conditioning, changing rooms and much more. <br\/><br\/>•\tLeasing: All costs can be rolled into one fixed monthly payment to be more manageable and affordable.<br\/><br\/>•\tFlexible Refresh Options: Provides protection from technology obsolescence while giving you the ability to expand your range.<\/p>",
+            "left-text": "<p>•\tTurn-key Solutions: Our finance options cover the cost of your new equipment, installation, maintenance and service plans. This also includes the build costs, flooring, IT, furniture, air conditioning, changing rooms and much more. <br\/><br\/>•\tLeasing: All costs can be rolled into one fixed monthly payment to be more manageable and affordable.<br\/><br\/>•\tFlexible Refresh Options: Provides protection from technology obsolescence while giving you the ability to expand your range.<\/p><p><\/p>",
             "left_background_color": "",
             "right-text": "<p>•\tBespoke Facilities: Allows staged drawdowns or variations to configuration and cost before installation.<br\/><br\/>•\tFlexible Repayment Terms: We have terms ranging from 1-5 years that can be tailored to your financial situation. You can pay monthly, quarterly or annually. <br\/><br\/>•\tTax Benefits: Equipment purchased on finance lease is classed as operating expenses and is fully deductible from taxable income as a trading expense. <\/p>",
             "right_background_color": ""
@@ -109,24 +85,29 @@
         }
       },
       "block_order": [
-        "1651586322fadc49a6-0"
+        "16517581068f1c377f-0"
       ],
       "settings": {
-        "padding_top": 0,
+        "padding_top": 20,
         "padding_bottom": 20
       }
     },
-    "1651586409f2321d55": {
-      "type": "general-content-3-col",
+    "16517579771c3e284e": {
+      "type": "general-content-text-image",
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
-        "left-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
-        "left-image-caption": "",
-        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
-        "right-image-caption": "",
         "text": "<p>We understand that all our customers will have unique requirements, which is why Reiver Fitness is committed to work with our partners to build financial solutions to suit you. <br\/><br\/>If you have any questions about our finance solutions or the benefits of finance, please contact us. We're always happy to help. <\/p>",
-        "text_background_color": ""
+        "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/shutterstock_1644136534.jpg",
+        "right-image-caption": ""
+      }
+    },
+    "16515863220b2b2f72": {
+      "type": "general-content-text-text",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 20
       }
     },
     "165157547736e6c942": {
@@ -135,14 +116,8 @@
         "165157547668ea8b61-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "REIVER",
             "heading_size": "h1"
-          }
-        },
-        "165157547668ea8b61-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "165157547668ea8b61-2": {
@@ -164,25 +139,24 @@
       },
       "block_order": [
         "165157547668ea8b61-0",
-        "165157547668ea8b61-1",
         "165157547668ea8b61-2",
         "165157547668ea8b61-3"
       ],
       "settings": {
         "padding_top": 300,
         "padding_bottom": 300,
-        "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg"
+        "image": "shopify:\/\/shop_images\/gen_con_footer_2.png"
       }
     }
   },
   "order": [
     "main",
     "1651575336259f1361",
-    "16515753474cd1bf3e",
-    "1651575356eb076f09",
-    "1651586406f4e45d16",
+    "1651757787a3818c99",
+    "16517579511a82f81f",
+    "1651758106e7d81a99",
+    "16517579771c3e284e",
     "16515863220b2b2f72",
-    "1651586409f2321d55",
     "165157547736e6c942"
   ]
 }

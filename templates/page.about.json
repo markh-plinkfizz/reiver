@@ -42,70 +42,56 @@
         "show_text_below": false
       }
     },
-    "1651577760126137ae": {
-      "type": "general-content-text-image",
-      "settings": {
-        "padding_top": 50,
-        "padding_bottom": 20,
-        "text": "<p>With over 30 years of experience within the health, fitness and sports industry, our products and services have been embraced by the UK tactical services, high end consumer market, commercial health and fitness facilities, both large and small, who are seeking something a little bit different. We provide a comprehensive solution for customers looking for premium quality fitness equipment for use in commercial gyms, hotels, for hospitality, the home and garage gyms. We’ve worked with hundreds of aspiring gym owners over the last 30 years to drive their journey. We can do the same for you! From conception to creation, we’re here to help every step of the way.<\/p>",
-        "text_background_color": "",
-        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
-        "right-image-caption": ""
-      }
-    },
-    "16515778041650f947": {
+    "16517595904da336fa": {
       "type": "general-content-text-text",
       "blocks": {
-        "16515778048f03e20f-0": {
+        "16517595902394bd77-0": {
           "type": "text",
           "settings": {
-            "left-text": "<p>Reiver Fitness is here to shake things up the fitness world! We showcase the best fitness equipment from across the globe and deliver to your doorstep. Our goal is to help you build your dream gym from the very beginning. <\/p>",
-            "left_background_color": "#f3f3f3",
-            "right-text": "<p>We’re trusted by and have worked with many famous Olympic athletes in our 30 years. All items are tested by professional athletes until every element is perfect. Where possible, we use manufacturers in the UK and Europe to ensure a fast and smooth delivery! <\/p>",
+            "left-text": "<p>With over 30 years of experience within the health, fitness and sports industry, our products and services have been embraced by the UK tactical services, high end consumer market, commercial health and fitness facilities, both large and small, who are seeking something a little bit different. <\/p><p>We provide a comprehensive solution for customers looking for premium quality fitness equipment for use in commercial gyms, hotels, for hospitality, the home and garage gyms. We’ve worked with hundreds of aspiring gym owners over the last 30 years to drive their journey. We can do the same for you! From conception to creation, we’re here to help every step of the way.<\/p>",
+            "left_background_color": "",
+            "right-text": "<p>Reiver Fitness is here to shake things up the fitness world! We showcase the best fitness equipment from across the globe and deliver to your doorstep. Our goal is to help you build your dream gym from the very beginning. <\/p><p>We’re trusted by and have worked with many famous Olympic athletes in our 30 years. All items are tested by professional athletes until every element is perfect. Where possible, we use manufacturers in the UK and Europe to ensure a fast and smooth delivery! <\/p><p>You’ll find high-standard equipment in one place with Reiver Fitness. We bring you top-of-the-range fitness brands, with fitness products of modern design and functionality. When it comes to convenience, safety and quality, we’re the experts! <\/p>",
             "right_background_color": ""
           }
         }
       },
       "block_order": [
-        "16515778048f03e20f-0"
+        "16517595902394bd77-0"
       ],
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20
       }
     },
-    "165157780800aa889c": {
-      "type": "general-content-3-col",
+    "1651759681b0c41a60": {
+      "type": "general-content-full-image",
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
-        "left-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
-        "left-image-caption": "",
-        "right-image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
-        "right-image-caption": "",
-        "text": "<p>You’ll find high-standard equipment in one place with Reiver Fitness. We bring you top-of-the-range fitness brands, with fitness products of modern design and functionality. When it comes to convenience, safety and quality, we’re the experts! <\/p>",
-        "text_background_color": ""
+        "right-image": "shopify:\/\/shop_images\/shutterstock_190250762.jpg",
+        "right-image-caption": ""
       }
     },
-    "16515778926ab1d752": {
-      "type": "general-content-text-text",
-      "blocks": {
-        "165157789264fe679c-0": {
-          "type": "text",
-          "settings": {
-            "left-text": "<p>If you’re looking for something unique, we can help! Our products and services are sought after by commercial health and fitness facilities and many more. We provide comprehensive solutions for anyone looking for premium quality fitness equipment. Whether you’re opening a home or garage gym, or even searching for quality hotel fitness equipment, your project starts with Reiver Fitness. <\/p>",
-            "left_background_color": "",
-            "right-text": "<p>Using digital technology and automation, we streamline our operations and processes for efficiency. Combine this with our humanistic ‘old school’ approach to sales, design, delivery and customer care, and buying from us couldn’t be easier! <\/p>",
-            "right_background_color": "#f3f3f3"
-          }
-        }
-      },
-      "block_order": [
-        "165157789264fe679c-0"
-      ],
+    "1651759804299b201b": {
+      "type": "general-content-text-image",
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "text": "<p>If you’re looking for something unique, we can help! Our products and services are sought after by commercial health and fitness facilities and many more. We provide comprehensive solutions for anyone looking for premium quality fitness equipment. Whether you’re opening a home or garage gym, or even searching for quality hotel fitness equipment, your project starts with Reiver Fitness. <\/p><p>Using digital technology and automation, we streamline our operations and processes for efficiency. Combine this with our humanistic ‘old school’ approach to sales, design, delivery and customer care, and buying from us couldn’t be easier! <\/p>",
+        "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/shutterstock_2127964577.jpg",
+        "right-image-caption": ""
+      }
+    },
+    "16517598157794323b": {
+      "type": "general-content-text-image",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "text": "",
+        "text_background_color": "",
+        "right-image": "shopify:\/\/shop_images\/shutterstock_1644136534.jpg",
+        "right-image-caption": ""
       }
     },
     "1651577915ed14652a": {
@@ -114,14 +100,8 @@
         "1651577915975a5ac5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "REIVER",
             "heading_size": "h1"
-          }
-        },
-        "1651577915975a5ac5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "1651577915975a5ac5-2": {
@@ -143,24 +123,23 @@
       },
       "block_order": [
         "1651577915975a5ac5-0",
-        "1651577915975a5ac5-1",
         "1651577915975a5ac5-2",
         "1651577915975a5ac5-3"
       ],
       "settings": {
         "padding_top": 300,
         "padding_bottom": 300,
-        "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg"
+        "image": "shopify:\/\/shop_images\/gen_con_footer_2.png"
       }
     }
   },
   "order": [
     "main",
     "165157772197e301cc",
-    "1651577760126137ae",
-    "16515778041650f947",
-    "165157780800aa889c",
-    "16515778926ab1d752",
+    "16517595904da336fa",
+    "1651759681b0c41a60",
+    "1651759804299b201b",
+    "16517598157794323b",
     "1651577915ed14652a"
   ]
 }

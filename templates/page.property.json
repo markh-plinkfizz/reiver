@@ -112,28 +112,19 @@
             "text": "<p>If you need the services of interior designers, fit out consultants and project managers, Reiver Fitness can help. Get in touch today. <\/p>"
           }
         },
-        "1651576627129f8393-2": {
+        "90590c24-4128-4308-b555-8f700ff159ef": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "1651576627129f8393-3": {
-          "type": "image",
-          "settings": {
-            "image_align": "center",
-            "image_width": 100,
-            "image_height": 100
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "1651576627129f8393-0",
         "1651576627129f8393-1",
-        "1651576627129f8393-2",
-        "1651576627129f8393-3"
+        "90590c24-4128-4308-b555-8f700ff159ef"
       ],
       "settings": {
         "padding_top": 300,

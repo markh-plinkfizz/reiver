@@ -30,8 +30,9 @@
         "1651573177ffcc747f-1"
       ],
       "settings": {
-        "image_overlay_color": "",
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/shutterstock_2127964577.jpg",
+        "image_overlay_color": "#e22120",
+        "image_overlay_opacity": 70,
         "image_height": "medium",
         "banner_bottom_margin": 350,
         "show_text_box": false,

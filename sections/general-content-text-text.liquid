@@ -12,11 +12,6 @@
 {%- endstyle -%}
 <div class="general-content-container section-{{ section.id }} ">
   <div class="general-content-inner">
-    {% if section.settings.heading != blank %}
-    <div class="general-2-col-layout">
-      <h3 class="general-content-text-header">{{ section.settings.heading }}</h3>
-    </div>
-    {% endif  %}
     <div class="general-2-col-layout">
       {% for block in section.blocks %}
         <div class="general-text-container" style="background-color: {{ block.settings.left_background_color }}">

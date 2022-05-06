@@ -80,6 +80,12 @@ body{
 .general-2-col-layout{
   margin: 0 20px;
 }
+.general-2-col-layout p{
+  font-size: 14px;
+}
+.general-2-col-layout h3{
+  font-size: 16px;
+}
 .general-text-container{
   padding: 10px;
 }

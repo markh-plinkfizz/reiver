@@ -392,7 +392,7 @@
         "1648720595f4cd5920-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
+            "image": "shopify:\/\/shop_images\/gipara_ca25d2a3-472e-4c1c-b9a4-2a45d9799878.png",
             "inner_text": "",
             "title": "",
             "text": "",
@@ -403,7 +403,7 @@
         "1648720595f4cd5920-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
+            "image": "shopify:\/\/shop_images\/gungnir_c652388d-50f2-4ca0-8e3f-efc9e899d162.png",
             "inner_text": "",
             "title": "",
             "text": "",
@@ -414,7 +414,7 @@
         "1648720595f4cd5920-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
+            "image": "shopify:\/\/shop_images\/inhuman.png",
             "inner_text": "",
             "title": "",
             "text": "",
@@ -425,7 +425,7 @@
         "30f91ea6-274d-4445-a88c-30a8118923e3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
+            "image": "shopify:\/\/shop_images\/livepro_e7894950-2466-4448-a65a-26d406dba06d.png",
             "inner_text": "",
             "title": "",
             "text": "",
@@ -436,7 +436,7 @@
         "bbd515b9-de0e-4d1b-b452-e05c0fde5006": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
+            "image": "shopify:\/\/shop_images\/marpo_bfae9a4a-d214-4bab-a872-1e51edfbbcd7.png",
             "inner_text": "",
             "title": "",
             "text": "",
@@ -447,7 +447,7 @@
         "8d17d658-49bb-433d-b782-e5549eccd97d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
+            "image": "shopify:\/\/shop_images\/reaxing.png",
             "inner_text": "",
             "title": "",
             "text": "",
@@ -458,7 +458,40 @@
         "4f297651-b6ce-4202-aa06-260e7170c1d7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_2.png",
+            "image": "shopify:\/\/shop_images\/spirit.png",
+            "inner_text": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "178f0ea4-6492-457b-862b-1fcc39aada8d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/synergy_bf4c46c8-18f5-430c-a0f9-20e8e02133e3.png",
+            "inner_text": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "99293d8d-efc2-46dd-aa7a-ce4831830c8f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/terra.png",
+            "inner_text": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "836cbc94-ee54-4887-81cc-80c1cb2fdc7d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wkg_8ed480d7-8d72-4fd8-9edb-bff2aab1588c.png",
             "inner_text": "",
             "title": "",
             "text": "",
@@ -474,7 +507,10 @@
         "30f91ea6-274d-4445-a88c-30a8118923e3",
         "bbd515b9-de0e-4d1b-b452-e05c0fde5006",
         "8d17d658-49bb-433d-b782-e5549eccd97d",
-        "4f297651-b6ce-4202-aa06-260e7170c1d7"
+        "4f297651-b6ce-4202-aa06-260e7170c1d7",
+        "178f0ea4-6492-457b-862b-1fcc39aada8d",
+        "99293d8d-efc2-46dd-aa7a-ce4831830c8f",
+        "836cbc94-ee54-4887-81cc-80c1cb2fdc7d"
       ],
       "settings": {
         "title": "",
@@ -482,7 +518,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 7,
+        "columns_desktop": 10,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",

@@ -523,7 +523,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "background_color": "#000000",
+        "background_color": "#121212",
         "text_color": "#ffffff",
         "columns_mobile": "1",
         "swipe_on_mobile": true,

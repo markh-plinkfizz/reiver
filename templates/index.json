@@ -520,7 +520,7 @@
         "image_ratio": "square",
         "columns_desktop": 10,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "background_color": "#121212",

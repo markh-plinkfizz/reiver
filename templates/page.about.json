@@ -60,7 +60,8 @@
       ],
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "heading": "HEADING"
       }
     },
     "1651759681b0c41a60": {

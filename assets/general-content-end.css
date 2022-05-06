@@ -11,3 +11,15 @@
 .general-content-end-button div span{
   text-decoration: none;
 }
+
+.general-content-end-button-upper-line{
+  color: black;
+  font-size: 14px;
+  letter-spacing: 3px;
+}
+
+.general-content-end-button-lower-line{
+  color: black;
+  font-size: 12px;
+  letter-spacing: 2px;
+}

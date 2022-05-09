@@ -1,3 +1,5 @@
+<script src="{{ 'theme.min.js' | asset_url }}" defer="defer"></script>
+
 {%- comment -%}We start by creating a lot of useful variables !{%- endcomment -%}
 
 {%- assign items_per_page = cart.attributes.collection_products_per_page | default: section.settings.default_products_per_page -%}
@@ -349,7 +351,7 @@
               {%- if section.settings.show_collection_image and collection.image and collection.all_products_count > 0 -%}
                 {%- if section.settings.collection_image_size == 'preserve_ratio' -%}
                   {%- capture supported_sizes -%}{%- render 'image-size', sizes: '400,500,600,700,800,900,1000, 1200, 1400, 1600', image: collection.image -%}{%- endcapture -%}
-                  {%- assign image_url = collection.image | img_url: '1x1' -%}
+                  {%- assign image_url = collection.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
 
                   <div class="collection__image-wrapper collection__image-wrapper--preserve-ratio">
                     <div class="aspect-ratio" style="padding-bottom: {{ 100.0 | divided_by: collection.image.aspect_ratio }}%">

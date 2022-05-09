@@ -163,7 +163,7 @@
 
             {%- if section.settings.show_filters and has_visible_tags -%}
               <div class="card__section card__section--tight">
-                <p class="card__title--small heading">{{ 'collection.filter.all' | t }}</p>
+                <p class="card__title--small heading">All</p>
 
                 <div class="collection__active-filters">
                   {%- for tag in current_tags -%}
@@ -179,7 +179,7 @@
                   {%- endfor -%}
 
                   {%- if current_tags != blank and current_tags.size > 1 -%}
-                    <button class="collection__clear-filter button button--small button--transparent button--full" data-action="clear-tags">{{ 'collection.filter.clear_all' | t }}</button>
+                    <button class="collection__clear-filter button button--small button--transparent button--full" data-action="clear-tags">Clear All</button>
                   {%- endif -%}
                 </div>
 
@@ -618,10 +618,10 @@
               <button class="collection-drawer__close" data-action="close-drawer" title="{{ 'general.accessibility.close' | t | escape }}">
                 {%- render 'icon', icon: 'close' -%}
               </button>
-              <span class="collection-drawer__title heading h3">{{ 'collection.filter.all' | t }} <span class="collection-drawer__filter-count" {% if current_tags == blank %}style="display: none"{% endif %}>({{ current_tags | size }})</span></span>
+              <span class="collection-drawer__title heading h3">All <span class="collection-drawer__filter-count" {% if current_tags == blank %}style="display: none"{% endif %}>({{ current_tags | size }})</span></span>
             </div>
 
-            <button class="button button--transparent button--extra-small" data-action="clear-tags" {% if current_tags == blank %}style="display: none"{% endif %}>{{ 'collection.filter.clear' | t }}</button>
+            <button class="button button--transparent button--extra-small" data-action="clear-tags" {% if current_tags == blank %}style="display: none"{% endif %}>Clear</button>
           </header>
 
           <div class="collection-drawer__inner">
@@ -632,7 +632,7 @@
 
               <div class="collection__filter-group">
                 <button class="collection__filter-group-name text--strong" aria-expanded="false" aria-controls="{{ link_id }}" data-action="toggle-collapsible" data-close-siblings="false">
-                  {{- 'collection.filter.select_category' | t -}}
+                  Select Category
                   {%- render 'icon', icon: 'arrow-bottom' -%}
                 </button>
 
@@ -685,7 +685,7 @@
             {%- endif -%}
 
             {%- if has_visible_tags -%}
-              <p class="collection-drawer__section-title">{{ 'collection.filter.all' | t }}</p>
+              <p class="collection-drawer__section-title">All</p>
 
               {%- if section.settings.filter_type == 'tag' -%}
                 <div class="collection__filter-group">
@@ -836,7 +836,7 @@
           </div>
 
           <div class="collection-drawer__footer">
-            <button class="button button--primary button--small button--full" data-action="close-drawer">{{ 'collection.filter.view_results' | t }}</button>
+            <button class="button button--primary button--small button--full" data-action="close-drawer">View Results</button>
           </div>
         </div>
       </div>

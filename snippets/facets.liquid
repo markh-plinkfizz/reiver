@@ -43,7 +43,7 @@
               {% case filter.type %}
               {% when 'boolean' or 'list' %}
 
-              <!-- copied/moved code -matt -->
+              <!-- copied/moved code -matt
               <div class="facets-brands-container">
                 <ul class="facets__list list-unstyled" role="list">
                   {%- for value in filter.values -%}
@@ -80,9 +80,9 @@
                     </li>
                   {%- endfor -%}
                 </ul>
-              </div>              
-              <!-- end copied/moved code -->
-              <!--
+              </div>
+              end copied/moved code -->
+              
                 <details id="Details-{{ forloop.index }}-{{ section.id }}" class="disclosure-has-popup facets__disclosure js-filter" data-index="{{ forloop.index }}">
                   <summary class="facets__summary caption-large focus-offset">
                     <div>
@@ -137,7 +137,7 @@
                     </ul>
                   </div>
                 </details>
-              -->
+
               {% when 'price_range' %}
                 {% liquid
                   assign currencies_using_comma_decimals = 'ANG,ARS,BRL,BYN,BYR,CLF,CLP,COP,CRC,CZK,DKK,EUR,HRK,HUF,IDR,ISK,MZN,NOK,PLN,RON,RUB,SEK,TRY,UYU,VES,VND' | split: ','

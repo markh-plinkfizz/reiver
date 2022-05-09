@@ -20,6 +20,11 @@
     align-items: center;
     justify-content: space-between;
 }
+.breadcrumb__list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
 
 .checkbox-wrapper svg {
     position: absolute;

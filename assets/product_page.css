@@ -19,6 +19,10 @@
   margin-bottom: 70px;
 }
 
+.layout__section {
+  margin-bottom: 18px;
+}
+
 .checkbox-wrapper svg {
   position: absolute;
   width: 12px;
@@ -55,11 +59,26 @@
   .layout {
     margin-bottom: 100px;
   }
-}
+}/* min-width 641 end */
 @media screen and (min-width: 1000px){
   .layout {
     display: flex;
     margin-left: -15px;
     margin-right: -15px;
   }
-}
+  .layout__section {
+    margin: 0 15px;
+    flex-grow: 1;
+    flex-shrink: 0;	
+    flex-basis: 0;
+  }
+  .layout__section--secondary {
+    flex: none;
+    width: 260px;
+  }
+}/* min-width 1000 end */
+@media screen and (min-width: 1280px){
+  .layout__section--secondary {
+    width: 288px;
+  }
+}/* min-width 1280 end */

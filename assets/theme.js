@@ -12974,9 +12974,6 @@
         document.querySelector("[data-action=\"open-value-picker\"][aria-controls=\"".concat(this.id, "\"]")).setAttribute('aria-expanded', 'false');
         document.getElementById(this.id).setAttribute('aria-hidden', 'true'); // This is quite ugly, but in order to avoid an issue with the header that has a higher z-index, we have to temporarily reduce
         // it while we have the element open
-
-        var headerElement = document.querySelector('.shopify-section__header');
-        headerElement.style.zIndex = '';
         this.isOpen = false;
         document.body.classList.remove('no-mobile-scroll');
       }

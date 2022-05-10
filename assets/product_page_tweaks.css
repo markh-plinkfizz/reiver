@@ -84,7 +84,7 @@ span.price--compare{
 }
 
 button--primary:hover {
-  background: rgba(0, 83, 119,.8);
+  background: rgba(0, 83, 119,.8) !important;
 }
 
 @media screen and (min-width: 641px){

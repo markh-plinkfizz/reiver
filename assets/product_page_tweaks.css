@@ -124,6 +124,6 @@ span.price--compare{
 
 h3 span{
   color: #005377 !important;
-  font-size: 18px;
+  font-size: 18px !important;
   
 }

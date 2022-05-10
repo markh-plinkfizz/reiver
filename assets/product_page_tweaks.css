@@ -131,13 +131,13 @@ h3 span{
   position: absolute;
   content: "";
   left: -18px;
-  top: 0.8em;
+  top: 16px;
   height: 5px;
   width: 5px;
   border-radius: 100%;
   background: rgba(0,0,0,.4);
 }
 
-.card__section li span{
-  line-height: 4px;
+.card__section li{
+  line-height: 28px;
 }

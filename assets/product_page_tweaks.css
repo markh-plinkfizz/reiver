@@ -5,8 +5,8 @@
 }
 
 .header__icon .icon {
-    height: 2rem;
-    width: 2rem;
+    height: 2rem !important;
+    width: 2rem !important;
     fill: none;
     vertical-align: middle;
     color: #f0f0f0;

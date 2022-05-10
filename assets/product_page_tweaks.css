@@ -124,6 +124,9 @@ span.price--compare{
 
 h3 span{
   color: #005377 !important;
-  font-size: 18px !important;
-  
+  font-size: 18px !important; 
+}
+
+card__section li{
+  list-style: inside !important; 
 }

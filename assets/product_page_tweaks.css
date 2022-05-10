@@ -83,7 +83,7 @@ span.price--compare{
   border: none;
 }
 
-button--primary:hover {
+.button--primary:hover {
   background: rgba(0, 83, 119,.8) !important;
 }
 

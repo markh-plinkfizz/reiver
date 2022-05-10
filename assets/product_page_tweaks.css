@@ -137,3 +137,7 @@ h3 span{
   border-radius: 100%;
   background: rgba(0,0,0,.4);
 }
+
+.card__section li span{
+  line-height: 4px;
+}

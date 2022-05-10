@@ -73,7 +73,8 @@ span.price--compare{
   color: #005377 !important;
   background: #ffffff !important;
   font-size: 14px;
-  padding: 10px 5px;
+  min-width: 12rem;
+  min-height: 5rem;
 }
 
 @media screen and (min-width: 641px){

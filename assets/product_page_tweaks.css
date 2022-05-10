@@ -13,6 +13,21 @@ header{
   height: 44px !important;
   width: 44px !important;
 }
+.cart-count-bubble {
+    position: absolute;
+    background-color: rgb(var(--color-button));
+    color: rgb(var(--color-button-text));
+    height: 1.7rem;
+    width: 1.7rem;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .9rem;
+    bottom: 0.8rem;
+    right: 24px;
+    line-height: calc(1 + .1 / var(--font-body-scale));
+}
 
 .list-menu li, .list-menu li a{
  line-height: 3px; 

@@ -4,7 +4,7 @@
 	text-decoration: none;
 }
 
-span, p, a, label{
+.container span, .container p, .container a, .container label{
 	font-size: 14px;
   color: #000000;
 }

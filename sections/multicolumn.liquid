@@ -21,6 +21,12 @@
     }
   {% endif %}
 
+  {% if section.settings.object-fit-contain %}
+    .section-{{ section.id }}-container img{
+      object-fit: contain;
+    }
+  {% endif %}
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;

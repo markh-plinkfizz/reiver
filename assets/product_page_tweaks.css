@@ -2,6 +2,11 @@
   z-index: 2;
 }
 
+.collection__layout-button.is-selected {
+    opacity: 1;
+    color: #005377;
+}
+
 .breadcrumb__link{
 	font-size: 14px !important;
   	color: black;

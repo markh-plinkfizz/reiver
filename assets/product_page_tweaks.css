@@ -53,6 +53,10 @@ span.price--compare{
   color: #000000 !important;
 }
 
+.product-label--on-sale {
+    background: #ee0000 !important;
+    color: #ffffff !important;
+}
 
 .value-picker__choice-item {
   display: block;

@@ -150,6 +150,10 @@ span.price--compare{
   transition: color .2s ease-in-out; 
 }
 
+.quantity-selector--product {
+  height: 36px;
+}
+
 @media screen and (min-width: 1000px){
   .card--sticky {
 	position: -webkit-sticky;

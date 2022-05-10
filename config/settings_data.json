@@ -96,6 +96,12 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
+    "show_vendor": true,
+    "show_secondary_image": true,
+    "discount_mode": "percentage",
+    "product_image_size": "square",
+    "show_color_swatch": true,
+    "low_inventory_threshold": 2,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

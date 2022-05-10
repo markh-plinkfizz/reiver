@@ -19,6 +19,10 @@
   color: #005377 !important;
 }
 
+.product-item__vendor{
+  text-decoration: none
+}
+
 
 .value-picker__choice-item {
   display: block;

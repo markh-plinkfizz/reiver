@@ -18,3 +18,21 @@
  font-size: 20px;
   color: #005377;
 }
+
+
+.value-picker__choice-item {
+  display: block;
+  position: relative;
+  width: 100%;
+  text-align: left;
+  padding: 8px 50px 7px 20px;
+}
+
+@media screen and (min-width: 641px){
+  .value-picker__choice-item {
+    display: block;
+    padding: 2px 25px;
+    cursor: pointer;
+    transition: color .15s ease-in-out,background .15s ease-in-out;
+  }
+}

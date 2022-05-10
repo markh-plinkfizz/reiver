@@ -4,6 +4,14 @@
     font-weight: bold;
 }
 
+.header__icon .icon {
+    height: 2rem;
+    width: 2rem;
+    fill: none;
+    vertical-align: middle;
+    color: #f0f0f0;
+}
+
 .collection__toolbar {
   z-index: 2;
 }

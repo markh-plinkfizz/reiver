@@ -24,8 +24,8 @@ header{
     justify-content: center;
     align-items: center;
     font-size: 9px;
-    bottom: 8pxrem;
-    right: 24px;
+    bottom: 8px;
+    right: 38px;
     line-height: calc(1 + .1 / var(--font-body-scale));
 }
 

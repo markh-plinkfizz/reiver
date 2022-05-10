@@ -149,3 +149,12 @@ span.price--compare{
   color: #005377;
   transition: color .2s ease-in-out; 
 }
+
+@media screen and (min-width: 1000px){
+  .card--sticky {
+	position: -webkit-sticky;
+    position: sticky;
+    top: 40px;
+    margin-bottom: 0;
+  }
+}

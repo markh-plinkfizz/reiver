@@ -13664,8 +13664,6 @@
         }
 
         var newLayoutMode = target.getAttribute('data-layout-mode'); // We save the new attribute so that we can select the appropriate mode without causing reflow
-
-        alert(window.routes);
         
         fetch("".concat(window.routes.cartUrl, "/update.js"), {
           body: JSON.stringify({

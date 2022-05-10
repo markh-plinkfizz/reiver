@@ -122,7 +122,7 @@ span.price--compare{
   text-decoration: none;
 }
 
-h3{
+h3 span{
   color: #005377 !important;
   font-size: 18px;
   

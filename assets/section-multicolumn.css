@@ -236,8 +236,11 @@
 }
 
 @media screen and (min-width: 750px) {
-  .multicolumn-card__image-wrapper:hover .multicolumn-inner-text{
+  .multicolumn-inner-text{
     display: none;
+  }
+  .multicolumn-card__image-wrapper:hover .multicolumn-inner-text{
+    display: block;
     position: absolute;
     text-align: left;
     top: 0;

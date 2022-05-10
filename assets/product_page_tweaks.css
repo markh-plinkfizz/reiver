@@ -110,5 +110,6 @@ span.price--compare{
 
 .product-meta__vendor{
   font-size: 14px;
-  color: #005377;
+  color: #005377 !important;
+  text-decoration: none;
 }

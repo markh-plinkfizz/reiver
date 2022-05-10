@@ -19,6 +19,59 @@
 <link rel="stylesheet" href="{{ 'base.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'product_page_tweaks.css' | asset_url }}" media="print" onload="this.media='all'">
 
+<script>
+      // This allows to expose several variables to the global scope, to be used in scripts
+      window.theme = {
+        pageType: "collection",
+        cartCount: 0,
+        moneyFormat: "£{{amount}}",
+        moneyWithCurrencyFormat: "£{{amount}} GBP",
+        showDiscount: true,
+        discountMode: "percentage",
+        searchMode: "product,article,page",
+        searchUnavailableProducts: "show",
+        cartType: "drawer"
+      };
+
+      window.routes = {
+        rootUrl: "\/",
+        rootUrlWithoutSlash: '',
+        cartUrl: "\/cart",
+        cartAddUrl: "\/cart\/add",
+        cartChangeUrl: "\/cart\/change",
+        searchUrl: "\/search",
+        productRecommendationsUrl: "\/recommendations\/products"
+      };
+
+      window.languages = {
+        productRegularPrice: "Regular price",
+        productSalePrice: "Sale price",
+        collectionOnSaleLabel: "Save {{savings}}",
+        productFormUnavailable: "Unavailable",
+        productFormAddToCart: "Add to cart",
+        productFormSoldOut: "Sold out",
+        productAdded: "Product has been added to your cart",
+        productAddedShort: "Added!",
+        shippingEstimatorNoResults: "No shipping could be found for your address.",
+        shippingEstimatorOneResult: "There is one shipping rate for your address:",
+        shippingEstimatorMultipleResults: "There are {{count}} shipping rates for your address:",
+        shippingEstimatorErrors: "There are some errors:"
+      };
+
+      window.lazySizesConfig = {
+        loadHidden: false,
+        hFac: 0.8,
+        expFactor: 3,
+        customMedia: {
+          '--phone': '(max-width: 640px)',
+          '--tablet': '(min-width: 641px) and (max-width: 1023px)',
+          '--lap': '(min-width: 1024px)'
+        }
+      };
+
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    </script>
+
 {%- capture section_settings -%}
 {
   "showShippingEstimator": {% if template == 'product.quick-view' or product.available == false %}false{% else %}{{ section.settings.show_shipping_estimator | json }}{% endif %},

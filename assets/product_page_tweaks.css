@@ -1,3 +1,7 @@
+.collection__toolbar {
+  z-index: 2;
+}
+
 .breadcrumb__link{
 	font-size: 14px !important;
   	color: black;
@@ -21,6 +25,9 @@
 
 .product-item__vendor{
   text-decoration: none
+}
+.product-item__vendor:hover{
+  color: #005377;
 }
 
 

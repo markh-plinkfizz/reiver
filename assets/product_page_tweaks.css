@@ -141,3 +141,9 @@ h3 span{
 .card__section li{
   line-height: 28px;
 }
+
+.shopify-payment-button__more-options{
+  margin-top: 8px;
+  color: #005377;
+  transition: color .2s ease-in-out; 
+}

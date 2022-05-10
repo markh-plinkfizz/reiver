@@ -72,7 +72,7 @@ span.price--compare{
 .product-item__action-button--list-view-only{
   color: #005377 !important;
   background: #ffffff !important;
-  
+  font-size: 14px;
 }
 
 @media screen and (min-width: 641px){

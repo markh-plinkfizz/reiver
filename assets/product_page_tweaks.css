@@ -140,6 +140,7 @@ span.price--compare{
 
 .card__section li{
   line-height: 28px;
+  font-size: 14px;
 }
 
 .shopify-payment-button__more-options{

@@ -60,7 +60,8 @@
       ],
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "heading": ""
       }
     },
     "16517579511a82f81f": {
@@ -90,7 +91,8 @@
       ],
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "heading": ""
       }
     },
     "16517579771c3e284e": {
@@ -98,6 +100,7 @@
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
+        "heading": "",
         "text": "<p>We understand that all our customers will have unique requirements, which is why Reiver Fitness is committed to work with our partners to build financial solutions to suit you. <br\/><br\/>If you have any questions about our finance solutions or the benefits of finance, please contact us. We're always happy to help. <\/p>",
         "text_background_color": "",
         "right-image": "shopify:\/\/shop_images\/shutterstock_1644136534.jpg",
@@ -108,17 +111,20 @@
       "type": "general-content-text-text",
       "settings": {
         "padding_top": 0,
-        "padding_bottom": 20
+        "padding_bottom": 20,
+        "heading": ""
       }
     },
     "165157547736e6c942": {
       "type": "general-content-end",
       "blocks": {
-        "165157547668ea8b61-0": {
-          "type": "heading",
+        "165157547668ea8b61-3": {
+          "type": "image",
           "settings": {
-            "heading": "REIVER",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/Reiver-01.png",
+            "image_align": "center",
+            "image_width": 160,
+            "image_height": 50
           }
         },
         "165157547668ea8b61-2": {
@@ -128,20 +134,11 @@
             "button_link": "shopify:\/\/pages\/contact-us",
             "button_style_secondary": false
           }
-        },
-        "165157547668ea8b61-3": {
-          "type": "image",
-          "settings": {
-            "image_align": "center",
-            "image_width": 100,
-            "image_height": 100
-          }
         }
       },
       "block_order": [
-        "165157547668ea8b61-0",
-        "165157547668ea8b61-2",
-        "165157547668ea8b61-3"
+        "165157547668ea8b61-3",
+        "165157547668ea8b61-2"
       ],
       "settings": {
         "padding_top": 300,

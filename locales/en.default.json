@@ -104,6 +104,49 @@
       "added_short": "Added!"
     }
   },
+  "cart": {
+    "general": {
+      "title": "My cart",
+      "empty": "Your cart is empty",
+      "empty_button": "Shop our products",
+      "search": "Search...",
+      "view_cart": "View cart",
+      "note_title": "Order instructions",
+      "edit_note": "Edit",
+      "save_note": "Save",
+      "secure_payments": "100% Secure Payments",
+      "free_shipping": "You are eligible for free shipping!",
+      "free_shipping_remaining_html": "Spend {{remaining_amount}} more and get free shipping!",
+      "amount_saved_html": "You saved {{amount_saved}}!",
+      "free": "Free!",
+      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
+      "taxes_included_but_shipping_at_checkout": "Tax included. Shipping calculated at checkout",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout",
+      "total": "Total",
+      "checkout": "Checkout"
+    },
+    "items": {
+      "decrease_quantity": "Decrease quantity by 1",
+      "increase_quantity": "Increase quantity by 1",
+      "no_more_stock": "No more stock",
+      "remove": "Remove"
+    },
+    "gift_wrap": {
+      "price_html": "Only {{price}}"
+    },
+    "shipping_estimator": {
+      "title": "Estimate shipping",
+      "country": "Country",
+      "province": "Province",
+      "zip_code": "Zip code",
+      "estimate": "Estimate",
+      "no_results_title": "No shipping could be found for your address.",
+      "one_result_title": "There is one shipping rate for your address:",
+      "multiple_results_title": "There are {{count}} shipping rates for your address:",
+      "errors": "There are some errors:"
+    }
+  },
   "collection": {
     "general": {
       "all_collections": "All collections",

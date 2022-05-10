@@ -1,3 +1,7 @@
 span, p, a, label{
 	font-size: 12px;
 }
+
+.card__title--small{
+ font-size: 16px; 
+}

@@ -30,6 +30,12 @@
   color: #005377;
 }
 
+.product-item__title{
+ text-decoration: none;
+  font-size: 14px;
+  color: #005377;
+}
+
 
 .value-picker__choice-item {
   display: block;

@@ -116,7 +116,8 @@ span.price--compare{
 }
 
 .product-form__info-title{
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: bolder;
   color: #005377 !important;
   text-decoration: none;
 }

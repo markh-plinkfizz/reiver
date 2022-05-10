@@ -29,8 +29,12 @@ header{
     line-height: calc(1 + .1 / var(--font-body-scale));
 }
 
+.header__inline-menu{
+ padding-bottom: 10px; 
+}
+
 .list-menu li, .list-menu li a{
- line-height: 3px; 
+ line-height: 4px; 
 }
 .list-menu li span {
     font-size: 12px;

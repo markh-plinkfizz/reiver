@@ -47,6 +47,7 @@
       "settings": {
         "padding_top": 50,
         "padding_bottom": 20,
+        "heading": "",
         "text": "<p>Genesis Coordination has provided commercial gym space solutions for over 10 years. Professional athletes and international sports people have trusted us for a decade to create the perfect training space for them. We can do the same for you. <\/p>",
         "text_background_color": "",
         "right-image": "shopify:\/\/shop_images\/shutterstock_1979399324.jpg",
@@ -71,6 +72,7 @@
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
+        "heading": "",
         "text": "<p>With your budget and business plan in mind, Genesis will negotiate lease terms aligned to your business strategy. Coupled with expert advice from Reiver Fitness, you can be confident that your best interests are at the heart of every plan. Our turn-key solution will guide you through the entire process of opening a commercial gym space. <\/p>",
         "text_background_color": "",
         "right-image": "shopify:\/\/shop_images\/shutterstock_599911829.jpg",
@@ -91,6 +93,7 @@
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
+        "heading": "",
         "text": "<p>Better yet, having an experienced property lawyer represent you pays dividends in delivery timelines. It also helps with landlord and tenant responsibilities. Reiver Fitness can help by introducing you to experienced property solicitors with your best interests in mind. <\/p>",
         "text_background_color": "#f3f3f3",
         "right-image": "shopify:\/\/shop_images\/shutterstock_1911831412_d5d1f343-9ea1-4bc5-90c9-9c36a72dcccf.jpg",
@@ -100,11 +103,13 @@
     "1651576627327b90e5": {
       "type": "general-content-end",
       "blocks": {
-        "1651576627129f8393-0": {
-          "type": "heading",
+        "68ad61f9-a136-4317-86f2-0cbb16db9aa7": {
+          "type": "image",
           "settings": {
-            "heading": "REIVER",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/Reiver-01.png",
+            "image_align": "center",
+            "image_width": 160,
+            "image_height": 50
           }
         },
         "1651576627129f8393-1": {
@@ -123,7 +128,7 @@
         }
       },
       "block_order": [
-        "1651576627129f8393-0",
+        "68ad61f9-a136-4317-86f2-0cbb16db9aa7",
         "1651576627129f8393-1",
         "90590c24-4128-4308-b555-8f700ff159ef"
       ],

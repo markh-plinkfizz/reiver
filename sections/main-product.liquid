@@ -1,3 +1,21 @@
+<script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
+<link rel="stylesheet" href="{{ 'product_page.css' | asset_url }}" media="print" onload="this.media='all'">
+<style>
+  :root {    
+    --border-color             : #e7e2de;
+    --border-color-rgb         : 231, 226, 222;
+    --form-border-color        : #dcd5cf;
+    
+    --secondary-background: #ffffff;
+    --secondary-background-rgb: 255, 255, 255;
+    --accent-color: #005377;
+    --accent-color-rgb: 0, 83, 119;
+
+    --mobile-container-gutter : 20px;
+    --desktop-container-gutter: 40px;
+  }
+</style>
+
 {%- capture section_settings -%}
 {
   "showShippingEstimator": {% if template == 'product.quick-view' or product.available == false %}false{% else %}{{ section.settings.show_shipping_estimator | json }}{% endif %},

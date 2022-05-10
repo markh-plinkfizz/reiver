@@ -1148,41 +1148,6 @@ html {
   /* This can be applied to pull up the text and remove the effect of line-height to preserve better spacing */
 }
 
-/**
- * --------------------------------------------------------------------
- * LINKS
- * --------------------------------------------------------------------
- */
-
-.link {
-  transition: color 0.2s ease-in-out;
-}
-
-.link:hover,
-.link:focus {
-  color: var(--accent-color);
-}
-
-.link--secondary:hover,
-.link--secondary:focus {
-  color: var(--heading-color);
-}
-
-.link--strong {
-  font-weight: var(--heading-font-weight);
-}
-
-.link--accented {
-  color: var(--accent-color);
-}
-
-.link--accented:hover {
-  text-decoration: underline;
-}
-
-.link--underline {
-  text-decoration: underline;
-}
 
 /**
  * --------------------------------------------------------------------
@@ -12252,37 +12217,6 @@ select option {
   transform: translateX(0);
 }
 
-/**
- * --------------------------------------------------------------------
- * SEARCH RESULTS
- * --------------------------------------------------------------------
- */
-
-.link-search-results:not(:only-child) {
-  margin-top: 40px;
-}
-
-.link-search-results__list {
-  list-style: none;
-}
-
-.link-search-results__link {
-  display: block;
-  padding: 8px 20px;
-  transition: color 0.15s ease-in-out, background 0.15s ease-in-out;
-}
-
-.link-search-results__link:hover, .link-search-results__link:focus {
-  background: var(--accent-background);
-  color: var(--accent-color);
-  outline: none;
-}
-
-@media screen and (min-width: 641px) {
-  .link-search-results:not(:only-child) {
-    margin-top: 60px;
-  }
-}
 /**
  * --------------------------------------------------------------------
  * EXPANDABLE CONTENT

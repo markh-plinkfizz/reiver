@@ -1,3 +1,6 @@
+.list-menu li{
+ line-height: 2px; 
+}
 .list-menu li span {
     font-size: 12px;
     letter-spacing: 2px;

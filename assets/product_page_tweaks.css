@@ -5,6 +5,11 @@ header{
  height: 44px;
   width: 44px;
 }
+.icon-search{
+ height: 20px;
+  width: 20px;
+}
+
 .list-menu li, .list-menu li a{
  line-height: 3px; 
 }

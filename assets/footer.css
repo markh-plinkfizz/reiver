@@ -56,19 +56,3 @@ footer p{
 .footer-social-icon .fa-brands{
   font-size: 12px;
 }
-
-@media screen and (min-width: 750px) {
-  .footer-logo{
-    margin-top: 230px;
-    margin-bottom: 100px;
-  }
-  .footer-contact-paragraph{
-    margin-bottom: 60px;
-  }
-  .footer-second-paragraph{
-    margin-bottom: 60px;
-  }
-  .footer-social-links-container{
-    margin-bottom: 200px;
-  }
-}

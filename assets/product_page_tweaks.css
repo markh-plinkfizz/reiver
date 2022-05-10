@@ -77,6 +77,12 @@ span.price--compare{
   min-height: 3rem;
 }
 
+.button--primary{
+  color: #ffffff !important;
+  background: #005377 !important;
+  border: none;
+}
+
 @media screen and (min-width: 641px){
   .value-picker__choice-item {
     display: block;

@@ -143,6 +143,7 @@ h3 span{
 }
 
 .shopify-payment-button__more-options{
+  font-size: 12px;
   margin-top: 8px;
   color: #005377;
   transition: color .2s ease-in-out; 

@@ -69,7 +69,7 @@ span.price--compare{
   font-size: 14px;
 }
 
-.product-item__action-button--list-view-only{
+.product-item__action-button--list-view-only, .product-form__add-button{
   color: #005377 !important;
   background: #ffffff !important;
   font-size: 14px;

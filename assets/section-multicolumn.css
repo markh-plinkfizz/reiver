@@ -228,6 +228,7 @@
 }
 
 .multicolumn-card__image-wrapper{
+  height: 100%;
   position: relative;
 }
 

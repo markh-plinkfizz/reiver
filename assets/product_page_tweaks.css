@@ -11,12 +11,12 @@
 
 .card__title--small{
  font-size: 18px;
-  color: #005377;
+  color: #005377 !important;
 }
 
 .collection__title{
  font-size: 20px;
-  color: #005377;
+  color: #005377 !important;
 }
 
 

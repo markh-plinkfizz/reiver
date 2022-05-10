@@ -54,6 +54,56 @@
       "previous_slide": "Slide left"
     }
   },
+  "product": {
+    "general": {
+      "previous_product": "Prev",
+      "next_product": "Next",
+      "description": "Description",
+      "sku": "SKU: ",
+      "share": "Share this product",
+      "reviews": "Reviews",
+      "regular_price": "Regular price",
+      "sale_price": "Sale price",
+      "zoom": "Roll over image to zoom in",
+      "zoom_mobile": "Click on image to zoom",
+      "view_in_space": "View in your space",
+      "view_more": "View more",
+      "view_less": "View less",
+      "payment": "Payment methods",
+      "security": "Security",
+      "payment_notice": "Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.",
+      "estimate_shipping": "Estimate shipping",
+      "refund_policy": "Refund Policy",
+      "include_taxes": "Tax included",
+      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link link--accented\">Shipping calculated<\/a> at checkout"
+    },
+    "labels": {
+      "sold_out": "Sold out"
+    },
+    "form": {
+      "variant": "Variant",
+      "price": "Price",
+      "inventory": "Stock",
+      "quantity": "Quantity",
+      "in_stock": "In stock",
+      "oversell_stock": "Re-stocking soon",
+      "low_stock_with_quantity_count": {
+        "one": "Only {{count}} unit left",
+        "other": "Only {{count}} units left"
+      },
+      "in_stock_with_quantity_count": {
+        "one": "In stock ({{count}} unit), ready to be shipped",
+        "other": "In stock ({{count}} units), ready to be shipped"
+      },
+      "add_to_cart": "Add to cart",
+      "sold_out": "Sold out",
+      "pre_order": "Pre-order",
+      "unavailable": "Unavailable",
+      "contact_us": "Contact us",
+      "added": "Product has been added to your cart",
+      "added_short": "Added!"
+    }
+  },
   "collection": {
     "general": {
       "all_collections": "All collections",

@@ -6,6 +6,7 @@
 
 span, p, a, label{
 	font-size: 12px;
+  color: #000000;
 }
 
 .card__title--small{

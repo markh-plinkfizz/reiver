@@ -43,6 +43,10 @@ span.price{
 span.price--highlight{
   color: #ee0000  !important;
 }
+span.price--compare{
+  font-size: 14px !important;
+  color: #000000 !important;
+}
 
 
 .value-picker__choice-item {

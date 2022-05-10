@@ -235,15 +235,9 @@
   background: #000000;
 }
 
-
-@media screen and (max-width: 749px) {
-  .multicolumn-inner-text{
-    display: block;
-  }
-}
-
 @media screen and (min-width: 750px) {
   .multicolumn-card__image-wrapper:hover .multicolumn-inner-text{
+    display: none;
     position: absolute;
     text-align: left;
     top: 0;

@@ -1,3 +1,9 @@
+.list-menu li span {
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
 .collection__toolbar {
   z-index: 2;
 }

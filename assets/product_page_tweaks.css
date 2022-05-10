@@ -83,6 +83,10 @@ span.price--compare{
   border: none;
 }
 
+button--primary:hover {
+  background: rgba(0, 83, 119,.8);
+}
+
 @media screen and (min-width: 641px){
   .value-picker__choice-item {
     display: block;

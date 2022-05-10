@@ -9,10 +9,6 @@ header{
  height: 20px !important;
   width: 20px !important;
 }
-.header__icon--cart{
-  height: 44px !important;
-  width: 44px !important;
-}
 
 .list-menu li, .list-menu li a{
  line-height: 3px; 

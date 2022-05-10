@@ -17,14 +17,14 @@ header{
     position: absolute;
     background-color: rgb(var(--color-button));
     color: rgb(var(--color-button-text));
-    height: 1.7rem;
-    width: 1.7rem;
+    height: 17px;
+    width: 17px;
     border-radius: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: .9rem;
-    bottom: 0.8rem;
+    font-size: 9px;
+    bottom: 8pxrem;
     right: 24px;
     line-height: calc(1 + .1 / var(--font-body-scale));
 }

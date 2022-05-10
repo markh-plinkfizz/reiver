@@ -6,8 +6,8 @@ header{
   width: 44px;
 }
 .icon-search{
- height: 20px;
-  width: 20px;
+ height: 20px !important;
+  width: 20px !important;
 }
 
 .list-menu li, .list-menu li a{

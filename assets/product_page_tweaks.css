@@ -3,5 +3,6 @@ span, p, a, label{
 }
 
 .card__title--small{
- font-size: 16px; 
+ font-size: 16px;
+  color: #005377;
 }

@@ -16,6 +16,7 @@
 .container span, .container p, .container a, .container label{
 	font-size: 14px;
   color: #000000;
+  line-height: 5px;
 }
 
 .card__title--small{

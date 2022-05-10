@@ -235,6 +235,7 @@
 .multicolumn-inner-text{
   background: #000000;
   height: 100%;
+  color: #ffffff;
 }
 
 @media screen and (max-width: 749px) {

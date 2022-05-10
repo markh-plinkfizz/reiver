@@ -175,7 +175,7 @@
       {%- endcapture -%}
 
       {%- capture vendor -%}
-        {%- if settings.show_vendor -%}
+        
           {%- assign vendor_handle = product.vendor | handle -%}
           {%- assign collection_for_vendor = collections[vendor_handle] -%}
 
@@ -184,7 +184,7 @@
           {%- else -%}
             <a class="product-item__vendor link" href="{{ product.vendor | url_for_vendor }}">{{ product.vendor }}</a>
           {%- endunless -%}
-        {%- endif -%}
+        
       {%- endcapture -%}
 
       {%- if settings.product_price_position == 'before_title' -%}

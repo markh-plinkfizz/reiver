@@ -1,6 +1,10 @@
 header{
  padding-top: 0; 
 }
+.header__icon{
+ height: 44px;
+  width: 44px;
+}
 .list-menu li, .list-menu li a{
  line-height: 3px; 
 }

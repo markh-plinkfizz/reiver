@@ -47,6 +47,7 @@
       "settings": {
         "padding_top": 50,
         "padding_bottom": 20,
+        "heading": "",
         "text": "<p>Whether you're looking to refit and refresh your gym, or even create a new space from the ground up, Reiver Fitness can help you. Using our experience and skills with a little help from the latest design software, it's our mission to bring your vision to life.<\/p>",
         "text_background_color": "",
         "right-image": "shopify:\/\/shop_images\/shutterstock_355191470-_1.jpg",
@@ -71,6 +72,7 @@
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
+        "heading": "",
         "text": "<p>Reiver Fitness offers a comprehensive gym design and fitout service. We work with experienced architects, interior designers, and reliable building and fitout contractors, bringing dream gym spaces to life. Our team of fitness experts will turn your vision into reality.<\/p>",
         "text_background_color": "",
         "right-image": "shopify:\/\/shop_images\/shutterstock_1644136534.jpg",
@@ -91,6 +93,7 @@
       "settings": {
         "padding_top": 20,
         "padding_bottom": 20,
+        "heading": "",
         "text": "<p>Our contractors have completed projects for many businesses, including Pure Gym and Nuffield Health. We’ve also worked with SC Johnson, Accenture, Matrix Fitness, EasyGym, and Staffordshire University. Our next project starts with you. <\/p>",
         "text_background_color": "",
         "right-image": "shopify:\/\/shop_images\/shutterstock_2127964577.jpg",
@@ -100,11 +103,13 @@
     "1651573846c4021062": {
       "type": "general-content-end",
       "blocks": {
-        "1651573846b656ce0e-0": {
-          "type": "heading",
+        "1651573846b656ce0e-3": {
+          "type": "image",
           "settings": {
-            "heading": "REIVER",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/Reiver-01.png",
+            "image_align": "center",
+            "image_width": 160,
+            "image_height": 50
           }
         },
         "1651573846b656ce0e-2": {
@@ -114,20 +119,11 @@
             "button_link": "shopify:\/\/pages\/contact-us",
             "button_style_secondary": false
           }
-        },
-        "1651573846b656ce0e-3": {
-          "type": "image",
-          "settings": {
-            "image_align": "center",
-            "image_width": 100,
-            "image_height": 100
-          }
         }
       },
       "block_order": [
-        "1651573846b656ce0e-0",
-        "1651573846b656ce0e-2",
-        "1651573846b656ce0e-3"
+        "1651573846b656ce0e-3",
+        "1651573846b656ce0e-2"
       ],
       "settings": {
         "padding_top": 300,

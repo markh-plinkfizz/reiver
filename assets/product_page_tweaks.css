@@ -12,3 +12,8 @@ span, p, a, label{
  font-size: 16px;
   color: #005377;
 }
+
+.collection__title{
+ font-size: 18px;
+  color: #005377;
+}

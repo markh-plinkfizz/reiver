@@ -100,3 +100,10 @@ span.price--compare{
     transition: color .15s ease-in-out,background .15s ease-in-out;
   }
 }
+
+
+/* individual products page */
+.product-meta__title{
+  font-size: 24px;
+  color: #005377;
+}
